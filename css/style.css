@@ -1,0 +1,163 @@
+@font-face {
+	font-family: 'iconos-ead';
+	src:url('fonts/iconos-ead.eot');
+	src:url('fonts/iconos-ead.eot?#iefix') format('embedded-opentype'),
+		url('fonts/iconos-ead.ttf') format('truetype'),
+		url('fonts/iconos-ead.woff') format('woff'),
+		url('fonts/iconos-ead.svg#iconos-ead') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icono-"], [class*=" icono-"] {
+	font-family: 'iconos-ead';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icono-perfil:before {
+	content: "\61";
+}
+.icono-tiempo:before {
+	content: "\62";
+}
+.icono-engranaje:before {
+	content: "\63";
+}
+.icono-impresora:before {
+	content: "\64";
+}
+.icono-seccion:before {
+	content: "\65";
+}
+.icono-lupa:before {
+	content: "\66";
+}
+.icono-calendario:before {
+	content: "\67";
+}
+.icono-corchetes:before {
+	content: "\7b";
+}
+.icono-refrescar:before {
+	content: "\69";
+}
+.icono-viñeta:before {
+	content: "\6a";
+}
+.icono-acto:before {
+	content: "\6b";
+}
+.icono-hedera-1:before {
+	content: "\6c";
+}
+.icono-hedera-2:before {
+	content: "\6d";
+}
+.icono-ese:before {
+	content: "\6e";
+}
+.icono-estrella:before {
+	content: "\6f";
+}
+.icono-marcador:before {
+	content: "\70";
+}
+.icono-parrafo:before {
+	content: "\71";
+}
+.icono-mapa-agregar:before {
+	content: "\72";
+}
+.icono-compartir:before {
+	content: "\73";
+}
+.icono-email:before {
+	content: "\74";
+}
+.icono-orden-vertical:before {
+	content: "\75";
+}
+.icono-orden-horizontal:before {
+	content: "\76";
+}
+.icono-siguiente:before {
+	content: "\3e";
+}
+.icono-enlace:before {
+	content: "\79";
+}
+.icono-ingresar:before {
+	content: "\33";
+}
+.icono-flecha:before {
+	content: "\7a";
+}
+.icono-cruz:before {
+	content: "\30";
+}
+.icono-grafico:before {
+	content: "\31";
+}
+.icono-equis:before {
+	content: "\78";
+}
+.icono-refrescar-2:before {
+	content: "\36";
+}
+.icono-salir:before {
+	content: "\34";
+}
+.icono-travesias:before {
+	content: "\35";
+}
+.icono-descargar:before {
+	content: "\32";
+}
+.icono-documento:before {
+	content: "\37";
+}
+.icono-rss:before {
+	content: "\38";
+}
+.icono-advertencia:before {
+	content: "\21";
+}
+.icono-asterisco:before {
+	content: "\2a";
+}
+.icono-visto:before {
+	content: "\39";
+}
+.icono-reloj:before {
+	content: "\68";
+}
+.icono-mapa-10:before {
+	content: "\77";
+}
+.icono-lupa-alejar:before {
+	content: "\22";
+}
+.icono-lupa-acercar:before {
+	content: "\b7";
+}
+.icono-lapiz:before {
+	content: "\2f";
+}
+.icono-previo:before {
+	content: "\3c";
+}
+.icono-candado-cerrado:before {
+	content: "\28";
+}
+.icono-candado-abierto:before {
+	content: "\29";
+}
