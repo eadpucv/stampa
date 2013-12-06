@@ -1,16 +1,16 @@
 @font-face {
-	font-family: 'iconos-ead';
-	src:url('fonts/iconos-ead.eot');
-	src:url('fonts/iconos-ead.eot?#iefix') format('embedded-opentype'),
-		url('fonts/iconos-ead.ttf') format('truetype'),
-		url('fonts/iconos-ead.woff') format('woff'),
-		url('fonts/iconos-ead.svg#iconos-ead') format('svg');
+	font-family: 'eadiconos';
+	src:url('../fonts/eadiconos.eot');
+	src:url('../fonts/eadiconos.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/eadiconos.ttf') format('truetype'),
+		url('../fonts/eadiconos.woff') format('woff'),
+		url('../fonts/eadiconos.svg#eadiconos') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
-[class^="icono-"], [class*=" icono-"] {
-	font-family: 'iconos-ead';
+[class^="fa-"], [class*=" fa-"] {
+	font-family: 'eadiconos';
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -23,141 +23,135 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icono-perfil:before {
-	content: "\61";
+.fa-rss:before {
+	content: "\e600";
 }
-.icono-tiempo:before {
-	content: "\62";
+.fa-marcador:before {
+	content: "\e601";
 }
-.icono-engranaje:before {
-	content: "\63";
+.fa-lapiz:before {
+	content: "\e602";
 }
-.icono-impresora:before {
-	content: "\64";
+.fa-impresora:before {
+	content: "\e603";
 }
-.icono-seccion:before {
-	content: "\65";
+.fa-grafico:before {
+	content: "\e604";
 }
-.icono-lupa:before {
-	content: "\66";
+.fa-enlace:before {
+	content: "\e605";
 }
-.icono-calendario:before {
-	content: "\67";
+.fa-email:before {
+	content: "\e606";
 }
-.icono-corchetes:before {
-	content: "\7b";
+.fa-documento:before {
+	content: "\e607";
 }
-.icono-refrescar:before {
-	content: "\69";
+.fa-descargar:before {
+	content: "\e608";
 }
-.icono-viñeta:before {
-	content: "\6a";
+.fa-compartir:before {
+	content: "\e609";
 }
-.icono-acto:before {
-	content: "\6b";
+.fa-travesia:before {
+	content: "\e60a";
 }
-.icono-hedera-1:before {
-	content: "\6c";
+.fa-acto:before {
+	content: "\e60b";
 }
-.icono-hedera-2:before {
-	content: "\6d";
+.fa-tiempo:before {
+	content: "\e60c";
 }
-.icono-ese:before {
-	content: "\6e";
+.fa-reloj:before {
+	content: "\e60d";
 }
-.icono-estrella:before {
-	content: "\6f";
+.fa-refrescar:before {
+	content: "\e60e";
 }
-.icono-marcador:before {
-	content: "\70";
+.fa-calendario:before {
+	content: "\e60f";
 }
-.icono-parrafo:before {
-	content: "\71";
+.fa-seccion:before {
+	content: "\e610";
 }
-.icono-mapa-agregar:before {
-	content: "\72";
+.fa-parrafo:before {
+	content: "\e611";
 }
-.icono-compartir:before {
-	content: "\73";
+.fa-hedera:before {
+	content: "\e612";
 }
-.icono-email:before {
-	content: "\74";
+.fa-hedera-2:before {
+	content: "\e613";
 }
-.icono-orden-vertical:before {
-	content: "\75";
+.fa-corchete:before {
+	content: "\e614";
 }
-.icono-orden-horizontal:before {
-	content: "\76";
+.fa-corchete-2:before {
+	content: "\e615";
 }
-.icono-siguiente:before {
-	content: "\3e";
+.fa-corchetes:before {
+	content: "\e616";
 }
-.icono-enlace:before {
-	content: "\79";
+.fa-siguiente:before {
+	content: "\e617";
 }
-.icono-ingresar:before {
-	content: "\33";
+.fa-anterior:before {
+	content: "\e618";
 }
-.icono-flecha:before {
-	content: "\7a";
+.fa-visto:before {
+	content: "\e619";
 }
-.icono-cruz:before {
-	content: "\30";
+.fa-vineta:before {
+	content: "\e61a";
 }
-.icono-grafico:before {
-	content: "\31";
+.fa-ese:before {
+	content: "\e61b";
 }
-.icono-equis:before {
-	content: "\78";
+.fa-equis:before {
+	content: "\e61c";
 }
-.icono-refrescar-2:before {
-	content: "\36";
+.fa-cruz:before {
+	content: "\e61d";
 }
-.icono-salir:before {
-	content: "\34";
+.fa-asterisco:before {
+	content: "\e61e";
 }
-.icono-travesias:before {
-	content: "\35";
+.fa-mapa:before {
+	content: "\e61f";
 }
-.icono-descargar:before {
-	content: "\32";
+.fa-mapa-agregar:before {
+	content: "\e620";
 }
-.icono-documento:before {
-	content: "\37";
+.fa-lupa:before {
+	content: "\e621";
 }
-.icono-rss:before {
-	content: "\38";
+.fa-lupa-alejar:before {
+	content: "\e622";
 }
-.icono-advertencia:before {
-	content: "\21";
+.fa-lupa-acercar:before {
+	content: "\e623";
 }
-.icono-asterisco:before {
-	content: "\2a";
+.fa-estrella:before {
+	content: "\e624";
 }
-.icono-visto:before {
-	content: "\39";
+.fa-engranaje:before {
+	content: "\e625";
 }
-.icono-reloj:before {
-	content: "\68";
+.fa-perfil:before {
+	content: "\e626";
 }
-.icono-mapa-10:before {
-	content: "\77";
+.fa-salir:before {
+	content: "\e627";
 }
-.icono-lupa-alejar:before {
-	content: "\22";
+.fa-ingresar:before {
+	content: "\e628";
 }
-.icono-lupa-acercar:before {
-	content: "\b7";
+.fa-candado-cerrado:before {
+	content: "\e629";
 }
-.icono-lapiz:before {
-	content: "\2f";
+.fa-candado-abierto:before {
+	content: "\e62a";
 }
-.icono-previo:before {
-	content: "\3c";
-}
-.icono-candado-cerrado:before {
-	content: "\28";
-}
-.icono-candado-abierto:before {
-	content: "\29";
+.fa-advertencia:before {
+	content: "\e62b";
 }
