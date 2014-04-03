@@ -1493,6 +1493,27 @@
 				"ligatures": ""
 			},
 			"setIdx": 0,
+			"iconIdx": 1
+		},
+		{
+			"icon": {
+				"paths": [
+					"M505.61 815.462l43.459-43.428-259.881-260.035 259.881-260.035-43.459-43.428-303.278 303.462z"
+				],
+				"grid": 0,
+				"tags": [
+					"icn_siguiente"
+				]
+			},
+			"properties": {
+				"order": 66,
+				"id": 1,
+				"prevSize": 32,
+				"code": 58881,
+				"name": "anterior",
+				"ligatures": ""
+			},
+			"setIdx": 0,
 			"iconIdx": 0
 		}
 	],
@@ -1502,7 +1523,7 @@
 	},
 	"preferences": {
 		"fontPref": {
-			"prefix": "",
+			"prefix": "icn-",
 			"metadata": {
 				"fontFamily": "stampa",
 				"majorVersion": 2,

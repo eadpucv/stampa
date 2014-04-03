@@ -87,25 +87,22 @@
   content: "\e634";
 }
 .icn-anterior:before {
-  content: "\e617";
+  content: "\e601";
 }
 .icn-visto:before {
-  content: "\e619";
+  content: "\e62e";
 }
 .icn-vineta:before {
-  content: "\e61a";
-}
-.icn-ese:before {
-  content: "\e61b";
+  content: "\e62f";
 }
 .icn-equis:before {
-  content: "\e61c";
+  content: "\e654";
 }
 .icn-cruz:before {
-  content: "\e61d";
+  content: "\e65c";
 }
 .icn-asterisco:before {
-  content: "\e61e";
+  content: "\e668";
 }
 .icn-mapa:before {
   content: "\e61f";
