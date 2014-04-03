@@ -1474,13 +1474,13 @@
 	],
 	"height": 1024,
 	"metadata": {
-		"name": "icomoon"
+		"name": "stampa"
 	},
 	"preferences": {
 		"fontPref": {
 			"prefix": "icn-",
 			"metadata": {
-				"fontFamily": "icomoon",
+				"fontFamily": "stampa",
 				"majorVersion": 2,
 				"minorVersion": 0
 			},
