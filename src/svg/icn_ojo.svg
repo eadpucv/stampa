@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Layer_3" display="none">
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="15.134"/>
+	<rect x="6" y="6" display="inline" opacity="0.26" width="88" height="88"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="24"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="30"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="9.134"/>
+	<g display="inline">
+		<path d="M50,0.25c27.432,0,49.75,22.317,49.75,49.75S77.432,99.75,50,99.75S0.25,77.433,0.25,50S22.568,0.25,50,0.25 M50,0
+			C22.389,0,0,22.386,0,50s22.389,50,50,50c27.612,0,50-22.386,50-50S77.612,0,50,0L50,0z"/>
+	</g>
+</g>
+<g id="Your_Icon">
+</g>
+<g id="Layer_4">
+	<path d="M50.086,83C31.133,83,3.928,53.282,2.779,52.017L0.948,50l1.832-2.017C3.928,46.718,31.133,17,50.086,17
+		c18.957,0,46,29.725,47.141,30.99L99.041,50l-1.814,2.01C96.085,53.275,69.042,83,50.086,83z M9.116,49.988
+		c2.61,2.703,7.679,7.753,13.705,12.747C34.082,72.067,43.51,77,50.086,77c12.525,0,32.169-17.914,40.81-26.988
+		c-2.593-2.701-7.635-7.755-13.637-12.752C66.055,27.931,56.659,23,50.086,23C37.559,23,17.814,40.91,9.116,49.988z"/>
+	<path d="M50.5,65.5c-8.547,0-15.5-6.953-15.5-15.499C35,41.454,41.953,34.5,50.5,34.5S66,41.454,66,50.001
+		C66,58.547,59.047,65.5,50.5,65.5z M50.5,40.5c-5.238,0-9.5,4.262-9.5,9.501c0,5.237,4.262,9.499,9.5,9.499s9.5-4.262,9.5-9.499
+		C60,44.762,55.738,40.5,50.5,40.5z"/>
+</g>
+</svg>
