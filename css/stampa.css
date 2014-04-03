@@ -29,6 +29,9 @@
 .icn-marcador:before {
   content: "\e640";
 }
+.icn-etiqueta:before {
+  content: "\e652";
+}
 .icn-lapiz:before {
   content: "\e649";
 }
@@ -44,6 +47,9 @@
 .icn-enlace-horizontal:before {
   content: "\e656";
 }
+.icn-vinculo-externo:before {
+  content: "\e630";
+}
 .icn-email:before {
   content: "\e658";
 }
@@ -56,20 +62,20 @@
 .icn-compartir:before {
   content: "\e65f";
 }
-.icn-travesia:before {
-  content: "\e600";
-}
-.icn-acto:before {
-  content: "\e66d";
-}
 .icn-tiempo:before {
   content: "\e633";
 }
 .icn-reloj:before {
   content: "\e638";
 }
+.icn-alarma:before {
+  content: "\e66b";
+}
 .icn-refrescar:before {
   content: "\e639";
+}
+.icn-ciclo:before {
+  content: "\e662";
 }
 .icn-calendario:before {
   content: "\e666";
@@ -89,6 +95,9 @@
 .icn-anterior:before {
   content: "\e601";
 }
+.icn-flecha:before {
+  content: "\e650";
+}
 .icn-visto:before {
   content: "\e62e";
 }
@@ -104,44 +113,113 @@
 .icn-asterisco:before {
   content: "\e668";
 }
+.icn-orden-vertical:before {
+  content: "\e63d";
+}
+.icn-orden-horizontal:before {
+  content: "\e63c";
+}
+.icn-clip:before {
+  content: "\e661";
+}
+.icn-codigo:before {
+  content: "\e660";
+}
 .icn-mapa:before {
-  content: "\e61f";
+  content: "\e641";
+}
+.icn-mapa-conceptual:before {
+  content: "\e642";
 }
 .icn-mapa-agregar:before {
-  content: "\e620";
+  content: "\e643";
 }
 .icn-lupa:before {
-  content: "\e621";
+  content: "\e646";
 }
 .icn-lupa-acercar:before {
-  content: "\e622";
+  content: "\e647";
 }
 .icn-lupa-alejar:before {
-  content: "\e623";
+  content: "\e648";
+}
+.icn-mano-arriba:before {
+  content: "\e644";
+}
+.icn-mano-abajo:before {
+  content: "\e645";
 }
 .icn-estrella:before {
-  content: "\e624";
+  content: "\e653";
+}
+.icn-corazon:before {
+  content: "\e65d";
 }
 .icn-engranaje:before {
-  content: "\e625";
+  content: "\e657";
+}
+.icn-ojo:before {
+  content: "\e63e";
+}
+.icn-imagen:before {
+  content: "\e64c";
 }
 .icn-perfil:before {
-  content: "\e626";
+  content: "\e63a";
 }
 .icn-salir:before {
-  content: "\e627";
+  content: "\e636";
 }
 .icn-ingresar:before {
-  content: "\e628";
+  content: "\e64a";
 }
 .icn-candado-cerrado:before {
-  content: "\e629";
+  content: "\e664";
 }
 .icn-candado-abierto:before {
-  content: "\e62a";
+  content: "\e665";
 }
 .icn-advertencia:before {
-  content: "\e62b";
+  content: "\e66c";
+}
+.icn-ampolleta:before {
+  content: "\e66a";
+}
+.icn-hogar:before {
+  content: "\e64d";
+}
+.icn-acto:before {
+  content: "\e66d";
+}
+.icn-travesia:before {
+  content: "\e600";
+}
+.icn-constel:before {
+  content: "\e65e";
+}
+.icn-casiopea:before {
+  content: "\e663";
+}
+.icn-biblioteca:before {
+  content: "\e667";
+}
+.icn-trabajo:before {
+  content: "\e632";
+}
+.icn-archivo:before {
+  content: "\e669";
+}
+.icn-noticias:before {
+  content: "\e63f";
+}
+.icn-facebook:before {
+  content: "\e651";
+}
+.icn-twitter:before {
+  content: "\e631";
+}
+.icn-cuadro:before {
+  content: "\e65b";
 }
 .icn-sm {
   font-size: 1em;
