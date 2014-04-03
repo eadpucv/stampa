@@ -48,52 +48,43 @@
   content: "\e658";
 }
 .icn-documento:before {
-  content: "\e607";
+  content: "\e659";
 }
 .icn-descargar:before {
-  content: "\e608";
+  content: "\e65a";
 }
 .icn-compartir:before {
-  content: "\e609";
+  content: "\e65f";
 }
 .icn-travesia:before {
-  content: "\e60a";
+  content: "\e600";
 }
 .icn-acto:before {
-  content: "\e60b";
+  content: "\e66d";
 }
 .icn-tiempo:before {
-  content: "\e60c";
+  content: "\e633";
 }
 .icn-reloj:before {
-  content: "\e60d";
+  content: "\e638";
 }
 .icn-refrescar:before {
-  content: "\e60e";
+  content: "\e639";
 }
 .icn-calendario:before {
-  content: "\e60f";
+  content: "\e666";
 }
 .icn-seccion:before {
-  content: "\e610";
+  content: "\e635";
 }
 .icn-parrafo:before {
-  content: "\e611";
+  content: "\e63b";
 }
 .icn-hedera:before {
-  content: "\e612";
-}
-.icn-corchete-abierto:before {
-  content: "\e614";
-}
-.icn-corchete-cerrado:before {
-  content: "\e615";
-}
-.icn-corchetes:before {
-  content: "\e616";
+  content: "\e64e";
 }
 .icn-siguiente:before {
-  content: "\e618";
+  content: "\e634";
 }
 .icn-anterior:before {
   content: "\e617";
