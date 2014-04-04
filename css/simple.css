@@ -11,7 +11,7 @@ body{
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	max-width: 740px;
 	font-weight: 200;
-	font-size: 22px;
+	font-size: 16px;
 	width: 90%;
 	margin: 100px auto;
 	color: rgba(255, 255, 255, .5);
@@ -28,6 +28,12 @@ h1{
 	font-weight: 100;
 	font-size: 100px;
 	margin: 0;
+}
+
+h2{
+	font-size: 30px;
+	font-weight: 100;
+	color: #8ea57e;
 }
 
 table{

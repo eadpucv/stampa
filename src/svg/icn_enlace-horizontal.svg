@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Layer_3" display="none">
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="15.134"/>
+	<polyline display="inline" opacity="0.26" points="94,6 6,6 6,94 94,94 	"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="24"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="30"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="9.134"/>
+	<path display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M0,50C0,22.386,22.389,0,50,0
+		c27.612,0,50,22.386,50,50"/>
+	<path display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M100,50
+		c0,27.614-22.388,50-50,50C22.389,100,0,77.614,0,50"/>
+</g>
+<g id="Your_Icon">
+</g>
+<g id="Layer_4">
+	<path d="M35.951,69.044l-18.5-0.001c-8.357,0-15.161-6.538-15.488-14.883c-0.005-0.154-0.004-2.06-0.003-2.827l0-0.291
+		c0-0.174,0.005-2.936,0.012-3.106c0.33-8.357,7.133-14.894,15.488-14.894h18.5v6h-18.5c-5.121,0-9.291,4.005-9.493,9.119
+		c-0.004,0.249-0.007,2.721-0.007,2.881l0,0.301c-0.001,0.695-0.004,2.383,0,2.627c0.199,5.067,4.369,9.072,9.491,9.072l18.5,0.001
+		V69.044z"/>
+	<rect x="34" y="48.042" width="32" height="6"/>
+	<path d="M65.967,69.044v-6l18.5-0.001c5.121,0,9.29-4.005,9.49-9.119c0.005-0.234,0-1.893-0.001-2.58l-0.001-0.303
+		c0-0.158-0.001-2.589-0.008-2.907c-0.2-5.088-4.37-9.093-9.492-9.093h-18.5v-6h18.5c8.357,0,15.16,6.537,15.488,14.882
+		c0.012,0.245,0.012,2.825,0.012,3.118l0.001,0.289c0.006,2.642,0.001,2.734-0.004,2.852c-0.326,8.322-7.129,14.86-15.485,14.86
+		L65.967,69.044z"/>
+</g>
+</svg>

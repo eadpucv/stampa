@@ -1,1 +1,246 @@
-@font-face{font-family:eadiconos;src:url(../fonts/icon-font/eadiconos.eot);src:url(../fonts/icon-font/eadiconos.eot?#iefix) format('embedded-opentype'),url(../fonts/icon-font/eadiconos.ttf) format('truetype'),url(../fonts/icon-font/eadiconos.woff) format('woff'),url(../fonts/icon-font/eadiconos.svg#eadiconos) format('svg');font-weight:400;font-style:normal}[class^=fa-],[class*=" fa-"]{font-family:eadiconos;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-rss:before{content:"\e600"}.fa-marcador:before{content:"\e601"}.fa-lapiz:before{content:"\e602"}.fa-impresora:before{content:"\e603"}.fa-grafico:before{content:"\e604"}.fa-enlace:before{content:"\e605"}.fa-email:before{content:"\e606"}.fa-documento:before{content:"\e607"}.fa-descargar:before{content:"\e608"}.fa-compartir:before{content:"\e609"}.fa-travesia:before{content:"\e60a"}.fa-acto:before{content:"\e60b"}.fa-tiempo:before{content:"\e60c"}.fa-reloj:before{content:"\e60d"}.fa-refrescar:before{content:"\e60e"}.fa-calendario:before{content:"\e60f"}.fa-seccion:before{content:"\e610"}.fa-parrafo:before{content:"\e611"}.fa-hedera:before{content:"\e612"}.fa-corchete-abierto:before{content:"\e614"}.fa-corchete-cerrado:before{content:"\e615"}.fa-corchetes:before{content:"\e616"}.fa-siguiente:before{content:"\e618"}.fa-anterior:before{content:"\e617"}.fa-visto:before{content:"\e619"}.fa-vineta:before{content:"\e61a"}.fa-ese:before{content:"\e61b"}.fa-equis:before{content:"\e61c"}.fa-cruz:before{content:"\e61d"}.fa-asterisco:before{content:"\e61e"}.fa-mapa:before{content:"\e61f"}.fa-mapa-agregar:before{content:"\e620"}.fa-lupa:before{content:"\e621"}.fa-lupa-acercar:before{content:"\e622"}.fa-lupa-alejar:before{content:"\e623"}.fa-estrella:before{content:"\e624"}.fa-engranaje:before{content:"\e625"}.fa-perfil:before{content:"\e626"}.fa-salir:before{content:"\e627"}.fa-ingresar:before{content:"\e628"}.fa-candado-cerrado:before{content:"\e629"}.fa-candado-abierto:before{content:"\e62a"}.fa-advertencia:before{content:"\e62b"}.fa-sm{font-size:1em;line-height:1em}.fa-md{font-size:1.33333333em;line-height:.75em;vertical-align:-15%}.fa-lg{font-size:2em;line-height:2em;vertical-align:-15%}.fa-xl{font-size:3em;line-height:3em;vertical-align:-15%}.fa-fw{width:1.28571429em;text-align:center}
+/* FONT PATH
+ * -------------------------- */
+@font-face {
+  font-family: 'stampa';
+  src: url('../fonts/icon-font/stampa.eot');
+  src: url('../fonts/icon-font/stampa.eot?#iefix') format('embedded-opentype'), url('../fonts/icon-font/stampa.ttf') format('truetype'), url('../fonts/icon-font/stampa.woff') format('woff'), url('../fonts/icon-font/stampa.svg#eadiconos') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="icn-"],
+[class*=" icn-"] {
+  font-family: 'stampa';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Font Awesome uses the Unicnde Private Use Area (PUA) to ensure screen
+   readers do not read off random characters that represent icnns */
+.icn-rss:before {
+  content: "\e637";
+}
+.icn-marcador:before {
+  content: "\e640";
+}
+.icn-etiqueta:before {
+  content: "\e652";
+}
+.icn-lapiz:before {
+  content: "\e649";
+}
+.icn-impresora:before {
+  content: "\e64b";
+}
+.icn-grafico:before {
+  content: "\e64f";
+}
+.icn-enlace:before {
+  content: "\e655";
+}
+.icn-enlace-horizontal:before {
+  content: "\e656";
+}
+.icn-vinculo-externo:before {
+  content: "\e630";
+}
+.icn-email:before {
+  content: "\e658";
+}
+.icn-documento:before {
+  content: "\e659";
+}
+.icn-descargar:before {
+  content: "\e65a";
+}
+.icn-compartir:before {
+  content: "\e65f";
+}
+.icn-tiempo:before {
+  content: "\e633";
+}
+.icn-reloj:before {
+  content: "\e638";
+}
+.icn-alarma:before {
+  content: "\e66b";
+}
+.icn-refrescar:before {
+  content: "\e639";
+}
+.icn-ciclo:before {
+  content: "\e662";
+}
+.icn-calendario:before {
+  content: "\e666";
+}
+.icn-seccion:before {
+  content: "\e635";
+}
+.icn-parrafo:before {
+  content: "\e63b";
+}
+.icn-hedera:before {
+  content: "\e64e";
+}
+.icn-siguiente:before {
+  content: "\e634";
+}
+.icn-anterior:before {
+  content: "\e601";
+}
+.icn-flecha:before {
+  content: "\e650";
+}
+.icn-visto:before {
+  content: "\e62e";
+}
+.icn-vineta:before {
+  content: "\e62f";
+}
+.icn-equis:before {
+  content: "\e654";
+}
+.icn-cruz:before {
+  content: "\e65c";
+}
+.icn-asterisco:before {
+  content: "\e668";
+}
+.icn-orden-vertical:before {
+  content: "\e63d";
+}
+.icn-orden-horizontal:before {
+  content: "\e63c";
+}
+.icn-clip:before {
+  content: "\e661";
+}
+.icn-codigo:before {
+  content: "\e660";
+}
+.icn-mapa:before {
+  content: "\e641";
+}
+.icn-mapa-conceptual:before {
+  content: "\e642";
+}
+.icn-mapa-agregar:before {
+  content: "\e643";
+}
+.icn-lupa:before {
+  content: "\e646";
+}
+.icn-lupa-acercar:before {
+  content: "\e647";
+}
+.icn-lupa-alejar:before {
+  content: "\e648";
+}
+.icn-mano-arriba:before {
+  content: "\e644";
+}
+.icn-mano-abajo:before {
+  content: "\e645";
+}
+.icn-estrella:before {
+  content: "\e653";
+}
+.icn-corazon:before {
+  content: "\e65d";
+}
+.icn-engranaje:before {
+  content: "\e657";
+}
+.icn-ojo:before {
+  content: "\e63e";
+}
+.icn-imagen:before {
+  content: "\e64c";
+}
+.icn-perfil:before {
+  content: "\e63a";
+}
+.icn-salir:before {
+  content: "\e636";
+}
+.icn-ingresar:before {
+  content: "\e64a";
+}
+.icn-candado-cerrado:before {
+  content: "\e664";
+}
+.icn-candado-abierto:before {
+  content: "\e665";
+}
+.icn-advertencia:before {
+  content: "\e66c";
+}
+.icn-ampolleta:before {
+  content: "\e66a";
+}
+.icn-hogar:before {
+  content: "\e64d";
+}
+.icn-acto:before {
+  content: "\e66d";
+}
+.icn-travesia:before {
+  content: "\e600";
+}
+.icn-constel:before {
+  content: "\e65e";
+}
+.icn-casiopea:before {
+  content: "\e663";
+}
+.icn-biblioteca:before {
+  content: "\e667";
+}
+.icn-trabajo:before {
+  content: "\e632";
+}
+.icn-archivo:before {
+  content: "\e669";
+}
+.icn-noticias:before {
+  content: "\e63f";
+}
+.icn-facebook:before {
+  content: "\e651";
+}
+.icn-twitter:before {
+  content: "\e631";
+}
+.icn-cuadro:before {
+  content: "\e65b";
+}
+.icn-sm {
+  font-size: 1em;
+  line-height: 1em;
+}
+.icn-md {
+  font-size: 1.3333333333333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.icn-lg {
+  font-size: 1.6666666666666667em;
+  line-height: 1.6666666666666667em;
+  vertical-align: -15%;
+}
+.icn-xl {
+  font-size: 3em;
+  line-height: 3em;
+  vertical-align: -15%;
+}
+.icn-fw {
+  width: 1.2857142857142858em;
+  text-align: center;
+}
