@@ -4,11 +4,11 @@
 *
 */
 
-
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300,700,900,600);
 
 body{
 	background-color: #374031;
-	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	max-width: 740px;
 	font-weight: 200;
 	font-size: 16px;
@@ -25,9 +25,11 @@ a{
 h1{
 	display: inline-block;
 	color: #8ea57e;
-	font-weight: 100;
-	font-size: 100px;
+	font-weight: 900;
+	font-size: 200px;
 	margin: 0;
+	letter-spacing: -.1ex;
+	text-shadow: 3px 3px 0 rgba(0,0,0,.1);
 }
 
 h2{
@@ -37,7 +39,7 @@ h2{
 }
 
 table{
-	background-color: rgba(255, 255, 255, .8);
+	background-color: #BECBB7;
 	width: 100%;
 	font-size: 16px;
 	-webkit-border-radius: 10px;
@@ -67,6 +69,31 @@ code{
 	border-radius: 4px;
 }
 
-.github-btn{
-
+.gist{
+margin: 15px 0 !important;
+}
+ 
+.gist-file{
+border: none !important;
+}
+ 
+.gist-meta{
+border: 1px solid #BECBB7 !important;
+padding: 12px !important;
+-moz-border-radius-bottomleft: 10px;
+-webkit-border-bottom-left-radius: 10px;
+-moz-border-radius-bottomright: 10px;
+-webkit-border-bottom-right-radius: 10px;
+ 
+}
+ 
+.gist-data{
+padding: 15px !important;
+border: 1px solid #909A8A !important;
+background-color: #BECBB7 !important;
+border-bottom: none !important;
+-moz-border-radius-topleft: 10px;
+-webkit-border-top-left-radius: 10px;
+-moz-border-radius-topright: 10px;
+-webkit-border-top-right-radius: 10px;
 }
