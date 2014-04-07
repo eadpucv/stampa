@@ -1,0 +1,19 @@
+// List Icons
+// -------------------------
+
+.@{icn-css-prefix}-ul {
+  padding-left: 0;
+  margin-left: @icn-li-width;
+  list-style-type: none;
+  > li { position: relative; }
+}
+.@{icn-css-prefix}-li {
+  position: absolute;
+  left: -@icn-li-width;
+  width: @icn-li-width;
+  top: (2em / 14);
+  text-align: center;
+  &.@{icn-css-prefix}-lg {
+    left: -@icn-li-width + (4em / 14);
+  }
+}
