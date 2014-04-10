@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Layer_3" display="none">
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="49.5" r="17.5"/>
+	<polyline display="inline" opacity="0.15" points="95,6 5,6 5,96 95,96 	"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="26"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="34"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="49.5" r="9"/>
+	<path display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M0,50C0,22.386,22.389,0,50,0
+		c27.612,0,50,22.386,50,50"/>
+	<path display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M100,50
+		c0,27.614-22.388,50-50,50C22.389,100,0,77.614,0,50"/>
+</g>
+<g id="Your_Icon">
+</g>
+<g id="Layer_4">
+	<path d="M49.999,60C39.522,60,31,51.477,31,41s8.522-19,18.999-19C60.477,22,69,30.523,69,41S60.477,60,49.999,60z M49.999,30
+		C43.935,30,39,34.935,39,41s4.935,11,10.999,11C56.065,52,61,47.065,61,41S56.065,30,49.999,30z"/>
+	<path d="M84,100h-8c0-15.608-11.663-28.306-26-28.306S24,84.392,24,100h-8c0-20.019,15.252-36.306,34-36.306S84,79.981,84,100z"/>
+</g>
+</svg>
