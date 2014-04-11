@@ -31,8 +31,8 @@ h1{
 
 h2{
 	font-size: 30px;
-	font-weight: 100;
-	color: #8ea57e;
+	font-weight: 300;
+	color: rgba(69, 71, 71, 1);
 }
 
 h3{
@@ -65,7 +65,7 @@ nav {
 }
 
 table{
-	background-color: #BECBB7;
+	background-color: #A5CFE8;
 	width: 100%;
 	font-size: 16px;
 	-webkit-border-radius: 10px;
@@ -75,7 +75,7 @@ table{
 
 table th{
 	text-align: left;
-	color: #374031;
+	color: #A5CFE8;
 }
 table th,
 table td{
@@ -89,7 +89,7 @@ code{
 	font-family: Menlo, Monaco, monospace;
 	background-color: white;
 	padding: .3ex 1ex;
-	color: #374031;
+	color: rgba(69, 71, 71, 1);
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	border-radius: 4px;
@@ -104,7 +104,7 @@ border: none !important;
 }
  
 .gist-meta{
-border: 1px solid #BECBB7 !important;
+border: 1px solid rgba(226, 226, 226, 1)!important;
 padding: 12px !important;
 -moz-border-radius-bottomleft: 10px;
 -webkit-border-bottom-left-radius: 10px;
@@ -115,8 +115,8 @@ padding: 12px !important;
  
 .gist-data{
 padding: 15px !important;
-border: 1px solid #909A8A !important;
-background-color: #BECBB7 !important;
+border: 1px solid rgba(226, 226, 226, 1)!important;
+background-color: #A5CFE8 !important;
 border-bottom: none !important;
 -moz-border-radius-topleft: 10px;
 -webkit-border-top-left-radius: 10px;

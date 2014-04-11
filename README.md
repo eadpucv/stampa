@@ -1,7 +1,5 @@
-STAMPA
+STAMPA v.2.0.0-alpha
 ======
-
-###v1.0.0###
 
 Fuente de íconos para ser usada por [Pyxis][4], el framework gráfico de la [Escuela de Arquitectura y Diseño PUCV][1].
 
@@ -14,3 +12,6 @@ Este proyecto está construido sobre los principios de:
 [2]: http://fortawesome.github.io/Font-Awesome/
 [3]: http://lesscss.org/
 [4]: http://github.com/eadpucv/pyxis
+
+###v2.0.0-alpha###
+Set de 65 íconos desde cero. Incoroporación de principios de Font Awesome.
