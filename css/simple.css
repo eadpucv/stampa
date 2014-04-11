@@ -11,13 +11,8 @@ body{
 	font-weight: 200;
 	font-size: 16px;
 	color: rgba(69, 71, 71, 1);
-	max-width: 90%;
+	max-width: 85%;
 	margin: auto;
-}
-
-a{
-	color: white;
-	text-decoration: none;
 }
 
 h1{
@@ -44,23 +39,49 @@ h3{
 	text-transform: uppercase;
 }
 
-.wrap {
-	max-width: 740px;
-	margin: 50px auto;
+a,ul,li{
+	text-decoration: none;
+	list-style: none;
 }
 
-header {
+
+.wrap {
+	max-width: 650px;
+	margin: 5px auto;
+}
+
+header,footer {
 	display: block;
 	background-color: #0969A2;
 	margin:0;
-	padding-top: 30px;
-	padding-bottom: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+header a{
+	color: white;
+}
+
+footer {
+	margin-top: 50px;
 }
 
 nav {
 	background-color: rgba(226, 226, 226, 1);
+	height: 40px;
 	padding-top: 10px;
-	padding-bottom: 10px;
+	margin-bottom: 80px;
+}
+
+nav li{
+	float:left;
+	padding-right: 12.9%;
+	color: #034369;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+nav a:visited{
 	color: #034369;
 }
 
