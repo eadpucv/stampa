@@ -13,5 +13,5 @@ Este proyecto está construido sobre los principios de:
 [3]: http://lesscss.org/
 [4]: http://github.com/eadpucv/pyxis
 
-###v2.0.0-alpha###
-Set de 65 íconos desde cero. Incoroporación de principios de Font Awesome.
+##Actualizaciones##
+- v2.0.0-alpha : Set de 65 íconos desde cero. Incoroporación de principios de Font Awesome.
