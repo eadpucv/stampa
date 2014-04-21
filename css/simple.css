@@ -8,34 +8,35 @@
 
 body{
 	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-weight: 200;
+	font-weight: 300;
 	font-size: 16px;
 	color: rgba(69, 71, 71, 1);
-	max-width: 85%;
+	min-width: 100%;
 	margin: auto;
 }
 
 h1{
-	color: rgba(226, 226, 226, 1);
+	color: white;
 	font-weight: 600;
-	font-size: 150px;
+	font-size: 173px;
 	margin: 0;
 	text-shadow: 5px 5px 0 rgba(0,0,0,.3);
 	text-align: center;
 }
 
 h2{
-	font-size: 30px;
-	font-weight: 300;
+	font-size: 32px;
+	font-weight: 400;
 	color: rgba(69, 71, 71, 1);
+	display: block;
 }
 
 h3{
 	color: #A5CFE8;
-	font-size: 18px;
+	font-size: 19px;
 	font-weight: 300;
 	text-align: center;
-	letter-spacing: .1ex;
+	letter-spacing: .12ex;
 	text-transform: uppercase;
 }
 
@@ -46,49 +47,87 @@ a,ul,li{
 
 
 .wrap {
-	max-width: 650px;
-	margin: 5px auto;
+	max-width: 680px;
+	margin: 0px auto;
+}
+
+.content {
+	width: 75%;
+	margin: auto;
 }
 
 header,footer {
 	display: block;
 	background-color: #0969A2;
-	margin:0;
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
 
-header a{
+header,footer a{
 	color: white;
-}
-
-footer {
-	margin-top: 50px;
 }
 
 nav {
 	background-color: rgba(226, 226, 226, 1);
 	height: 40px;
-	padding-top: 10px;
-	margin-bottom: 80px;
+	padding-top: 20px;
 }
+ 
 
 nav li{
 	float:left;
-	padding-right: 12.9%;
-	color: #034369;
-	font-size: 16px;
+	margin-right: 115px;
+	color: #0969A2;
+	font-size: 15px;
 	font-weight: 400;
 }
 
+nav li:last-child{
+	margin-right: 0px;
+}
+
+header {
+	margin-bottom: 50px;
+	border-bottom: solid rgba(226, 226, 226, 1) 25px;
+}
+
+header a:active{
+	color: #0969A2;
+}
+
+header a:visited{
+	color: rgba(226, 226, 226, 1);
+}
+
+nav a:link {
+	color: #0969A2;
+}
+
 nav a:visited{
-	color: #034369;
+	color: #0969A2;
+}
+
+nav a:hover{
+	color: #034369;;
+}
+
+footer a:visited{
+	color: rgba(226, 226, 226, 1);
+}
+
+footer {
+	margin-top: 100px;
+	color: #A5CFE8;
+	font-size: 14px;
+	font-weight: 300;
+	text-align: center;
+	letter-spacing: .1ex;
 }
 
 table{
 	background-color: #A5CFE8;
 	width: 100%;
-	font-size: 16px;
+	font-size: 12px;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
@@ -111,13 +150,39 @@ code{
 	background-color: white;
 	padding: .3ex 1ex;
 	color: rgba(69, 71, 71, 1);
+	border: solid rgba(226, 226, 226, 1) 1px;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	border-radius: 4px;
+	font-size: 14px;
+}
+
+hr {
+	margin-top: 40px;
+	background-color: rgba(226, 226, 226, 1);
+	height: 5px;
+	border: none;
+}
+
+.gigante {
+	font-size: 170px;
+	text-align: center;
+}
+
+.ejemplo {
+	font-size: 14px;
+	float: left;
+	text-align: top;
+	display: block;
+	border-right: solid rgba(226, 226, 226, 1) 5px;
+	width: 170px;
+	max-height: 150px;
+	padding: 15px 25px 15px 0px;
+	margin-right: 30px;
 }
 
 .gist{
-margin: 15px 0 !important;
+margin: 0px 0px !important;
 }
  
 .gist-file{
