@@ -13,9 +13,9 @@
 		el.innerHTML = '<span style="font-family: \'Stampa\'">' + entity + '</span>' + html;
 	}
 	var icons = {
-		'icn-visto': '&#xe62e;',
 		'icn-vineta': '&#xe62f;',
 		'icn-vinculo-externo': '&#xe630;',
+		'icn-twitter': '&#xe631;',
 		'icn-trabajo': '&#xe632;',
 		'icn-tiempo': '&#xe633;',
 		'icn-seccion': '&#xe635;',
@@ -29,8 +29,9 @@
 		'icn-orden-horizontal': '&#xe63d;',
 		'icn-ojo': '&#xe63e;',
 		'icn-noticias': '&#xe63f;',
-		'icn-mapa-conceptual': '&#xe642;',
+		'icn-marcador': '&#xe640;',
 		'icn-mapa': '&#xe641;',
+		'icn-mapa-conceptual': '&#xe642;',
 		'icn-mapa-agregar': '&#xe643;',
 		'icn-mano-arriba': '&#xe644;',
 		'icn-mano-abajo': '&#xe645;',
@@ -46,8 +47,6 @@
 		'icn-grafico': '&#xe64f;',
 		'icn-flecha': '&#xe650;',
 		'icn-facebook': '&#xe651;',
-		'icn-twitter': '&#xe631;',
-		'icn-marcador': '&#xe640;',
 		'icn-etiqueta': '&#xe652;',
 		'icn-estrella': '&#xe653;',
 		'icn-equis': '&#xe654;',
@@ -77,6 +76,7 @@
 		'icn-advertencia': '&#xe66c;',
 		'icn-acto': '&#xe66d;',
 		'icn-travesia': '&#xe600;',
+		'icn-visto': '&#xe62e;',
 		'icn-nav-anterior': '&#xe602;',
 		'icn-nav-siguiente': '&#xe601;',
 		'0': 0
