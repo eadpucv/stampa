@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Layer_3" display="none">
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="15.134"/>
+	<polyline display="inline" opacity="0.26" points="94,6 6,6 6,94 94,94 	"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="24"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="30"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="9.134"/>
+	<path display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M0,50C0,22.386,22.389,0,50,0
+		c27.612,0,50,22.386,50,50"/>
+	<path display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M100,50
+		c0,27.614-22.388,50-50,50C22.389,100,0,77.614,0,50"/>
+</g>
+<g id="Your_Icon">
+	<path d="M71.281,75.159c-1.024,0-2.048-0.391-2.829-1.172l-42.415-42.44c-1.562-1.562-1.561-4.095,0.001-5.657
+		c1.562-1.562,4.095-1.561,5.657,0.001l42.415,42.44c1.562,1.562,1.561,4.095-0.001,5.657
+		C73.328,74.769,72.305,75.159,71.281,75.159z"/>
+	<path d="M28.866,75.159c-1.023,0-2.046-0.39-2.828-1.171c-1.562-1.562-1.563-4.094-0.001-5.657l42.415-42.44
+		c1.561-1.563,4.094-1.563,5.657-0.001c1.562,1.562,1.563,4.094,0.001,5.657l-42.415,42.44
+		C30.915,74.768,29.89,75.159,28.866,75.159z"/>
+	<path d="M80,54.009C80,54.009,79.999,54.009,80,54.009l-60.001-0.018c-2.209,0-4-1.792-3.999-4.001s1.792-3.999,4-3.999
+		c0,0,0.001,0,0.001,0l60,0.018c2.209,0,4,1.792,3.999,4.001S82.208,54.009,80,54.009z"/>
+	<path d="M50.008,84c-2.209,0-4-1.79-4-3.999l-0.016-60c0-2.209,1.79-4,3.999-4.001h0.001c2.209,0,4,1.79,4,3.999l0.016,60
+		C54.008,82.208,52.218,84,50.008,84L50.008,84z"/>
+</g>
+<g id="Layer_4">
+</g>
+</svg>

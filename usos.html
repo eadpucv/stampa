@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 9]><html class='ie'><![endif]-->
+<!--[if gte IE 9]><!--><html><!--<![endif]-->
+
+<head>
+  <meta charset='UTF-8'/>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+  <link href='css/stampa.css' rel='stylesheet' type="text/css">
+  <link href='css/simple.css' rel='stylesheet' type="text/css">
+  <title>Stampa</title>
+</head>
+
+<body>
+
+    <nav>
+        <ul class='wrap'>
+        <li><a href='index.html'><i class='icn icn-hogar'></i></a></li>
+        <li><a href='iconos.html'>Íconos</a></li>
+        <li><a href='usos.html'>Usos</a></li>
+        <li><a href=''>Recursos</a></li>
+        <li><a href=''>GIThub</a></li>
+        </ul>
+    </nav>
+    <header>
+        <div class='wrap'>
+            <h1>Stampa
+            <iframe class='github-btn' src="http://ghbtns.com/github-btn.html?user=eadpucv&repo=stampa&type=watch"
+      allowtransparency="true" frameborder="0" scrolling="0" width="62" height="20"></iframe></h1>
+            <h3>Familia tipográfica de íconos para trabajar en conjunto con <a href='http://www.github.com/eadpucv/pyxis'>Pyxis</a>.</h3>
+        </div>
+    </header>
+
+    <div class='content'>
+        <h2>Íconos alineados con el texto </h2>
+
+        <p>
+            Los íconos de Stampa pueden ser usados en cualquier parrafo usando la etiqueta <code> &lti&gt</code>
+            <br>
+        </p>
+
+        <p class='ejemplo'><i class="icn icn-mano-arriba"></i> icn-mano arriba </p>
+
+        <script src="https://gist.github.com/creyesnav/9979507.js"></script>
+
+        <h2>Íconos de mayor tamaño </h2>
+
+        <p>
+            A los íconos se les puede incorporar las clases <code>sm</code> <code>md</code> <code>lg</code> y <code>xl</code>; que varían su tamaño en relación con el parrafo en que se encuentra. 
+            <br>
+        </p>
+
+
+        <p class='ejemplo'><i class="icn icn-mano-arriba icn-sm"></i> icn-mano arriba 
+        <br><i class="icn icn-mano-arriba icn-md"></i> icn-mano arriba 
+        <br><i class="icn icn-mano-arriba icn-lg"></i> icn-mano arriba 
+        <br><i class="icn icn-mano-arriba icn-xl"></i> icn-mano arriba </p>
+
+        <br>
+
+        <script src="https://gist.github.com/creyesnav/9979745.js"></script>
+
+        <br>
+
+        <h2>Íconos inversos</h2>
+
+        <h2>Íconos enumeradores</h2>
+
+        <p>
+           Se incluye dentro de los usos de los íconos en listas ordenadas de elementos. Incorporando las clases <code>icn-ul</code> e  <code>icn-li</code> se reemplazan las viñetas.
+            <br>
+        </p>
+
+        <ul class="icn-ul ejemplo">
+          <li><i class="icn icn-li icn-visto"></i>icn-visto</li>
+          <li><i class="icn icn-li icn-visto"></i>icn-visto</li>
+          <li><i class="icn icn-li icn-equis"></i>icn-equis</li>
+        </ul>
+
+        <script src="https://gist.github.com/creyesnav/11040069.js"></script>
+
+        <h2>Íconos giratorios</h2>
+
+        <p>
+            Mediante una animación CSS3, la clase <code>icn-spin</code> permite que cualquier ícono gire (funciona de mejor manera con aquellos circulares).
+            <br>
+        </p>
+
+
+        <p class='ejemplo'>
+            <i class="icn icn-engranaje icn-spin"></i> icn-engranaje 
+            <br>
+            <i class="icn icn-engranaje icn-spin icn-lg"></i> icn-engranaje 
+        </p>
+
+        <script src="https://gist.github.com/creyesnav/10637306.js"></script>
+
+        <h2>Íconos apilados</h2>
+
+        <p>
+            Se pueden apilar íconos de Stampa usando la clase <code>icn-stack</code> dentro de la etiqueta agrupadora <code> &ltspan&gt</code>, las clases <code>icn-stack-1x</code> para el ícono de menor tamaño e <code> icn-stack-2x</code> para el de mayor.
+            <br>
+        </p>
+
+        <p class="ejemplo">
+        <span class="icn-stack">
+            <i class="icn icn-cuadro icn-stack-2x"></i>
+            <i class="icn icn-twitter icn-stack-1x"></i>
+        </span>
+        icn-cuadro e icn-twitter
+        </p>
+
+        <script src="https://gist.github.com/creyesnav/11040445.js"></script>
+
+        <h2>Íconos capitales</h2>
+        
+        <p>
+            Usando las clases <code>icn-border</code>, que bordea el ícono, en conjunto con <code>pull-left</code> o <code>pull-right</code>, se obtiene como resultado un ícono que sirve para iniciar parrafos y darles un cierto carácter.
+            <br>
+        </p>
+
+        <p class="ejemplo">
+            <i class="icn icn-corazon icn-2x pull-left icn-border"></i>
+            Ícono a modo de letra capital.
+        </p>
+
+        <script src="https://gist.github.com/creyesnav/11040552.js"></script>
+
+    </div>
+
+    <footer>
+    <div class='wrap'>
+        <a href=''>STAMPA v.2.0.0</a>
+        <br>
+        Fuente de íconos para ser usada por Pyxis, framework gráfico de la Escuela de Arquitectura y Diseño PUCV.
+    </div>
+    </footer>
+</body>
+</html>

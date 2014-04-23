@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Layer_3" display="none">
+	<rect x="6" y="6" display="inline" opacity="0.26" width="88" height="88"/>
+	
+		<circle display="inline" opacity="0.4" fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" cx="49.5" cy="39.5" r="12.5"/>
+</g>
+<g id="Your_Icon">
+</g>
+<g id="Layer_4">
+	<path d="M50,100c-1.344,0-2.598-0.675-3.338-1.796C43.523,93.451,16,51.271,16,34C16,15.252,31.252,0,50,0s34,15.252,34,34
+		c0,17.271-27.523,59.451-30.662,64.204C52.598,99.325,51.344,100,50,100z M50,8C35.664,8,24,19.664,24,34
+		c0,11.133,16.519,39.604,26,54.616C59.48,73.601,76,45.127,76,34C76,19.664,64.336,8,50,8z"/>
+	<path d="M65,40H35c-2.209,0-4-1.791-4-4s1.791-4,4-4h30c2.209,0,4,1.791,4,4S67.209,40,65,40z"/>
+	<path d="M50,55c-2.209,0-4-1.791-4-4V21c0-2.209,1.791-4,4-4s4,1.791,4,4v30C54,53.209,52.209,55,50,55z"/>
+</g>
+</svg>
