@@ -4,24 +4,23 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
 	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
 <g id="Layer_3" display="none">
-	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="15.134"/>
-	<polyline display="inline" opacity="0.26" points="94,6 6,6 6,94 94,94 	"/>
-	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="24"/>
-	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="30"/>
-	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="9.134"/>
-	<path display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M0,50C0,22.386,22.389,0,50,0
-		c27.612,0,50,22.386,50,50"/>
-	<path display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M100,50
-		c0,27.614-22.388,50-50,50C22.389,100,0,77.614,0,50"/>
+	<g display="inline" opacity="0.31">
+		<path d="M92,152c-1.06,0-2.076-0.42-2.826-1.169C88.422,150.08,88,149.062,88,148V92c0-2.209,1.791-4,4-4h56c2.209,0,4,1.791,4,4
+			v55.92c0,2.207-1.788,3.997-3.994,4C148.006,151.92,92.002,152,92,152z"/>
+		<path d="M148,92v55.92L92,148V92H148 M148,84H92c-4.418,0-8,3.582-8,8v56c0,2.124,0.844,4.16,2.347,5.661
+			C87.847,155.159,89.88,156,92,156c0.004,0,0.008,0,0.011,0l56-0.08c4.414-0.006,7.989-3.586,7.989-8V92
+			C156,87.582,152.418,84,148,84L148,84z"/>
+	</g>
 </g>
 <g id="Your_Icon">
 </g>
 <g id="Layer_4">
-	<path d="M39.5,76c-18.748,0-34-15.252-34-34s15.252-34,34-34s34,15.252,34,34S58.248,76,39.5,76z M39.5,16
-		c-14.337,0-26,11.664-26,26s11.663,26,26,26s26-11.664,26-26S53.837,16,39.5,16z"/>
-	<path d="M90.5,100c-1.014,0-2.026-0.382-2.806-1.149l-31.5-31c-1.574-1.55-1.595-4.082-0.045-5.657
-		c1.549-1.575,4.082-1.594,5.656-0.045l31.5,31c1.574,1.55,1.595,4.082,0.045,5.657C92.568,99.601,91.534,100,90.5,100z"/>
-	<path d="M54,46H24c-2.209,0-4-1.791-4-4s1.791-4,4-4h30c2.209,0,4,1.791,4,4S56.209,46,54,46z"/>
-	<path d="M39,61c-2.209,0-4-1.791-4-4V27c0-2.209,1.791-4,4-4s4,1.791,4,4v30C43,59.209,41.209,61,39,61z"/>
+	<path d="M38,10c15.465,0,28,12.534,28,28c0,15.46-12.535,28-28,28S10,53.46,10,38C10,22.534,22.535,10,38,10 M38,0
+		C17.047,0,0,17.047,0,38s17.047,38,38,38s38-17.047,38-38S58.953,0,38,0L38,0z"/>
+	<rect x="54.958" y="73.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 79 -32.7229)" width="48.083" height="11"/>
+	<rect x="20" y="33" width="36" height="10"/>
+	<rect x="33" y="20" width="10" height="36"/>
+	<rect x="20" y="33" width="36" height="10"/>
+	<rect x="33" y="20" width="10" height="36"/>
 </g>
 </svg>

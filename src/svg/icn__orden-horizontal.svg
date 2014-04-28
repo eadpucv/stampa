@@ -4,25 +4,14 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
 	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
 <g id="Layer_3" display="none">
-	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="49.5" r="17.5"/>
-	<polyline display="inline" opacity="0.15" points="95,5 5,5 5,95 95,95 	"/>
-	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="26"/>
-	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="50" r="34"/>
-	<circle display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="50" cy="49.5" r="9"/>
-	<path display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M0,50C0,22.386,22.389,0,50,0
-		c27.612,0,50,22.386,50,50"/>
-	<path display="inline" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M100,50
-		c0,27.614-22.388,50-50,50C22.389,100,0,77.614,0,50"/>
 </g>
 <g id="Your_Icon">
-	<path d="M72,77.5c-1.024,0-2.047-0.391-2.829-1.171c-1.562-1.562-1.562-4.095,0-5.657L89.843,50L69.171,29.329
-		C68.391,28.547,68,27.524,68,26.5s0.391-2.047,1.171-2.829c1.562-1.562,4.095-1.562,5.657,0l23.5,23.5
-		C99.109,47.953,99.5,48.976,99.5,50s-0.391,2.047-1.171,2.829l-23.5,23.5C74.047,77.109,73.024,77.5,72,77.5z"/>
-	<path d="M50,84c-2.209,0-4-1.791-4-4V20c0-2.209,1.791-4,4-4s4,1.791,4,4v60C54,82.209,52.209,84,50,84z"/>
-	<path d="M28.5,77.5c-1.024,0-2.047-0.391-2.829-1.171l-23.5-23.5C1.391,52.047,1,51.024,1,50s0.391-2.047,1.171-2.829l23.5-23.5
-		c1.562-1.562,4.095-1.562,5.657,0c0.781,0.781,1.171,1.805,1.171,2.829s-0.391,2.047-1.171,2.829L10.657,50l20.672,20.671
-		c1.562,1.562,1.562,4.095,0,5.657C30.547,77.109,29.524,77.5,28.5,77.5z"/>
 </g>
 <g id="Layer_4">
+	<rect x="45" y="17" width="10" height="66"/>
+	<path d="M29.75,80.571L2.714,53.534c-0.938-0.938-1.464-2.209-1.464-3.535s0.527-2.598,1.464-3.536L29.75,19.429l7.071,7.071
+		l-23.5,23.499l23.5,23.501L29.75,80.571z"/>
+	<path d="M70.25,80.571L63.179,73.5l23.5-23.501L63.179,26.5l7.071-7.071l27.036,27.035c0.938,0.938,1.464,2.209,1.464,3.536
+		s-0.527,2.598-1.464,3.535L70.25,80.571z"/>
 </g>
 </svg>
