@@ -13,6 +13,8 @@
 		el.innerHTML = '<span style="font-family: \'Stampa\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'icn-subir': '&#xe619;',
+		'icn-circulo': '&#xe618;',
 		'icn-trabajo-l': '&#xe603;',
 		'icn-tiempo-l': '&#xe604;',
 		'icn-perfil-l': '&#xe605;',
