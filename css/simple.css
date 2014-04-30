@@ -28,7 +28,7 @@ h2{
 	font-size: 32px;
 	font-weight: 400;
 	color: rgba(69, 71, 71, 1);
-	display: block;
+	clear: both;
 }
 
 h3{
