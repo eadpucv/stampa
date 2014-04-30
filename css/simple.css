@@ -209,3 +209,21 @@ border-bottom: none !important;
 -moz-border-radius-topright: 10px;
 -webkit-border-top-right-radius: 10px;
 }
+
+.caja-icono {
+	width:75px;
+	height: 80px;
+	background-color: rgba(226, 226, 226, 1);
+	display: block;
+	border-radius: 5px;
+	text-align: center;
+	margin: 5px 10px;
+	padding: 5px;
+	float: left;
+}
+
+.caja-icono p {
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 13px;
+}
