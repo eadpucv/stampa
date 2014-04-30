@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Layer_3" display="none">
+</g>
+<g id="Your_Icon">
+</g>
+<g id="Layer_4">
+	<g>
+		<rect x="28" y="83" fill="none" width="44" height="7"/>
+		<rect x="28" y="10" fill="none" width="44" height="8"/>
+		<polygon fill="none" points="28,27.278 50,43.753 72,27.278 72,27 28,27 		"/>
+		<polygon fill="none" points="28,72.722 28,73 72,73 72,72.722 50,56.247 		"/>
+		<path d="M82,29.78V5c0-2.761-2.238-5-5-5H23c-2.762,0-5,2.239-5,5v24.78c0,1.575,0.742,3.058,2.003,4.002L41.659,50L20.003,66.218
+			C18.742,67.162,18,68.645,18,70.22V95c0,2.762,2.238,5,5,5h54c2.762,0,5-2.238,5-5V70.22c0-1.575-0.742-3.058-2.003-4.002
+			L58.341,50l21.656-16.218C81.258,32.838,82,31.355,82,29.78z M28,10h44v8H28V10z M72,90H28v-7h44V90z M72,72.722V73H28v-0.278
+			l22-16.475L72,72.722z M72,27.278L50,43.753L28,27.278V27h44V27.278z"/>
+	</g>
+</g>
+</svg>

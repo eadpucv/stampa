@@ -28,7 +28,7 @@ h2{
 	font-size: 32px;
 	font-weight: 400;
 	color: rgba(69, 71, 71, 1);
-	display: block;
+	clear: both;
 }
 
 h3{
@@ -116,7 +116,7 @@ footer a:visited{
 }
 
 footer {
-	margin-top: 100px;
+	margin-top: 120px;
 	color: #A5CFE8;
 	font-size: 14px;
 	font-weight: 300;
@@ -208,4 +208,26 @@ border-bottom: none !important;
 -webkit-border-top-left-radius: 10px;
 -moz-border-radius-topright: 10px;
 -webkit-border-top-right-radius: 10px;
+}
+
+.caja-icono {
+	width:80px;
+	height: 80px;
+	background-color: rgba(226, 226, 226, 1);
+	display: block;
+	border-radius: 5px;
+	text-align: center;
+	margin: 10px;
+	padding: 5px;
+	float: left;
+}
+
+.caja-icono p {
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 13px;
+}
+
+.caja-icono:last-child {
+	margin-bottom: 80px;
 }
