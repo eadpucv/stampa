@@ -14,4 +14,4 @@ Este proyecto está construido sobre los principios de:
 [4]: http://github.com/eadpucv/pyxis
 
 ##Actualizaciones##
-- v2.0.0-alpha : Set de 65 íconos desde cero. Incoroporación de principios de Font Awesome.
+- v2.0.0-alpha : Set de 89 íconos desde cero incluyendo íconos lineales. Incoroporación de principios de Font Awesome.
