@@ -18,13 +18,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
 .icn-sm {
-  font-size: 1em;
-  line-height: 1em;
+  font-size: 0.6em;
+  line-height: 0.6em;
+  vertical-align: 15%;
 }
 .icn-md {
-  font-size: 1.3333333333333333em;
-  line-height: 0.75em;
-  vertical-align: -15%;
+  font-size: 1em;
+  line-height: 1em;
 }
 .icn-lg {
   font-size: 1.6666666666666667em;
@@ -33,7 +33,7 @@
 }
 .icn-xl {
   font-size: 3em;
-  line-height: 3em;
+  line-height: 2em;
   vertical-align: -15%;
 }
 .icn-2x {
