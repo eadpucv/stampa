@@ -40,6 +40,12 @@ h3{
 	text-transform: uppercase;
 }
 
+h4 {
+	font-size: 19px;
+	font-weight: 400;
+	color: #0969A2
+}
+
 a,ul,li{
 	text-decoration: none;
 	list-style: none;
@@ -76,7 +82,7 @@ nav {
 
 nav li{
 	float:left;
-	margin-right: 115px;
+	margin-right: 170px;
 	color: #0969A2;
 	font-size: 15px;
 	font-weight: 400;
