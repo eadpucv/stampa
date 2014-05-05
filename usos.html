@@ -32,6 +32,7 @@
     </header>
 
     <div class='content'>
+
         <h2>Íconos alineados con el texto </h2>
 
         <p>
@@ -61,8 +62,6 @@
         <script src="https://gist.github.com/creyesnav/9979745.js"></script>
 
         <br>
-
-        <h2>Íconos inversos</h2>
 
         <h2>Íconos enumeradores</h2>
 
@@ -98,16 +97,38 @@
         <h2>Íconos apilados</h2>
 
         <p>
-            Se pueden apilar íconos de Stampa usando la clase <code>icn-stack</code> dentro de la etiqueta agrupadora <code> &ltspan&gt</code>, las clases <code>icn-stack-1x</code> para el ícono de menor tamaño e <code> icn-stack-2x</code> para el de mayor.
+            Se pueden apilar íconos de Stampa usando la clase <code>icn-stack</code> dentro de la etiqueta agrupadora <code> &ltspan&gt</code>, seguida por los íconos que se desean agrupar.
+            <br>
+            <br>
+            Para los íconos, se pueden usar las clases <code>icn-stack-1x</code> para el ícono de menor tamaño e <code> icn-stack-2x</code> para el de mayor, de manera que no se sobrepongan entre ellos.
+            <br>
+            <br>
+            Además se incluye la clase <code>icn-inverse</code> la cual cambia el color de relleno del ícono a su opuesto, siendo en este caso el blanco, de manera que se pueda sobreponer un ícono en uno con relleno.
             <br>
         </p>
 
         <p class="ejemplo">
         <span class="icn-stack">
-            <i class="icn icn-cuadro icn-stack-2x"></i>
+            <i class="icn icn-cuadro-l icn-stack-2x"></i>
             <i class="icn icn-twitter icn-stack-1x"></i>
         </span>
-        icn-cuadro e icn-twitter
+        icn-cuadro-l sobre icn-twitter
+        <br>
+        <br>
+        <br>
+        <span class="icn-stack">
+            <i class="icn icn-cuadro icn-stack-2x"></i>
+            <i class="icn icn-facebook icn-stack-1x icn-inverse"></i>
+        </span>
+        icn-cuadro sobre icn-facebook
+        <br>
+        <br>
+        <br>
+        <span class="icn-stack icn-lg">
+            <i class="icn icn-circulo-l icn-stack-2x"></i>
+            <i class="icn icn-rss icn-stack-1x"></i>
+        </span>
+        icn-circulo-l sobre icn-rss
         </p>
 
         <script src="https://gist.github.com/creyesnav/11040445.js"></script>
