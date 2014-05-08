@@ -13,6 +13,11 @@
 		el.innerHTML = '<span style="font-family: \'Stampa\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'icn-nav-abajo': '&#xe61c;',
+		'icn-nav-arriba': '&#xe61d;',
+		'icn-flecha-abajo': '&#xe61e;',
+		'icn-flecha-izq': '&#xe61f;',
+		'icn-flecha-arriba': '&#xe61b;',
 		'icn-subir': '&#xe619;',
 		'icn-circulo': '&#xe618;',
 		'icn-trabajo-l': '&#xe603;',
@@ -68,7 +73,7 @@
 		'icn-hogar': '&#xe64d;',
 		'icn-hedera': '&#xe64e;',
 		'icn-grafico': '&#xe64f;',
-		'icn-flecha': '&#xe650;',
+		'icn-flecha-der': '&#xe650;',
 		'icn-facebook': '&#xe651;',
 		'icn-etiqueta': '&#xe652;',
 		'icn-estrella': '&#xe653;',
@@ -81,6 +86,7 @@
 		'icn-descargar': '&#xe65a;',
 		'icn-cuadro': '&#xe65b;',
 		'icn-mas': '&#xe65c;',
+		'icn-menos': '&#xe61a;',
 		'icn-corazon': '&#xe65d;',
 		'icn-constel': '&#xe65e;',
 		'icn-compartir': '&#xe65f;',
