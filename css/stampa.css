@@ -289,8 +289,23 @@
 .icn-nav-izq:before {
   content: "\e602";
 }
-.icn-flecha:before {
+.icn-nav-arriba:before {
+  content: "\e601";
+}
+.icn-nav-abajo:before {
+  content: "\e602";
+}
+.icn-flecha-der:before {
   content: "\e650";
+}
+.icn-flecha-izq:before {
+  content: "\e61f";
+}
+.icn-flecha-arriba:before {
+  content: "\e61b";
+}
+.icn-flecha-abajo:before {
+  content: "\e61e";
 }
 .icn-visto:before {
   content: "\e62e";
@@ -303,6 +318,9 @@
 }
 .icn-mas:before {
   content: "\e65c";
+}
+.icn-menos:before {
+  content: "\e61a";
 }
 .icn-asterisco:before {
   content: "\e668";
