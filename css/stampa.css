@@ -304,6 +304,9 @@
 .icn-mas:before {
   content: "\e65c";
 }
+.icn-menos:before {
+  content: "\e61a";
+}
 .icn-asterisco:before {
   content: "\e668";
 }
