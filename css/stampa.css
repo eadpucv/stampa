@@ -397,10 +397,10 @@
 .icn-imagen:before {
   content: "\e64c";
 }
-.icn-perfil:before {
+.icn-usuario:before {
   content: "\e63a";
 }
-.icn-perfil-l:before {
+.icn-usuario-l:before {
   content: "\e605";
 }
 .icn-salir:before {
