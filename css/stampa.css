@@ -481,6 +481,9 @@
 .icn-circulo-l:before {
   content: "\e614";
 }
+.icn-prohibir:before {
+  content: "\e671";
+}
 .icn-subir:before {
   content: "\e619";
 }
