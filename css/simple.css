@@ -29,6 +29,7 @@ h2{
 	font-weight: 400;
 	color: rgba(69, 71, 71, 1);
 	clear: both;
+	margin-top: 60px;
 }
 
 h3{
@@ -176,7 +177,8 @@ hr {
 }
 
 .ejemplo {
-	font-size: 14px;
+	font-size: 15px;
+	line-height: 20px;
 	float: left;
 	text-align: top;
 	display: block;
