@@ -13,12 +13,18 @@
 		el.innerHTML = '<span style="font-family: \'Stampa\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'icn-menu': '&#xe678;',
+		'icn-perfil': '&#xe675;',
+		'icn-tablet': '&#xe674;',
+		'icn-pc': '&#xe676;',
+		'icn-movil': '&#xe677;',
+		'icn-estorninos': '&#xe679;',
 		'icn-usuarios': '&#xe66e;',
 		'icn-usuario-menos': '&#xe66f;',
 		'icn-usuario-mas': '&#xe670;',
+		'icn-admin': '&#xe673;',
 		'icn-prohibir': '&#xe671;',
 		'icn-bower': '&#xe672;',
-		'icn-admin': '&#xe673;',
 		'icn-vimeo': '&#xe620;',
 		'icn-stampa': '&#xe621;',
 		'icn-soundcloud': '&#xe622;',
