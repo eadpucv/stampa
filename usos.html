@@ -22,7 +22,7 @@
         <li><a href='https://github.com/eadpucv/stampa'>GIThub</a></li>
         </ul>
     </nav>
-    <header>
+    <header class='fondo-naranja-opuesto'>
         <div class='wrap'>
             <h1>Stampa
             <iframe class='github-btn' src="http://ghbtns.com/github-btn.html?user=eadpucv&repo=stampa&type=watch"
@@ -99,7 +99,7 @@
             <br><br>
             La dirección del ícono se puede modificar agregando al final de la clase la cantidad de ángulos que se desea rotar. De modo que las clases <code>icn-rotate-90</code>, <code>icn-rotate-180</code> e <code>icn-rotate-270</code> van cambiando la dirección del ícono.
             <br><br>
-            Las clases <code>icn-rotate-horizontal</code> e <code>icn-rotate-vertical</code> hacen un efecto espejo sobre el ícono en el sentido correspondiente.
+            Las clases <code>icn-flip-horizontal</code> e <code>icn-flip-vertical</code> hacen un efecto espejo sobre el ícono en el sentido correspondiente.
             <br><br>
         </p>
 
@@ -160,22 +160,52 @@
         </span>
         icn-cuadro / icn-facebook
 
-        <br>
-        <br>
+        <br><br>
+
         <span class="icn-stack icn-lg">
-            <i class="icn icn-circulo-l icn-stack-2x"></i>
-            <i class="icn icn-rss icn-stack-1x"></i>
+            <i class="icn icn-parlante icn-stack-1x"></i>
+            <i class="icn icn-prohibir icn-stack-2x"></i>
         </span>
-        icn-circulo-l / icn-rss
-        </p>
+
+        icn-parlante / icn-prohibir
 
         <script src="https://gist.github.com/creyesnav/11040445.js"></script>
 
+        <h2>Íconos con estilos CSS3</h2>
+
+        <p>
+            A las funciones previamente establecidas de Stampa, se le pueden agregar los estilos y clases del framework Pyxis, diseñado especialmente para la Escuela de Arquitectura y Diseño PUCV; cambiando así el color, agregando sombra, etc.
+            <br>
+        </p>
+
+
+        <p class='ejemplo'>
+            <span class="icn-stack icn-lg">
+              <i class="icn icn-cuadro icn-stack-2x naranja-opuesto"></i>
+              <i class="icn icn-facebook icn-stack-1x icn-inverse"></i>
+            </span>
+
+            <br><br>
+
+            <span class="icn-stack">
+              <i class="icn icn-camara icn-stack-1x"></i>
+              <i class="icn icn-prohibir icn-stack-2x rojo"></i>
+            </span>
+
+            <br><br>
+
+            <span class="icn-stack icn-lg">
+              <i class="icn icn-circulo icn-stack-2x naranja"></i>
+              <i class="icn icn-rss icn-stack-1x icn-inverse"></i> 
+            </span>
+        </p>
+
+        <script src="https://gist.github.com/creyesnav/392e9c14a39e1a75dd6d.js"></script>
         
 
     </div>
 
-    <footer>
+    <footer class='fondo-naranja-opuesto'>
     <div class='wrap'>
         <a href='https://github.com/eadpucv/stampa'>STAMPA v.2.0.0</a>
         <br>
