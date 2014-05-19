@@ -16,7 +16,7 @@
 			"properties": {
 				"order": 108,
 				"id": 116,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 59000,
 				"name": "menu",
 				"ligatures": ""
@@ -38,7 +38,7 @@
 			"properties": {
 				"order": 110,
 				"id": 119,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58997,
 				"name": "perfil",
 				"ligatures": ""
@@ -59,7 +59,7 @@
 			"properties": {
 				"order": 109,
 				"id": 120,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58996,
 				"name": "tablet",
 				"ligatures": ""
@@ -80,7 +80,7 @@
 			"properties": {
 				"order": 106,
 				"id": 118,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58998,
 				"name": "pc",
 				"ligatures": ""
@@ -102,7 +102,7 @@
 			"properties": {
 				"order": 107,
 				"id": 117,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58999,
 				"name": "movil",
 				"ligatures": ""
@@ -133,7 +133,7 @@
 			"properties": {
 				"order": 105,
 				"id": 115,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 59001,
 				"name": "estorninos",
 				"ligatures": ""
@@ -161,7 +161,7 @@
 			"properties": {
 				"order": 104,
 				"id": 114,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58990,
 				"name": "usuarios",
 				"ligatures": ""
@@ -184,7 +184,7 @@
 			"properties": {
 				"order": 103,
 				"id": 113,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58991,
 				"name": "usuario-menos",
 				"ligatures": ""
@@ -207,7 +207,7 @@
 			"properties": {
 				"order": 102,
 				"id": 112,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58992,
 				"name": "usuario-mas",
 				"ligatures": ""
@@ -230,7 +230,7 @@
 			"properties": {
 				"order": 99,
 				"id": 109,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58995,
 				"name": "admin",
 				"ligatures": ""
@@ -251,7 +251,7 @@
 			"properties": {
 				"order": 101,
 				"id": 111,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58993,
 				"name": "prohibir",
 				"ligatures": ""
@@ -272,7 +272,7 @@
 			"properties": {
 				"order": 100,
 				"id": 110,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58994,
 				"name": "bower",
 				"ligatures": ""
@@ -293,7 +293,7 @@
 			"properties": {
 				"order": 89,
 				"id": 108,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58912,
 				"name": "vimeo",
 				"ligatures": ""
@@ -314,7 +314,7 @@
 			"properties": {
 				"order": 98,
 				"id": 107,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58913,
 				"name": "stampa",
 				"ligatures": ""
@@ -338,7 +338,7 @@
 			"properties": {
 				"order": 90,
 				"id": 106,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58914,
 				"name": "soundcloud",
 				"ligatures": ""
@@ -359,7 +359,7 @@
 			"properties": {
 				"order": 91,
 				"id": 105,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58915,
 				"name": "parlante",
 				"ligatures": ""
@@ -380,7 +380,7 @@
 			"properties": {
 				"order": 92,
 				"id": 104,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58916,
 				"name": "parlante-l",
 				"ligatures": ""
@@ -402,7 +402,7 @@
 			"properties": {
 				"order": 93,
 				"id": 103,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58917,
 				"name": "less",
 				"ligatures": ""
@@ -424,7 +424,7 @@
 			"properties": {
 				"order": 94,
 				"id": 102,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58918,
 				"name": "jekyll",
 				"ligatures": ""
@@ -446,7 +446,7 @@
 			"properties": {
 				"order": 95,
 				"id": 101,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58919,
 				"name": "flickr",
 				"ligatures": ""
@@ -467,7 +467,7 @@
 			"properties": {
 				"order": 96,
 				"id": 99,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58921,
 				"name": "caron-der",
 				"ligatures": ""
@@ -488,7 +488,7 @@
 			"properties": {
 				"order": 97,
 				"id": 96,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58924,
 				"name": "camara",
 				"ligatures": ""
@@ -509,7 +509,7 @@
 			"properties": {
 				"order": 88,
 				"id": 95,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58925,
 				"name": "burbuja",
 				"ligatures": ""
@@ -531,7 +531,7 @@
 			"properties": {
 				"order": 87,
 				"id": 94,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58932,
 				"name": "anuncio",
 				"ligatures": ""
@@ -553,7 +553,7 @@
 			"properties": {
 				"order": 85,
 				"id": 87,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58905,
 				"name": "subir",
 				"ligatures": ""
@@ -574,7 +574,7 @@
 			"properties": {
 				"order": 84,
 				"id": 86,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58904,
 				"name": "circulo",
 				"ligatures": ""
@@ -596,7 +596,7 @@
 			"properties": {
 				"order": 82,
 				"id": 85,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58883,
 				"name": "trabajo-l",
 				"ligatures": ""
@@ -617,7 +617,7 @@
 			"properties": {
 				"order": 78,
 				"id": 84,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58884,
 				"name": "tiempo-l",
 				"ligatures": ""
@@ -639,7 +639,7 @@
 			"properties": {
 				"order": 79,
 				"id": 83,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58885,
 				"name": "perfil-l",
 				"ligatures": ""
@@ -661,7 +661,7 @@
 			"properties": {
 				"order": 66,
 				"id": 82,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58886,
 				"name": "ojo-l",
 				"ligatures": ""
@@ -682,7 +682,7 @@
 			"properties": {
 				"order": 67,
 				"id": 81,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58887,
 				"name": "marcador-l",
 				"ligatures": ""
@@ -704,7 +704,7 @@
 			"properties": {
 				"order": 68,
 				"id": 80,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58888,
 				"name": "mapa-l",
 				"ligatures": ""
@@ -727,7 +727,7 @@
 			"properties": {
 				"order": 69,
 				"id": 79,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58889,
 				"name": "mapa-mas-l",
 				"ligatures": ""
@@ -748,7 +748,7 @@
 			"properties": {
 				"order": 70,
 				"id": 77,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58891,
 				"name": "mano-der",
 				"ligatures": ""
@@ -769,7 +769,7 @@
 			"properties": {
 				"order": 71,
 				"id": 76,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58892,
 				"name": "lapiz-l",
 				"ligatures": ""
@@ -790,7 +790,7 @@
 			"properties": {
 				"order": 72,
 				"id": 75,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58893,
 				"name": "impresora-l",
 				"ligatures": ""
@@ -811,7 +811,7 @@
 			"properties": {
 				"order": 73,
 				"id": 74,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58894,
 				"name": "hogar-l",
 				"ligatures": ""
@@ -835,7 +835,7 @@
 			"properties": {
 				"order": 74,
 				"id": 73,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58895,
 				"name": "grafico-l",
 				"ligatures": ""
@@ -856,7 +856,7 @@
 			"properties": {
 				"order": 75,
 				"id": 72,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58896,
 				"name": "estrella-l",
 				"ligatures": ""
@@ -877,7 +877,7 @@
 			"properties": {
 				"order": 76,
 				"id": 71,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58897,
 				"name": "documento-l",
 				"ligatures": ""
@@ -898,7 +898,7 @@
 			"properties": {
 				"order": 77,
 				"id": 70,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58898,
 				"name": "cuadro-l",
 				"ligatures": ""
@@ -919,7 +919,7 @@
 			"properties": {
 				"order": 81,
 				"id": 69,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58899,
 				"name": "corazon-l",
 				"ligatures": ""
@@ -940,7 +940,7 @@
 			"properties": {
 				"order": 80,
 				"id": 68,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58900,
 				"name": "circulo-l",
 				"ligatures": ""
@@ -962,7 +962,7 @@
 			"properties": {
 				"order": 65,
 				"id": 67,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58901,
 				"name": "cerrado-l",
 				"ligatures": ""
@@ -984,7 +984,7 @@
 			"properties": {
 				"order": 64,
 				"id": 66,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58902,
 				"name": "abierto-l",
 				"ligatures": ""
@@ -1007,7 +1007,7 @@
 			"properties": {
 				"order": 63,
 				"id": 65,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58903,
 				"name": "aviso-l",
 				"ligatures": ""
@@ -1018,7 +1018,7 @@
 		{
 			"icon": {
 				"paths": [
-					"M327.68 473.6c56.556 0 102.4 45.844 102.4 102.4s-45.844 102.4-102.4 102.4c-56.535 0-102.4-45.844-102.4-102.4s45.865-102.4 102.4-102.4zM327.68 371.2c-112.927 0-204.8 91.873-204.8 204.8s91.873 204.8 204.8 204.8 204.8-91.873 204.8-204.8-91.873-204.8-204.8-204.8v0z"
+					"M327.68 512c56.556 0 102.4 45.844 102.4 102.4s-45.844 102.4-102.4 102.4c-56.535 0-102.4-45.844-102.4-102.4s45.865-102.4 102.4-102.4zM327.68 409.6c-112.927 0-204.8 91.873-204.8 204.8s91.873 204.8 204.8 204.8 204.8-91.873 204.8-204.8-91.873-204.8-204.8-204.8v0z"
 				],
 				"tags": [
 					"vineta"
@@ -1029,7 +1029,7 @@
 			"properties": {
 				"order": 62,
 				"id": 62,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58927,
 				"name": "vineta",
 				"ligatures": ""
@@ -1054,7 +1054,7 @@
 			"properties": {
 				"order": 1,
 				"id": 61,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58928,
 				"name": "vinculo",
 				"ligatures": ""
@@ -1075,7 +1075,7 @@
 			"properties": {
 				"order": 2,
 				"id": 60,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58929,
 				"name": "twitter",
 				"ligatures": ""
@@ -1098,7 +1098,7 @@
 			"properties": {
 				"order": 3,
 				"id": 59,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58930,
 				"name": "trabajo",
 				"ligatures": ""
@@ -1119,7 +1119,7 @@
 			"properties": {
 				"order": 4,
 				"id": 58,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58931,
 				"name": "tiempo",
 				"ligatures": ""
@@ -1140,7 +1140,7 @@
 			"properties": {
 				"order": 5,
 				"id": 56,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58933,
 				"name": "seccion",
 				"ligatures": ""
@@ -1162,7 +1162,7 @@
 			"properties": {
 				"order": 6,
 				"id": 55,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58934,
 				"name": "salir",
 				"ligatures": ""
@@ -1186,7 +1186,7 @@
 			"properties": {
 				"order": 7,
 				"id": 54,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58935,
 				"name": "rss",
 				"ligatures": ""
@@ -1208,7 +1208,7 @@
 			"properties": {
 				"order": 8,
 				"id": 53,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58936,
 				"name": "reloj",
 				"ligatures": ""
@@ -1230,7 +1230,7 @@
 			"properties": {
 				"order": 9,
 				"id": 52,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58937,
 				"name": "refrescar",
 				"ligatures": ""
@@ -1252,7 +1252,7 @@
 			"properties": {
 				"order": 10,
 				"id": 51,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58938,
 				"name": "usuario",
 				"ligatures": ""
@@ -1276,7 +1276,7 @@
 			"properties": {
 				"order": 11,
 				"id": 50,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58939,
 				"name": "parrafo",
 				"ligatures": ""
@@ -1299,7 +1299,7 @@
 			"properties": {
 				"order": 12,
 				"id": 49,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58940,
 				"name": "orden-ver",
 				"ligatures": ""
@@ -1322,7 +1322,7 @@
 			"properties": {
 				"order": 13,
 				"id": 48,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58941,
 				"name": "orden-hor",
 				"ligatures": ""
@@ -1343,7 +1343,7 @@
 			"properties": {
 				"order": 14,
 				"id": 47,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58942,
 				"name": "ojo",
 				"ligatures": ""
@@ -1367,7 +1367,7 @@
 			"properties": {
 				"order": 15,
 				"id": 46,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58943,
 				"name": "noticias",
 				"ligatures": ""
@@ -1388,7 +1388,7 @@
 			"properties": {
 				"order": 16,
 				"id": 45,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58944,
 				"name": "marcador",
 				"ligatures": ""
@@ -1409,7 +1409,7 @@
 			"properties": {
 				"order": 17,
 				"id": 44,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58945,
 				"name": "mapa",
 				"ligatures": ""
@@ -1434,7 +1434,7 @@
 			"properties": {
 				"order": 18,
 				"id": 43,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58946,
 				"name": "mapa-conceptual",
 				"ligatures": ""
@@ -1455,7 +1455,7 @@
 			"properties": {
 				"order": 19,
 				"id": 42,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58947,
 				"name": "mapa-agregar",
 				"ligatures": ""
@@ -1476,7 +1476,7 @@
 			"properties": {
 				"order": 20,
 				"id": 39,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58950,
 				"name": "lupa",
 				"ligatures": ""
@@ -1498,7 +1498,7 @@
 			"properties": {
 				"order": 21,
 				"id": 38,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58951,
 				"name": "lupa-menos",
 				"ligatures": ""
@@ -1522,7 +1522,7 @@
 			"properties": {
 				"order": 22,
 				"id": 37,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58952,
 				"name": "lupa-mas",
 				"ligatures": ""
@@ -1545,7 +1545,7 @@
 			"properties": {
 				"order": 23,
 				"id": 36,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58953,
 				"name": "lapiz",
 				"ligatures": ""
@@ -1567,7 +1567,7 @@
 			"properties": {
 				"order": 24,
 				"id": 35,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58954,
 				"name": "ingresar",
 				"ligatures": ""
@@ -1589,7 +1589,7 @@
 			"properties": {
 				"order": 25,
 				"id": 34,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58955,
 				"name": "impresora",
 				"ligatures": ""
@@ -1612,7 +1612,7 @@
 			"properties": {
 				"order": 26,
 				"id": 33,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58956,
 				"name": "imagen",
 				"ligatures": ""
@@ -1633,7 +1633,7 @@
 			"properties": {
 				"order": 27,
 				"id": 32,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58957,
 				"name": "hogar",
 				"ligatures": ""
@@ -1655,7 +1655,7 @@
 			"properties": {
 				"order": 28,
 				"id": 31,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58958,
 				"name": "hedera",
 				"ligatures": ""
@@ -1679,7 +1679,7 @@
 			"properties": {
 				"order": 29,
 				"id": 30,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58959,
 				"name": "grafico",
 				"ligatures": ""
@@ -1701,7 +1701,7 @@
 			"properties": {
 				"order": 30,
 				"id": 29,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58960,
 				"name": "flecha-der",
 				"ligatures": ""
@@ -1722,7 +1722,7 @@
 			"properties": {
 				"order": 31,
 				"id": 28,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58961,
 				"name": "facebook",
 				"ligatures": ""
@@ -1743,7 +1743,7 @@
 			"properties": {
 				"order": 32,
 				"id": 27,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58962,
 				"name": "etiqueta",
 				"ligatures": ""
@@ -1764,7 +1764,7 @@
 			"properties": {
 				"order": 33,
 				"id": 26,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58963,
 				"name": "estrella",
 				"ligatures": ""
@@ -1775,8 +1775,8 @@
 		{
 			"icon": {
 				"paths": [
-					"M124.857 300.903l478.022 477.751-72.387 72.428-478.022-477.751 72.387-72.428z",
-					"M530.421 300.847l72.407 72.407-477.886 477.886-72.407-72.407 477.886-477.886z"
+					"M124.857 332.903l478.022 477.751-72.387 72.428-478.022-477.751 72.387-72.428z",
+					"M530.421 332.847l72.407 72.407-477.886 477.886-72.407-72.407 477.886-477.886z"
 				],
 				"tags": [
 					"equis"
@@ -1787,7 +1787,7 @@
 			"properties": {
 				"order": 34,
 				"id": 25,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58964,
 				"name": "equis",
 				"ligatures": ""
@@ -1810,7 +1810,7 @@
 			"properties": {
 				"order": 35,
 				"id": 24,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58965,
 				"name": "enlace",
 				"ligatures": ""
@@ -1833,7 +1833,7 @@
 			"properties": {
 				"order": 36,
 				"id": 23,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58966,
 				"name": "enlace-hor",
 				"ligatures": ""
@@ -1854,7 +1854,7 @@
 			"properties": {
 				"order": 37,
 				"id": 22,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58967,
 				"name": "engranaje",
 				"ligatures": ""
@@ -1876,7 +1876,7 @@
 			"properties": {
 				"order": 38,
 				"id": 21,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58968,
 				"name": "email",
 				"ligatures": ""
@@ -1898,7 +1898,7 @@
 			"properties": {
 				"order": 39,
 				"id": 20,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58969,
 				"name": "documento",
 				"ligatures": ""
@@ -1920,7 +1920,7 @@
 			"properties": {
 				"order": 40,
 				"id": 19,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58970,
 				"name": "descargar",
 				"ligatures": ""
@@ -1941,7 +1941,7 @@
 			"properties": {
 				"order": 41,
 				"id": 18,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58971,
 				"name": "cuadro",
 				"ligatures": ""
@@ -1952,7 +1952,7 @@
 		{
 			"icon": {
 				"paths": [
-					"M655.36 524.8h-276.49l-0.082-276.49-102.4 0.020 0.082 276.47h-276.47v102.4h276.49l0.082 276.49 102.4-0.020-0.082-276.47h276.47z"
+					"M655.36 556.8h-276.49l-0.082-276.49-102.4 0.020 0.082 276.47h-276.47v102.4h276.49l0.082 276.49 102.4-0.020-0.082-276.47h276.47z"
 				],
 				"tags": [
 					"mas"
@@ -1963,7 +1963,7 @@
 			"properties": {
 				"order": 42,
 				"id": 17,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58972,
 				"name": "mas",
 				"ligatures": ""
@@ -1974,7 +1974,7 @@
 		{
 			"icon": {
 				"paths": [
-					"M0 524.8h655.36v102.4h-655.36v-102.4z"
+					"M0 556.8h655.36v102.4h-655.36v-102.4z"
 				],
 				"tags": [
 					"icn_menos"
@@ -1985,7 +1985,7 @@
 			"properties": {
 				"order": 86,
 				"id": 88,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58906,
 				"name": "menos",
 				"ligatures": ""
@@ -2006,7 +2006,7 @@
 			"properties": {
 				"order": 43,
 				"id": 16,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58973,
 				"name": "corazon",
 				"ligatures": ""
@@ -2029,7 +2029,7 @@
 			"properties": {
 				"order": 44,
 				"id": 15,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58974,
 				"name": "constel",
 				"ligatures": ""
@@ -2051,7 +2051,7 @@
 			"properties": {
 				"order": 45,
 				"id": 14,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58975,
 				"name": "compartir",
 				"ligatures": ""
@@ -2074,7 +2074,7 @@
 			"properties": {
 				"order": 46,
 				"id": 13,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58976,
 				"name": "codigo",
 				"ligatures": ""
@@ -2095,7 +2095,7 @@
 			"properties": {
 				"order": 47,
 				"id": 12,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58977,
 				"name": "clip",
 				"ligatures": ""
@@ -2119,7 +2119,7 @@
 			"properties": {
 				"order": 48,
 				"id": 11,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58978,
 				"name": "ciclo",
 				"ligatures": ""
@@ -2144,7 +2144,7 @@
 			"properties": {
 				"order": 49,
 				"id": 10,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58979,
 				"name": "casiopea",
 				"ligatures": ""
@@ -2166,7 +2166,7 @@
 			"properties": {
 				"order": 83,
 				"id": 9,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58980,
 				"name": "cerrado",
 				"ligatures": ""
@@ -2188,7 +2188,7 @@
 			"properties": {
 				"order": 50,
 				"id": 8,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58981,
 				"name": "abierto",
 				"ligatures": ""
@@ -2220,7 +2220,7 @@
 			"properties": {
 				"order": 51,
 				"id": 7,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58982,
 				"name": "calendario",
 				"ligatures": ""
@@ -2243,7 +2243,7 @@
 			"properties": {
 				"order": 52,
 				"id": 6,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58983,
 				"name": "biblioteca",
 				"ligatures": ""
@@ -2254,7 +2254,7 @@
 		{
 			"icon": {
 				"paths": [
-					"M655.38 460.902l-204.052-0.061 144.906-145.009-72.448-72.387-144.937 145.050-0.061-204.186-102.4 0.020 0.061 202.691-143.473-143.575-72.438 72.387 144.824 144.927-205.343-0.061-0.041 102.4 204.329 0.061-143.77 143.872 72.438 72.387 143.534-143.636 0.061 203.909 102.4-0.020-0.061-205.23 144.876 144.978 72.448-72.387-143.698-143.79 202.803 0.061z"
+					"M655.38 524.902l-204.052-0.061 144.906-145.009-72.448-72.387-144.937 145.050-0.061-204.186-102.4 0.020 0.061 202.691-143.473-143.575-72.438 72.387 144.824 144.927-205.343-0.061-0.041 102.4 204.329 0.061-143.77 143.872 72.438 72.387 143.534-143.636 0.061 203.909 102.4-0.020-0.061-205.23 144.876 144.978 72.448-72.387-143.698-143.79 202.803 0.061z"
 				],
 				"tags": [
 					"asterisco"
@@ -2265,7 +2265,7 @@
 			"properties": {
 				"order": 53,
 				"id": 5,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58984,
 				"name": "asterisco",
 				"ligatures": ""
@@ -2290,7 +2290,7 @@
 			"properties": {
 				"order": 54,
 				"id": 4,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58985,
 				"name": "archivo",
 				"ligatures": ""
@@ -2311,7 +2311,7 @@
 			"properties": {
 				"order": 55,
 				"id": 3,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58986,
 				"name": "ampolleta",
 				"ligatures": ""
@@ -2335,7 +2335,7 @@
 			"properties": {
 				"order": 56,
 				"id": 2,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58987,
 				"name": "alarma",
 				"ligatures": ""
@@ -2356,7 +2356,7 @@
 			"properties": {
 				"order": 57,
 				"id": 1,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58988,
 				"name": "aviso",
 				"ligatures": ""
@@ -2379,7 +2379,7 @@
 			"properties": {
 				"order": 58,
 				"id": 0,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58989,
 				"name": "acto",
 				"ligatures": ""
@@ -2400,7 +2400,7 @@
 			"properties": {
 				"order": 59,
 				"id": 0,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58880,
 				"name": "travesia",
 				"ligatures": ""
@@ -2421,7 +2421,7 @@
 			"properties": {
 				"order": 60,
 				"id": 1,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58881,
 				"name": "nav-der",
 				"ligatures": ""
@@ -2432,7 +2432,7 @@
 		{
 			"icon": {
 				"paths": [
-					"M268.544 901.396c-11.622 0-22.999-3.963-32.164-11.356l-235.264-189.911 64.317-79.677 191.283 154.419 307.18-468.367 85.627 56.156-338.166 515.625c-7.936 12.083-20.603 20.255-34.877 22.497-2.652 0.41-5.304 0.614-7.936 0.614z"
+					"M268.544 933.396c-11.622 0-22.999-3.963-32.164-11.356l-235.264-189.911 64.317-79.677 191.283 154.419 307.18-468.367 85.627 56.156-338.166 515.625c-7.936 12.083-20.603 20.255-34.877 22.497-2.652 0.41-5.304 0.614-7.936 0.614z"
 				],
 				"tags": [
 					"visto"
@@ -2443,7 +2443,7 @@
 			"properties": {
 				"order": 61,
 				"id": 63,
-				"prevSize": 16,
+				"prevSize": 32,
 				"code": 58926,
 				"name": "visto",
 				"ligatures": ""
@@ -2475,7 +2475,7 @@
 			"showGlyphs": true,
 			"metrics": {
 				"emSize": 512,
-				"baseline": 6.25,
+				"baseline": 6.15,
 				"whitespace": 50
 			},
 			"resetPoint": 58880,
