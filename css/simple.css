@@ -240,3 +240,9 @@ border-bottom: none !important;
 	margin-bottom: 60px;
 }
 
+.tres-columnas {
+       -moz-column-count: 3;
+       -moz-column-gap: 20px;
+       -webkit-column-count: 3;
+       -webkit-column-gap: 20px;
+}
