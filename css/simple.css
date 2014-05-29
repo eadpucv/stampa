@@ -29,7 +29,7 @@ h2{
 	font-weight: 400;
 	color: rgba(69, 71, 71, 1);
 	clear: both;
-	margin-top: 60px;
+	margin-top: 70px;
 }
 
 h3{
@@ -63,6 +63,8 @@ a,ul,li{
 	margin: auto;
 }
 
+/* Header y footer */
+
 header,footer {
 	display: block;
 	padding-top: 20px;
@@ -72,6 +74,50 @@ header,footer {
 header,footer a{
 	color: white;
 }
+
+header {
+	margin-bottom: 50px;
+	border-bottom: solid rgba(226, 226, 226, 1) 25px;
+}
+
+header a:link{
+	color: white;
+}
+
+header a:visited{
+	color: white;
+}
+
+header a:hover{
+	color: #034369;
+}
+
+header a:active{
+	color: white;
+}
+
+footer {
+	margin-top: 150px;
+	color: #A5CFE8;
+	font-size: 14px;
+	font-weight: 300;
+	text-align: center;
+	letter-spacing: .1ex;
+	clear: both;
+}
+
+footer a:link{}
+
+footer a:visited{
+	color: rgba(226, 226, 226, 1);
+}
+
+footer a:hover{}
+
+footer a:active{}
+
+
+/* Barra de navegación */
 
 nav {
 	background-color: rgba(226, 226, 226, 1);
@@ -92,19 +138,6 @@ nav li:last-child{
 	margin-right: 0px;
 }
 
-header {
-	margin-bottom: 50px;
-	border-bottom: solid rgba(226, 226, 226, 1) 25px;
-}
-
-header a:active{
-	color: #0969A2;
-}
-
-header a:visited{
-	color: rgba(226, 226, 226, 1);
-}
-
 nav a:link {
 	color: #0969A2;
 }
@@ -114,21 +147,14 @@ nav a:visited{
 }
 
 nav a:hover{
-	color: #034369;;
+	color: #034369;
 }
 
-footer a:visited{
-	color: rgba(226, 226, 226, 1);
+nav a:active{
+	color: #0969A2;
 }
 
-footer {
-	margin-top: 150px;
-	color: #A5CFE8;
-	font-size: 14px;
-	font-weight: 300;
-	text-align: center;
-	letter-spacing: .1ex;
-}
+/* Tablas */
 
 table{
 	background-color: #A5CFE8;
@@ -150,6 +176,9 @@ table td{
 table td span{
 	color: inherit;
 }
+
+/* Códigos y GIST */
+
 code{
 	display: inline-block;
 	font-family: Menlo, Monaco, monospace;
@@ -161,32 +190,6 @@ code{
 	-moz-border-radius: 4px;
 	border-radius: 4px;
 	font-size: 14px;
-}
-
-hr {
-	margin-top: 40px;
-	background-color: rgba(226, 226, 226, 1);
-	height: 5px;
-	border: none;
-}
-
-.gigante {
-	font-size: 170px;
-	text-align: center;
-}
-
-.ejemplo {
-	font-size: 15px;
-	line-height: 20px;
-	float: left;
-	text-align: top;
-	display: block;
-	border-right: solid rgba(226, 226, 226, 1) 5px;
-	width: 210px;
-	max-height: 150px;
-	padding: 15px 25px 15px 0px;
-	margin-right: 30px;
-	margin-bottom: 30px;
 }
 
 .gist{
@@ -218,6 +221,14 @@ border-bottom: none !important;
 -webkit-border-top-right-radius: 10px;
 }
 
+
+/* Otros */
+
+.gigante {
+	font-size: 170px;
+	text-align: center;
+}
+
 .caja-icono {
 	width:80px;
 	height: 80px;
@@ -236,3 +247,189 @@ border-bottom: none !important;
 	line-height: 13px;
 }
 
+.caja-icono:last-child{
+	margin-bottom: 60px;
+}
+
+.tres-columnas {
+       -moz-column-count: 3;
+       -moz-column-gap: 20px;
+       -webkit-column-count: 3;
+       -webkit-column-gap: 20px;
+}
+
+.ejemplo {
+	font-size: 15px;
+	line-height: 20px;
+	float: left;
+	text-align: top;
+	display: block;
+	border-right: solid rgba(226, 226, 226, 1) 5px;
+	width: 210px;
+	max-height: 150px;
+	padding: 15px 25px 15px 0px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+
+/* Media queries*/
+
+@media (max-width: 800px) {
+
+	h1{
+		font-size: 150px;
+	}
+
+	h2{
+		font-size: 30px;
+	}
+
+	.wrap{
+		max-width: 550px;
+	}
+
+	nav li{
+		margin-right: 20%;
+		color: #0969A2;
+		font-size: 18px;
+		font-weight: 400;
+	}
+
+	.github-btn{
+		display: none;
+	}
+
+	.gigante{
+		font-size: 140px;
+	}
+
+	.ejemplo {
+	font-size: 15px;
+	line-height: 20px;
+	float: none;
+	text-align: top;
+	display: block;
+	border-right: none;
+	border-bottom: solid rgba(226, 226, 226, 1) 5px;
+	width: 95%;
+	max-height: auto;
+	margin-right: none;
+	margin-bottom: 30px;
+	padding: 15px 0px 45px 0px;
+}
+}
+
+@media (max-width: 640px) {
+
+	h1{
+		font-size: 120px;
+	}
+
+	h2{
+		font-size: 30px;
+		margin-top: 30px;
+	}
+
+	.wrap{
+		max-width: 78%;
+	}
+
+
+	nav li{
+		margin-right: 17%;
+		color: #0969A2;
+		font-size: 18px;
+		font-weight: 400;
+	}
+
+	.github-btn{
+		display: none;
+	}
+
+	.gigante{
+		font-size: 100px;
+	}
+
+	footer {
+	margin-top: 90px;
+	}
+}
+
+@media (max-width: 480px) {
+
+
+	h1{
+		font-size: 100px;
+	}
+
+	h2{
+		font-size: 20px;
+		margin-top: 15px;
+	}
+
+	h4{
+		font-size: 16px;
+	}
+
+
+	.wrap{
+		max-width: 84%;
+	}
+
+	.content{
+		width: 84%;
+	}
+
+	nav li{
+		margin-right: 15%;
+		color: #0969A2;
+		font-size: 16px;
+		font-weight: 400;
+	}
+
+	.github-btn{
+		display: none;
+	}
+
+	.gigante{
+		display: none;
+	}
+
+	header {
+	min-height: 237px;
+	}
+
+	footer {
+	margin-top: 90px;
+	max-height: 70px;
+	bottom: 0px;
+	}
+
+	.caja-icono {
+	display: block;
+	float: none;
+	width:90%;
+	height: auto;
+	background-color: rgba(226, 226, 226, 1);
+	display: block;
+	margin: 5px 0px;
+	padding: 5px;
+	float: left;
+	}
+
+	.caja-icono p {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 14px;
+	}
+
+	.caja-icono i{
+		font-size: 16px;
+		line-height: 16px;	
+	}
+
+	.gist {
+		display: none;
+	}
+}
