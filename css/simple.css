@@ -52,6 +52,23 @@ a,ul,li{
 	list-style: none;
 }
 
+.content a:link{
+	font-weight: 400;
+	color:#0969A2;
+}
+
+.content a:visited{
+	color:#0969A2;
+}
+
+.content a:hover{
+	color:#0969A2;
+}
+
+.content a:active{
+	color:#0969A2;
+}
+
 
 .wrap {
 	max-width: 680px;
