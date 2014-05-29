@@ -13,6 +13,8 @@
 		el.innerHTML = '<span style="font-family: \'Stampa\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'icn-vineta-l': '&#xe602;',
+		'icn-cruz-sur': '&#xe606;',
 		'icn-menu': '&#xe678;',
 		'icn-perfil': '&#xe675;',
 		'icn-tablet': '&#xe674;',
@@ -42,7 +44,6 @@
 		'icn-trabajo-l': '&#xe603;',
 		'icn-tiempo-l': '&#xe604;',
 		'icn-perfil-l': '&#xe605;',
-		'icn-ojo-l': '&#xe606;',
 		'icn-marcador-l': '&#xe607;',
 		'icn-mapa-l': '&#xe608;',
 		'icn-mapa-mas-l': '&#xe609;',
