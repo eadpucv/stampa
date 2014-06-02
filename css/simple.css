@@ -52,6 +52,23 @@ a,ul,li{
 	list-style: none;
 }
 
+h4 a:link{
+	font-weight: 400;
+	color:#0969A2;
+}
+
+h4 a:visited{
+	color:#0969A2;
+}
+
+h4 a:hover{
+	color:#0969A2;
+}
+
+h4 a:active{
+	color:#0969A2;
+}
+
 .content a:link{
 	font-weight: 400;
 	color:#0969A2;
