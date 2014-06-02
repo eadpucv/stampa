@@ -1,4 +1,4 @@
-STAMPA v.2.0.0-alpha
+STAMPA v.2.1.0
 ======
 
 Fuente de íconos para ser usada por [Pyxis][4], el framework gráfico de la [Escuela de Arquitectura y Diseño PUCV][1].
@@ -14,4 +14,6 @@ Este proyecto está construido sobre los principios de:
 [4]: http://github.com/eadpucv/pyxis
 
 ##Actualizaciones##
-- v2.0.0-alpha : Set de 89 íconos desde cero incluyendo íconos lineales. Incoroporación de principios de Font Awesome.
+- v.2.1.0: Lista total de 125 íconos compuestos de 112 glifos. Se incorpora página de atajos dentro de less 'shorts.less' que es aplicada a 5 íconos direccionales, reduciendo el tamaño de la fuente Stampa.
+
+- v.2.0.0: Set de 89 íconos desde cero incluyendo íconos lineales. Incorporación de principios de Font Awesome.
