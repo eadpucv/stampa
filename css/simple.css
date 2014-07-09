@@ -4,7 +4,7 @@
 *
 */
 
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300,700,900,600);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro: 200,300,400,600);
 
 body{
 	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -51,6 +51,41 @@ a,ul,li{
 	text-decoration: none;
 	list-style: none;
 }
+
+h4 a:link{
+	font-weight: 400;
+	color:#0969A2;
+}
+
+h4 a:visited{
+	color:#0969A2;
+}
+
+h4 a:hover{
+	color:#0969A2;
+}
+
+h4 a:active{
+	color:#0969A2;
+}
+
+.content a:link{
+	font-weight: 400;
+	color:#0969A2;
+}
+
+.content a:visited{
+	color:#0969A2;
+}
+
+.content a:hover{
+	color:#0969A2;
+}
+
+.content a:active{
+	color:#0969A2;
+}
+
 
 
 .wrap {
@@ -354,13 +389,20 @@ border-bottom: none !important;
 	footer {
 	margin-top: 90px;
 	}
+
+	.tres-columnas {
+       -moz-column-count: 2;
+       -moz-column-gap: 30px;
+       -webkit-column-count: 2;
+       -webkit-column-gap: 30px;
+}
 }
 
 @media (max-width: 480px) {
 
 
 	h1{
-		font-size: 100px;
+		font-size: 80px;
 	}
 
 	h2{
@@ -382,9 +424,9 @@ border-bottom: none !important;
 	}
 
 	nav li{
-		margin-right: 15%;
+		margin-right: 14%;
 		color: #0969A2;
-		font-size: 16px;
+		font-size: 14px;
 		font-weight: 400;
 	}
 
@@ -397,7 +439,7 @@ border-bottom: none !important;
 	}
 
 	header {
-	min-height: 237px;
+	min-height: 200px;
 	}
 
 	footer {
@@ -432,4 +474,8 @@ border-bottom: none !important;
 	.gist {
 		display: none;
 	}
+
+	.tres-columnas {
+       -moz-column-count: 1;
+       -webkit-column-count: 1;
 }
