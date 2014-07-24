@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
 	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
 <g id="Layer_3">
 </g>
@@ -9,11 +9,9 @@
 </g>
 <g id="Layer_4">
 	<g>
-		<path fill="none" d="M35,76.891c0,7.639,6.363,13.853,14,13.853s14-6.214,14-13.853V8H35V76.891z M41,44h16v33.067
-			c0,4.606-3.399,8.333-7.999,8.333C44.402,85.4,41,81.674,41,77.067V44z"/>
-		<path d="M77,0H20v8h7v68.891c0,12.05,9.952,21.853,22,21.853s22-9.803,22-21.853V8h6V0z M63,76.891
-			c0,7.639-6.363,13.853-14,13.853s-14-6.214-14-13.853V8h28V76.891z"/>
-		<path d="M49.001,85.4c4.6,0,7.999-3.727,7.999-8.333V44H41v33.067C41,81.674,44.402,85.4,49.001,85.4z"/>
+		<path d="M83.5,0h-67v8h10l-0.1,68.5c0,12.05,12.052,23.5,24.1,23.5s24-11.06,24-23.109V8h9V0z M66.5,76.891
+			C66.5,84.529,58.137,92,50.5,92s-16-7.471-16-15.109V8h32V76.891z"/>
+		<path d="M50.001,80.812c3.449,0,5.999-3.26,5.999-7.291V37.488L44,30.9v42.621C44,77.553,46.552,80.812,50.001,80.812z"/>
 	</g>
 </g>
 </svg>
