@@ -1,3 +1,6 @@
+.icn-parlante {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe602;');
+}
 .icn-lentes {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe60a;');
 }
@@ -6,9 +9,6 @@
 }
 .icn-libro {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe61c;');
-}
-.icn-vineta-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe602;');
 }
 .icn-cruz-sur {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe606;');
@@ -30,6 +30,9 @@
 }
 .icn-estorninos {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe679;');
+}
+.icn-usuario {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe63a;');
 }
 .icn-usuarios {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe66e;');
@@ -58,11 +61,8 @@
 .icn-soundcloud {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe622;');
 }
-.icn-parlante {
+.icn-anuncio {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe623;');
-}
-.icn-parlante-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe624;');
 }
 .icn-less {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe625;');
@@ -82,71 +82,20 @@
 .icn-burbuja {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe62d;');
 }
-.icn-anuncio {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe634;');
-}
 .icn-subir {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe619;');
 }
 .icn-circulo {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe618;');
 }
-.icn-trabajo-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe603;');
-}
-.icn-tiempo-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe604;');
-}
-.icn-perfil-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe605;');
-}
-.icn-marcador-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe607;');
-}
-.icn-mapa-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe608;');
-}
-.icn-mapa-mas-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe609;');
-}
 .icn-mano-der {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe60b;');
-}
-.icn-lapiz-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe60c;');
-}
-.icn-impresora-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe60d;');
-}
-.icn-hogar-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe60e;');
-}
-.icn-grafico-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe60f;');
-}
-.icn-estrella-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe610;');
-}
-.icn-documento-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe611;');
 }
 .icn-cuadro-l {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe612;');
 }
-.icn-corazon-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe613;');
-}
 .icn-circulo-l {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe614;');
-}
-.icn-cerrado-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe615;');
-}
-.icn-abierto-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe616;');
-}
-.icn-aviso-l {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe617;');
 }
 .icn-vineta {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe62f;');
@@ -178,9 +127,6 @@
 .icn-refrescar {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe639;');
 }
-.icn-usuario {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe63a;');
-}
 .icn-parrafo {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe63b;');
 }
@@ -205,7 +151,7 @@
 .icn-mapa-conceptual {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe642;');
 }
-.icn-mapa-agregar {
+.icn-mapa-mas {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe643;');
 }
 .icn-lupa {
