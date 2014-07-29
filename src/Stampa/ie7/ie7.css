@@ -226,7 +226,7 @@
 .icn-salir-lig {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe6ab;');
 }
-.icn-seccion-lig {
+.icn-ese-lig {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe6ac;');
 }
 .icn-soundcloud-lig {
@@ -238,7 +238,7 @@
 .icn-subir-lig {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe6af;');
 }
-.icn-itablet-lig {
+.icn-tablet-lig {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe6b0;');
 }
 .icn-tiempo-lig {
@@ -415,9 +415,6 @@
 .icn-parrafo {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe63b;');
 }
-.icn-orden-ver {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe63c;');
-}
 .icn-orden-hor {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe63d;');
 }
@@ -433,11 +430,11 @@
 .icn-mapa {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe641;');
 }
-.icn-mapa-conceptual {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe642;');
-}
 .icn-mapa-mas {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe643;');
+}
+.icn-mapa-conceptual {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe642;');
 }
 .icn-lupa {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe646;');
