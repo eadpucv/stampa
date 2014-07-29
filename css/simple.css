@@ -18,10 +18,12 @@ body{
 h1{
 	color: white;
 	font-weight: 300;
-	font-size: 155px;
+	font-size: 145px;
 	margin: 0;
 	text-shadow: 5px 5px 0 rgba(0,0,0,.3);
 	text-align: center;
+	padding-top: 18px;
+	padding-bottom: 18px;
 }
 
 h2{
@@ -34,8 +36,7 @@ h2{
 }
 
 h3{
-	color: #A5CFE8;
-	font-size: 17px;
+	font-size: 16px;
 	font-weight: 300;
 	text-align: center;
 	letter-spacing: .12ex;
@@ -45,7 +46,7 @@ h3{
 h4 {
 	font-size: 19px;
 	font-weight: 400;
-	color: #0969A2
+	color: #0969A2;
 }
 
 a,ul,li{
@@ -156,8 +157,8 @@ footer a:active{}
 /* Barra de navegación */
 
 nav {
-	background-color: rgba(226, 226, 226, 1);
-	height: 40px;
+	background-color: white;
+	height: 36px;
 	padding-top: 20px;
 }
  
@@ -319,7 +320,8 @@ border-bottom: none !important;
 @media (max-width: 800px) {
 
 	h1{
-		font-size: 150px;
+		font-size: 110px;
+		text-shadow: 3px 4px 0 rgba(0,0,0,.3);
 	}
 
 	h2{
@@ -331,10 +333,7 @@ border-bottom: none !important;
 	}
 
 	nav li{
-		margin-right: 20%;
-		color: #0969A2;
-		font-size: 18px;
-		font-weight: 400;
+		margin-right: 22%;
 	}
 
 	.github-btn{
@@ -363,12 +362,8 @@ border-bottom: none !important;
 
 @media (max-width: 640px) {
 
-	h1{
-		font-size: 120px;
-	}
-
 	h2{
-		font-size: 30px;
+		font-size: 24px;
 		margin-top: 30px;
 	}
 
@@ -378,10 +373,7 @@ border-bottom: none !important;
 
 
 	nav li{
-		margin-right: 17%;
-		color: #0969A2;
-		font-size: 18px;
-		font-weight: 400;
+		margin-right: 21%;
 	}
 
 	.github-btn{
@@ -408,11 +400,12 @@ border-bottom: none !important;
 
 
 	h1{
-		font-size: 80px;
+		font-size: 70px;
+		text-shadow: none;
 	}
 
 	h2{
-		font-size: 20px;
+		font-size: 18px;
 		margin-top: 15px;
 	}
 
@@ -430,7 +423,7 @@ border-bottom: none !important;
 	}
 
 	nav li{
-		margin-right: 14%;
+		margin-right: 17%;
 		color: #0969A2;
 		font-size: 14px;
 		font-weight: 400;
