@@ -409,6 +409,9 @@
 .icn-reloj {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe638;');
 }
+.icn-alarma {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe66b;');
+}
 .icn-refrescar {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe639;');
 }
@@ -549,9 +552,6 @@
 }
 .icn-ampolleta {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe66a;');
-}
-.icn-alarma {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe66b;');
 }
 .icn-aviso {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe66c;');
