@@ -4,7 +4,7 @@
 *
 */
 
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro: 200,300,400,600);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro: 200,300,400);
 
 body{
 	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -17,8 +17,8 @@ body{
 
 h1{
 	color: white;
-	font-weight: 600;
-	font-size: 173px;
+	font-weight: 300;
+	font-size: 155px;
 	margin: 0;
 	text-shadow: 5px 5px 0 rgba(0,0,0,.3);
 	text-align: center;
@@ -27,6 +27,7 @@ h1{
 h2{
 	font-size: 29px;
 	font-weight: 400;
+	text-align: center;
 	color: rgba(69, 71, 71, 1);
 	clear: both;
 	margin-top: 70px;
@@ -34,7 +35,7 @@ h2{
 
 h3{
 	color: #A5CFE8;
-	font-size: 19px;
+	font-size: 17px;
 	font-weight: 300;
 	text-align: center;
 	letter-spacing: .12ex;
@@ -111,7 +112,7 @@ header,footer a{
 }
 
 header {
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 	border-bottom: solid rgba(226, 226, 226, 1) 25px;
 }
 
