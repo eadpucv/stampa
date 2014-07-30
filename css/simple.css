@@ -18,12 +18,13 @@ body{
 h1{
 	color: white;
 	font-weight: 300;
-	font-size: 150px;
+	font-size: 130px;
 	margin: 0;
 	text-shadow: 5px 5px 0 rgba(0,0,0,.3);
 	text-align: center;
 	padding-top: 18px;
 	padding-bottom: 18px;
+	letter-spacing: .15ex;
 }
 
 h2{
@@ -41,6 +42,7 @@ h3{
 	text-align: center;
 	letter-spacing: .12ex;
 	text-transform: uppercase;
+	clear: both;
 }
 
 h4 {
@@ -157,8 +159,8 @@ footer a:active{}
 /* Barra de navegación */
 
 nav {
-	background-color: white;
-	height: 36px;
+	background-color: rgba(226, 226, 226, 1);
+	height: 35px;
 	padding-top: 20px;
 }
  
