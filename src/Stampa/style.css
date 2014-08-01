@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Stampa';
-	src:url('fonts/Stampa.eot?-4l93ah');
-	src:url('fonts/Stampa.eot?#iefix-4l93ah') format('embedded-opentype'),
-		url('fonts/Stampa.woff?-4l93ah') format('woff'),
-		url('fonts/Stampa.ttf?-4l93ah') format('truetype'),
-		url('fonts/Stampa.svg?-4l93ah#Stampa') format('svg');
+	src:url('fonts/Stampa.eot?he16tw');
+	src:url('fonts/Stampa.eot?#iefixhe16tw') format('embedded-opentype'),
+		url('fonts/Stampa.woff?he16tw') format('woff'),
+		url('fonts/Stampa.ttf?he16tw') format('truetype'),
+		url('fonts/Stampa.svg?he16tw#Stampa') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
