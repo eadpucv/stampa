@@ -51,6 +51,14 @@ h4 {
 	color: #0969A2;
 }
 
+h5 {
+	font-size: 14px;
+	clear:both;
+	padding: 5px 15px;
+	border: solid #0969A2 1px;
+	max-width: 105px;
+}
+
 a,ul,li{
 	text-decoration: none;
 	list-style: none;

@@ -10,7 +10,7 @@
 <g id="Layer_4">
 	<g>
 		<rect x="44" y="33" fill="none" width="12" height="44"/>
-		<rect x="5" y="90" width="90" height="6"/>
+		<rect x="0.3" y="90" width="99.5" height="6"/>
 		<g>
 			<path d="M26,3H8C6.343,3,5,4.343,5,6v75c0,1.657,1.343,3,3,3h18c1.657,0,3-1.343,3-3V6C29,4.343,27.657,3,26,3z M23,78H11V9h12
 				V78z"/>
