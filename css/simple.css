@@ -57,6 +57,7 @@ h5 {
 	padding: 5px 15px;
 	border: solid #0969A2 1px;
 	max-width: 105px;
+	margin-bottom: 105px;
 }
 
 a,ul,li{
@@ -129,6 +130,7 @@ header {
 
 header a:link{
 	color: white;
+	font-weight: 400;
 }
 
 header a:visited{
@@ -470,14 +472,14 @@ border-bottom: none !important;
 	}
 
 	.caja-icono p {
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 400;
-	line-height: 14px;
+	line-height: 10px;
 	}
 
 	.caja-icono i{
-		font-size: 16px;
-		line-height: 16px;	
+		font-size: 21px;
+		line-height: 10px;	
 	}
 
 	.gist {
