@@ -1,4 +1,4 @@
-STAMPA v.2.1.0
+STAMPA v.3.0.0
 ======
 
 Fuente de íconos para ser usada por [Pyxis][4], el framework gráfico de la [Escuela de Arquitectura y Diseño PUCV][1].
@@ -14,6 +14,4 @@ Este proyecto está construido sobre los principios de:
 [4]: http://github.com/eadpucv/pyxis
 
 ##Actualizaciones##
-- v.2.1.0: Lista total de 125 íconos compuestos de 112 glifos. Se incorpora página de atajos dentro de less 'shorts.less' que es aplicada a 5 íconos direccionales, reduciendo el tamaño de la fuente Stampa.
-
-- v.2.0.0: Set de 89 íconos desde cero incluyendo íconos lineales. Incorporación de principios de Font Awesome.
+- v.3.0.0: Se incorpora la variación de peso para Stampa llamada "Stampa Ligera". Esta variación está pensada para uso en textos de rotulados, en un mínimo de 21 px. En esta nueva versión del proyecto stampa, los íconos se vuelven líneales, disminuyendo de este modo el número total de glifos. Entre ambos pesos hay un total de 190 íconos diseñados, y agregando las variaciones de direccionamiento, este número sube 216 íconos.
