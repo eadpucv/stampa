@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
 	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<g id="Layer_3">
+<g id="Layer_3" display="none">
 </g>
 <g id="Your_Icon">
 </g>
 <g id="Layer_4">
 	<g>
-		<path d="M81.5,8v84h-63V8H81.5 M81.5,0h-63c-4.418,0-8,3.582-8,8v84c0,4.418,3.582,8,8,8h63c4.418,0,8-3.582,8-8V8
-			C89.5,3.582,85.918,0,81.5,0L81.5,0z"/>
-	</g>
-	<g>
-		<path d="M71.5,21c0-2.209-1.791-4-4-4h-35c-2.209,0-4,1.791-4,4v58c0,2.209,1.791,4,4,4h35c2.209,0,4-1.791,4-4V21z M63.5,75h-27
-			V25h27V75z"/>
+		<path d="M81,0H19C13.478,0,9,4.478,9,10v80c0,5.522,4.478,10,10,10h62c5.522,0,10-4.478,10-10V10C91,4.478,86.522,0,81,0z M81,90
+			H19V10h62V90z"/>
+		<path fill="#211915" d="M72,24c0-2.762-2.238-5-5-5H33c-2.762,0-5,2.238-5,5v52c0,2.762,2.238,5,5,5h34c2.762,0,5-2.238,5-5V24z
+			 M38,29h24v42H38V29z"/>
 	</g>
 </g>
 </svg>
