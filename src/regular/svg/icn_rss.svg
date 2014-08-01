@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Layer_3" display="none">
+	<rect x="18" display="inline" opacity="0.4" fill="none" stroke="#000000" stroke-miterlimit="10" width="64" height="100"/>
+	<rect display="inline" opacity="0.4" fill="none" stroke="#000000" stroke-miterlimit="10" width="100" height="100"/>
+	<g display="inline" opacity="0.4">
+		<path fill="none" stroke="#211915" stroke-miterlimit="10" d="M50,18c17.677,0,32,14.323,32,32c0,17.667-14.323,32-32,32
+			S18,67.667,18,50C18,32.323,32.323,18,50,18 M50,11c-21.506,0-39,17.496-39,39s17.494,39,39,39s39-17.496,39-39S71.506,11,50,11
+			L50,11z"/>
+	</g>
+	
+		<line display="inline" opacity="0.4" fill="none" stroke="#211915" stroke-linecap="square" stroke-miterlimit="10" x1="18.5" y1="149" x2="18.5" y2="7"/>
+	
+		<line display="inline" opacity="0.4" fill="none" stroke="#211915" stroke-linecap="square" stroke-miterlimit="10" x1="-52" y1="78.5" x2="90" y2="78.5"/>
+</g>
+<g id="Your_Icon">
+</g>
+<g id="Layer_4">
+	<g>
+		<path d="M30.655,69.486c-4.699-4.672-12.293-4.684-16.979,0.001C8.997,74.177,9,81.774,13.676,86.461
+			c4.682,4.674,12.275,4.685,16.983-0.001C35.34,81.775,35.337,74.179,30.655,69.486z"/>
+	</g>
+	<path d="M94.831,77.021l-10-0.001v-5c0.002-31.422-25.568-56.988-57-56.99l-5,0v-10l5,0c36.946,0.002,67.002,30.054,67,66.991
+		V77.021z"/>
+	<path d="M75.456,77.02h-10v-5c0.001-20.739-16.878-37.613-37.626-37.615l-5,0l0.002-10l5,0
+		c26.261,0.003,47.625,21.363,47.624,47.615V77.02z"/>
+	<path d="M46.083,77.021l-0.002-5c-0.003-10.056-8.19-18.239-18.251-18.24l-5,0l0.002-10l5,0
+		c15.571,0.002,28.244,12.669,28.249,28.237l0.002,5L46.083,77.021z"/>
+</g>
+</svg>
