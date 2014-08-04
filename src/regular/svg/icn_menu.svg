@@ -9,13 +9,13 @@
 </g>
 <g id="Layer_4">
 	<g>
-		<circle fill="#211915" cx="20" cy="50" r="10"/>
+		<circle fill="#211915" cx="16" cy="50" r="12"/>
 	</g>
 	<g>
-		<circle fill="#211915" cx="50" cy="50" r="10"/>
+		<circle fill="#211915" cx="50" cy="50" r="12"/>
 	</g>
 	<g>
-		<circle fill="#211915" cx="80" cy="50" r="10"/>
+		<circle fill="#211915" cx="84" cy="50" r="12"/>
 	</g>
 </g>
 </svg>
