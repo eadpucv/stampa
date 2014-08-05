@@ -273,11 +273,6 @@ border-bottom: none !important;
 
 /* Otros */
 
-.gigante {
-	font-size: 170px;
-	text-align: center;
-}
-
 .caja-icono {
 	width:80px;
 	height: 80px;
@@ -305,6 +300,10 @@ border-bottom: none !important;
        -moz-column-gap: 20px;
        -webkit-column-count: 3;
        -webkit-column-gap: 20px;
+}
+
+.lista-icono{
+	font-size: 18px;
 }
 
 .ejemplo {

@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Stampa';
-	src:url('fonts/Stampa.eot?-gex9qj');
-	src:url('fonts/Stampa.eot?#iefix-gex9qj') format('embedded-opentype'),
-		url('fonts/Stampa.woff?-gex9qj') format('woff'),
-		url('fonts/Stampa.ttf?-gex9qj') format('truetype'),
-		url('fonts/Stampa.svg?-gex9qj#Stampa') format('svg');
+	src:url('fonts/Stampa.eot?yjnsgw');
+	src:url('fonts/Stampa.eot?#iefixyjnsgw') format('embedded-opentype'),
+		url('fonts/Stampa.woff?yjnsgw') format('woff'),
+		url('fonts/Stampa.ttf?yjnsgw') format('truetype'),
+		url('fonts/Stampa.svg?yjnsgw#Stampa') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -68,9 +68,6 @@
 .icn-ciclo-lig:before {
 	content: "\e616";
 }
-.icn-circulo-lig:before {
-	content: "\e617";
-}
 .icn-circulo-l-lig:before {
 	content: "\e61d";
 }
@@ -94,9 +91,6 @@
 }
 .icn-cuadro-l-lig:before {
 	content: "\e634";
-}
-.icn-cuadro-lig:before {
-	content: "\e644";
 }
 .icn-descargar-lig:before {
 	content: "\e645";
