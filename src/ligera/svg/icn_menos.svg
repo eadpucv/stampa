@@ -3,12 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="62px"
 	 height="100px" viewBox="0 0 62 100" enable-background="new 0 0 62 100" xml:space="preserve">
-<g id="Layer_3" display="none">
+<g id="Layer_3">
 </g>
 <g id="Your_Icon">
 </g>
 <g id="Layer_4">
-	
-		<line fill="none" stroke="#211915" stroke-width="6" stroke-linecap="square" stroke-miterlimit="10" x1="3.5" y1="49.5" x2="57.5" y2="49.5"/>
+	<rect x="0.75" y="45.5" fill="#211915" width="60.5" height="7"/>
 </g>
 </svg>
