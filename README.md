@@ -1,4 +1,4 @@
-STAMPA v.3.1.0
+STAMPA v.3.0.1
 ======
 
 Fuente de íconos para ser usada por [Pyxis][4], el framework gráfico de la [Escuela de Arquitectura y Diseño PUCV][1].
