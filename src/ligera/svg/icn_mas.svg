@@ -3,12 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
 	 height="100px" viewBox="0 0 64 100" enable-background="new 0 0 64 100" xml:space="preserve">
-<g id="Layer_3" display="none">
+<g id="Layer_3">
 </g>
 <g id="Your_Icon">
 </g>
 <g id="Layer_4">
-	<polygon fill="#211915" points="62,47 35.499,47 35.491,19.999 29.491,20.001 29.499,47 2,47 2,53 29.501,53 29.509,80.001 
-		35.509,79.999 35.501,53 62,53 	"/>
+	<polygon fill="#211915" points="61.5,45.798 35.208,45.8 35.2,18.799 28.582,18.799 28.59,45.798 1.5,45.798 1.5,52.3 28.592,52.3 
+		28.6,79.301 35.218,79.301 35.21,52.302 61.5,52.3 	"/>
 </g>
 </svg>
