@@ -3,7 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
 	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<g id="Layer_3" display="none">
+<g id="Layer_3">
 </g>
 <g id="Your_Icon">
 </g>
@@ -11,7 +11,7 @@
 	<g>
 		<path d="M64,2H42v6h19v84H42v6h22c1.657,0,3-1.343,3-3V5C67,3.343,65.657,2,64,2z"/>
 		<path d="M8,8h19V2H5C3.343,2,2,3.343,2,5v90c0,1.657,1.343,3,3,3h22v-6H8V8z"/>
-		<path d="M95,2H69v6h23v84H69v6h26c1.657,0,3-1.343,3-3V5C98,3.343,96.657,2,95,2z"/>
+		<path d="M95,2H74v6h18v84H74v6h21c1.657,0,3-1.343,3-3V5C98,3.343,96.657,2,95,2z"/>
 		<polygon fill="#211915" points="47,53 47,47 37,47 37,37 31,37 31,47 21,47 21,53 31,53 31,63 37,63 37,53 		"/>
 	</g>
 </g>
