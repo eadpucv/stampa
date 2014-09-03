@@ -322,7 +322,15 @@ border-bottom: none !important;
 
 .prueba {
 	font-size: 50px;
-	font-weight: 200;
+	font-weight: 400;
+}
+
+.efecto {
+	text-shadow: 1px 1px 0 rgba(185, 162, 103, 0.9);
+	border: 0.2px dashed  #ffffff;
+    box-shadow: 2px 2px 4px 1px rgba(0,0,0,.2);
+    padding: 2px 10px;
+    color: rgba(214, 194, 102,.4) ;
 }
 
 

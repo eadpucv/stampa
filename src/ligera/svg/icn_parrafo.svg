@@ -3,16 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="62px"
 	 height="100px" viewBox="0 0 62 100" enable-background="new 0 0 62 100" xml:space="preserve">
-<g id="Layer_3" display="none">
+<g id="Layer_3">
 </g>
 <g id="Your_Icon">
 </g>
 <g id="Layer_4">
-	<g>
-		<rect x="45" y="7" width="6" height="93"/>
-		<path fill="#211915" d="M18.999,1C9.074,1,1,9.075,1,19s8.074,18,17.999,18H25v-6h-6.001C12.383,31,7,25.617,7,19
-			S12.383,7,18.999,7H25v2h6V7h14h6h10V1H18.999z"/>
-		<polygon points="25,29.5 25,35.5 25,100 31,100 31,32.5 31,9 25,9 		"/>
-	</g>
+	<path d="M18.999,1C9.074,1,1,9.075,1,19s8.074,18,17.999,18H25v62h6V32.5V9V7h14v92h6V7h10V1H18.999z M25,29.5V31h-6.001
+		C12.383,31,7,25.617,7,19S12.383,7,18.999,7H25v2V29.5z"/>
 </g>
 </svg>

@@ -3,9 +3,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
 	 height="100px" viewBox="0 0 64 100" enable-background="new 0 0 64 100" xml:space="preserve">
-<g id="Layer_3" display="none">
+<g id="Layer_3">
 	
-		<line display="inline" opacity="0.4" fill="none" stroke="#211915" stroke-linecap="square" stroke-miterlimit="10" x1="52" y1="78.5" x2="194" y2="78.5"/>
+		<line opacity="0.4" fill="none" stroke="#211915" stroke-linecap="square" stroke-miterlimit="10" x1="52" y1="78.5" x2="194" y2="78.5"/>
 </g>
 <g id="Your_Icon">
 	<polygon fill="#211915" points="62,47.009 39.247,47.005 55.396,30.844 51.152,26.603 35.003,42.765 35,20 29,20 29.003,42.632 

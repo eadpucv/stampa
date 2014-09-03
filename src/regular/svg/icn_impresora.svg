@@ -4,6 +4,15 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
 	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
 <g id="Layer_3" display="none">
+	
+		<rect x="-17" y="70" display="inline" opacity="0.4" fill="none" stroke="#000000" stroke-miterlimit="10" width="64" height="100"/>
+	
+		<rect x="-35" y="70" display="inline" opacity="0.4" fill="none" stroke="#000000" stroke-miterlimit="10" width="100" height="100"/>
+	<g display="inline" opacity="0.4">
+		<path fill="none" stroke="#211915" stroke-miterlimit="10" d="M15,88c17.677,0,32,14.323,32,32c0,17.667-14.323,32-32,32
+			s-32-14.333-32-32C-17,102.323-2.677,88,15,88 M15,81c-21.506,0-39,17.496-39,39s17.494,39,39,39s39-17.496,39-39S36.506,81,15,81
+			L15,81z"/>
+	</g>
 </g>
 <g id="Your_Icon">
 </g>

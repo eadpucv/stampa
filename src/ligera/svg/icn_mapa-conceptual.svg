@@ -3,13 +3,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
 	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<g id="Layer_3" display="none">
+<g id="Layer_3">
 </g>
 <g id="Your_Icon">
 </g>
 <g id="Layer_4">
 	<g>
-		<path d="M88,71.365v-20.66C88,49.048,86.657,48,85,48H53V30.236c-1.972,0.466-4.027,0.466-6,0V48H15c-1.657,0-3,1.048-3,2.705
+		<path d="M88,71.365v-20.66C88,49.049,86.657,48,85,48H53V30.236c-1.972,0.466-4.027,0.466-6-0.001V48H15c-1.657,0-3,1.049-3,2.705
 			v20.658c1.973-0.466,4.027-0.465,6,0.002V54h29v17.364c1.973-0.466,4.027-0.465,6,0.002V54h29v17.363
 			C83.973,70.897,86.027,70.898,88,71.365z"/>
 	</g>

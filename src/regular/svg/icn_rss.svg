@@ -4,17 +4,19 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
 	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
 <g id="Layer_3" display="none">
-	<rect x="18" display="inline" opacity="0.4" fill="none" stroke="#000000" stroke-miterlimit="10" width="64" height="100"/>
-	<rect display="inline" opacity="0.4" fill="none" stroke="#000000" stroke-miterlimit="10" width="100" height="100"/>
+	
+		<rect x="19" y="-70" display="inline" opacity="0.4" fill="none" stroke="#000000" stroke-miterlimit="10" width="64" height="100"/>
+	
+		<rect x="1" y="-70" display="inline" opacity="0.4" fill="none" stroke="#000000" stroke-miterlimit="10" width="100" height="100"/>
 	<g display="inline" opacity="0.4">
-		<path fill="none" stroke="#211915" stroke-miterlimit="10" d="M50,18c17.677,0,32,14.323,32,32c0,17.667-14.323,32-32,32
-			S18,67.667,18,50C18,32.323,32.323,18,50,18 M50,11c-21.506,0-39,17.496-39,39s17.494,39,39,39s39-17.496,39-39S71.506,11,50,11
-			L50,11z"/>
+		<path fill="none" stroke="#211915" stroke-miterlimit="10" d="M51-52c17.677,0,32,14.323,32,32c0,17.667-14.323,32-32,32
+			S19-2.333,19-20C19-37.677,33.323-52,51-52 M51-59c-21.506,0-39,17.496-39,39s17.494,39,39,39S90,1.504,90-20S72.506-59,51-59
+			L51-59z"/>
 	</g>
 	
-		<line display="inline" opacity="0.4" fill="none" stroke="#211915" stroke-linecap="square" stroke-miterlimit="10" x1="18.5" y1="149" x2="18.5" y2="7"/>
+		<line display="inline" opacity="0.4" fill="none" stroke="#211915" stroke-linecap="square" stroke-miterlimit="10" x1="19.5" y1="79" x2="19.5" y2="-63"/>
 	
-		<line display="inline" opacity="0.4" fill="none" stroke="#211915" stroke-linecap="square" stroke-miterlimit="10" x1="-52" y1="78.5" x2="90" y2="78.5"/>
+		<line display="inline" opacity="0.4" fill="none" stroke="#211915" stroke-linecap="square" stroke-miterlimit="10" x1="-51" y1="8.5" x2="91" y2="8.5"/>
 </g>
 <g id="Your_Icon">
 </g>

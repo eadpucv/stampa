@@ -5,81 +5,59 @@
 	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
 <g id="Layer_3" display="none">
 	<g display="inline" opacity="0.39">
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="2.325" y1="-1" x2="2.325" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="5.45" y1="-1" x2="5.45" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="8.575" y1="-1" x2="8.575" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="11.7" y1="-1" x2="11.7" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="14.825" y1="-1" x2="14.825" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="17.95" y1="-1" x2="17.95" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="21.075" y1="-1" x2="21.075" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="24.2" y1="-1" x2="24.2" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="27.325" y1="-1" x2="27.325" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="30.45" y1="-1" x2="30.45" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="33.575" y1="-1" x2="33.575" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="36.7" y1="-1" x2="36.7" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="39.825" y1="-1" x2="39.825" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="42.95" y1="-1" x2="42.95" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="46.075" y1="-1" x2="46.075" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="49.2" y1="-1" x2="49.2" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="52.325" y1="-1" x2="52.325" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="55.45" y1="-1" x2="55.45" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="58.575" y1="-1" x2="58.575" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="61.7" y1="-1" x2="61.7" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="64.825" y1="-1" x2="64.825" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="67.95" y1="-1" x2="67.95" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="71.075" y1="-1" x2="71.075" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="74.2" y1="-1" x2="74.2" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="77.325" y1="-1" x2="77.325" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="80.45" y1="-1" x2="80.45" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="83.575" y1="-1" x2="83.575" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="86.7" y1="-1" x2="86.7" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="89.825" y1="-1" x2="89.825" y2="99"/>
-		<line fill="none" stroke="#699BD0" x1="92.95" y1="-1" x2="92.95" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="96.075" y1="-1" x2="96.075" y2="99"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="2.125" x2="99.2" y2="2.125"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="5.25" x2="99.2" y2="5.25"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="8.375" x2="99.2" y2="8.375"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="11.5" x2="99.2" y2="11.5"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="14.625" x2="99.2" y2="14.625"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="17.75" x2="99.2" y2="17.75"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="20.875" x2="99.2" y2="20.875"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="24" x2="99.2" y2="24"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="27.125" x2="99.2" y2="27.125"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="30.25" x2="99.2" y2="30.25"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="33.375" x2="99.2" y2="33.375"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="36.5" x2="99.2" y2="36.5"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="39.625" x2="99.2" y2="39.625"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="42.75" x2="99.2" y2="42.75"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="45.875" x2="99.2" y2="45.875"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="49" x2="99.2" y2="49"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="52.125" x2="99.2" y2="52.125"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="55.25" x2="99.2" y2="55.25"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="58.375" x2="99.2" y2="58.375"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="61.5" x2="99.2" y2="61.5"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="64.625" x2="99.2" y2="64.625"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="67.75" x2="99.2" y2="67.75"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="70.875" x2="99.2" y2="70.875"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="74" x2="99.2" y2="74"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="77.125" x2="99.2" y2="77.125"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="80.25" x2="99.2" y2="80.25"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="83.375" x2="99.2" y2="83.375"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="86.5" x2="99.2" y2="86.5"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="89.625" x2="99.2" y2="89.625"/>
-		<line fill="none" stroke="#699BD0" x1="-0.8" y1="92.75" x2="99.2" y2="92.75"/>
-		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="-0.8" y1="95.875" x2="99.2" y2="95.875"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="3.325" y1="-71" x2="3.325" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="6.45" y1="-71" x2="6.45" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="9.575" y1="-71" x2="9.575" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="12.7" y1="-71" x2="12.7" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="15.825" y1="-71" x2="15.825" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="18.95" y1="-71" x2="18.95" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="22.075" y1="-71" x2="22.075" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="25.2" y1="-71" x2="25.2" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="28.325" y1="-71" x2="28.325" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="31.45" y1="-71" x2="31.45" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="34.575" y1="-71" x2="34.575" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="37.7" y1="-71" x2="37.7" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="40.825" y1="-71" x2="40.825" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="43.95" y1="-71" x2="43.95" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="47.075" y1="-71" x2="47.075" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="50.2" y1="-71" x2="50.2" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="53.325" y1="-71" x2="53.325" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="56.45" y1="-71" x2="56.45" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="59.575" y1="-71" x2="59.575" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="62.7" y1="-71" x2="62.7" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="65.825" y1="-71" x2="65.825" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="68.95" y1="-71" x2="68.95" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="72.075" y1="-71" x2="72.075" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="75.2" y1="-71" x2="75.2" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="78.325" y1="-71" x2="78.325" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="81.45" y1="-71" x2="81.45" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="84.575" y1="-71" x2="84.575" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="87.7" y1="-71" x2="87.7" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="90.825" y1="-71" x2="90.825" y2="29"/>
+		<line fill="none" stroke="#699BD0" x1="93.95" y1="-71" x2="93.95" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="97.075" y1="-71" x2="97.075" y2="29"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="0.2" y1="0.875" x2="100.2" y2="0.875"/>
+		<line fill="none" stroke="#699BD0" x1="0.2" y1="4" x2="100.2" y2="4"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="0.2" y1="7.125" x2="100.2" y2="7.125"/>
+		<line fill="none" stroke="#699BD0" x1="0.2" y1="10.25" x2="100.2" y2="10.25"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="0.2" y1="13.375" x2="100.2" y2="13.375"/>
+		<line fill="none" stroke="#699BD0" x1="0.2" y1="16.5" x2="100.2" y2="16.5"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="0.2" y1="19.625" x2="100.2" y2="19.625"/>
+		<line fill="none" stroke="#699BD0" x1="0.2" y1="22.75" x2="100.2" y2="22.75"/>
+		<line opacity="0.3" fill="none" stroke="#699BD0" enable-background="new    " x1="0.2" y1="25.875" x2="100.2" y2="25.875"/>
 	</g>
-	<rect x="19" display="inline" opacity="0.78" fill="none" stroke="#000000" stroke-miterlimit="10" width="62" height="100"/>
-	<rect display="inline" opacity="0.78" fill="none" stroke="#000000" stroke-miterlimit="10" width="100" height="100"/>
+	
+		<rect x="20" y="-70" display="inline" opacity="0.78" fill="none" stroke="#000000" stroke-miterlimit="10" width="62" height="100"/>
+	
+		<rect x="1" y="-70" display="inline" opacity="0.78" fill="none" stroke="#000000" stroke-miterlimit="10" width="100" height="100"/>
 	<g display="inline" opacity="0.78">
-		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M50,40c-5.52,0-10,4.477-10,10s4.48,10,10,10
-			c5.523,0,10-4.477,10-10S55.523,40,50,40z"/>
-		<path fill="none" stroke="#211915" stroke-miterlimit="10" d="M50,30c-11.028,0-20,8.972-20,20s8.972,20,20,20s20-8.972,20-20
-			S61.028,30,50,30L50,30z"/>
+		<path fill="none" stroke="#211915" stroke-miterlimit="10" d="M51-40c-11.028,0-20,8.972-20,20S39.972,0,51,0s20-8.972,20-20
+			S62.028-40,51-40L51-40z"/>
 	</g>
 	<g display="inline" opacity="0.78">
-		<path fill="none" stroke="#211915" stroke-miterlimit="10" d="M50,19c17.123,0,31,13.876,31,31c0,17.115-13.877,31-31,31
-			S19,67.115,19,50C19,32.876,32.877,19,50,19 M50,10c-22.056,0-40,17.944-40,40s17.944,40,40,40s40-17.944,40-40S72.056,10,50,10
-			L50,10z"/>
+		<path fill="none" stroke="#211915" stroke-miterlimit="10" d="M51-51c17.123,0,31,13.876,31,31c0,17.115-13.877,31-31,31
+			S20-2.885,20-20C20-37.124,33.877-51,51-51 M51-60c-22.056,0-40,17.944-40,40s17.944,40,40,40S91,2.056,91-20S73.056-60,51-60
+			L51-60z"/>
 	</g>
 </g>
 <g id="Your_Icon">
