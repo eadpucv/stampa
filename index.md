@@ -3,9 +3,7 @@ layout: base
 title: Stampa
 ---
 {% include cabecera.html %}
-
-<div class='wrap'>
-
+<div class='content'>
   <h2 class="gris-oscuro">Stampa es una familia tipográfica de íconos diseñada para trabajar con Pyxis, el framework gráfico de la e[ad]. <br> <br>
 
     <span class='gris-oscuro icn-lg'>
@@ -36,5 +34,4 @@ title: Stampa
     Para el desarrollo de Stampa se usa la aplicaciçón Icomoon App, con la cual se convierten los archivos .svg provenientes de illustrator en glifos con un código Unicode asignado.
     <br>
   </p>
-
 </div>
