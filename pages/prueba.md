@@ -1,30 +1,12 @@
-<!DOCTYPE html>
-
-<!--[if lt IE 9]><html class='ie'><![endif]-->
-<!--[if gte IE 9]><!--><html><!--<![endif]-->
-
-<head>
-  <meta charset='UTF-8'/>
-  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-  <link rel="icon" type="image/x-icon" href="favicon.ico" />
-  <link href='css/stampa.css' rel='stylesheet' type="text/css">
-  <link href='css/simple.css' rel='stylesheet' type="text/css">
-  <title>Stampa</title>
-</head>
-
-<body>
-    <header class="fondo-naranja-opuesto">
-        <h1>Stampa
-        <iframe class='github-btn' src="http://ghbtns.com/github-btn.html?user=eadpucv&repo=stampa&type=watch"
-  allowtransparency="true" frameborder="0" scrolling="0" width="62" height="20"></iframe></h1>
-        <p>Stampa es una icnmilia tipográfica de íconos diseñada para trabajar en conjunto con <a href='http://www.github.com/eadpucv/pyxis'>Pyxis</a>.</p>
-    </header>
-
-    <p>
+---
+layout: base
+title: Prueba
+---
 
 <div class="content">
+<li><a href="{{ site.baseurl }}/fonts/stampa-webfont/Stampa.ttf"><i class='icn icn-descarga'></i> Descarga Stampa TTF</a></li>
+<li> <i class="icn icn-ampolleta-lig"></i>ampolletita <i class='icn icn-palabra'></i> mensajera</li>
 
-<i class="icn icn-ampolleta-lig"></i>texto de prueba<br>
 <span class="icn-stack">
 <i class="icn icn-cuadro icn-stack-2x naranja-opuesto"></i>
 <i class="icn icn-facebook icn-stack-1x icn-inverse"></i>
@@ -201,6 +183,3 @@ Texto de prueba
 </p>
 
 </div>
-
-</body>
-</html>
