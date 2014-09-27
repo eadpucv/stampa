@@ -3,6 +3,9 @@ layout: base
 title: Prueba
 ---
 
+
+<a href="{{ site.baseurl }}/fonts/stampa-webfont/stampa.ttf">Stampa TTF</a>
+
 <div class="content">
 
 <i class="icn icn-ampolleta-lig"></i>texto de prueba<br>
