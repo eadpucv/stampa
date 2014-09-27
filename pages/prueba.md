@@ -4,8 +4,9 @@ title: Prueba
 ---
 
 <div class="content">
-<a href="{{ site.baseurl }}/fonts/stampa-webfont/Stampa.ttf"><i class='icn icn-descarga'></i> Descarga Stampa TTF</a>
-<i class="icn icn-ampolleta-lig"></i>texto de prueba<br>
+<li><a href="{{ site.baseurl }}/fonts/stampa-webfont/Stampa.ttf"><i class='icn icn-descarga'></i> Descarga Stampa TTF</a></li>
+<li> <i class="icn icn-ampolleta-lig"></i>ampolletita <i class='icn icn-palabra'></i> mensajera</li>
+
 <span class="icn-stack">
 <i class="icn icn-cuadro icn-stack-2x naranja-opuesto"></i>
 <i class="icn icn-facebook icn-stack-1x icn-inverse"></i>
