@@ -1,16 +1,9 @@
 <!DOCTYPE html>
-
-<!--[if lt IE 9]><html class='ie'><![endif]-->
-<!--[if gte IE 9]><!--><html><!--<![endif]-->
-
+<html>
 {% include head.html %}
-
 <body lang='ES_es'>
-	{% include nav.html %}
-
-    <div class='container'>	        
-        {{ content }}
-    </div>
-    {% include footer.html %}
+{% include nav.html %}      
+{{ content }}
+{% include footer.html %}
 </body>
 </html>

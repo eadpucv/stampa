@@ -1,40 +1,44 @@
-
-
-
 /**
 *
 *  Simple CSS para STAMPA
 *
 */
 
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic);
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro: 200,300,400);
-@import "variables";
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono);
 
+@import "variables";
+@import "responsive";
+
+@serif: 'Merriweather', Georgia, serif;
+@sans: 'Source Sans Pro', Helvetica, sans;
+@mono: 'Droid Sans Mono';
 
 body{
-	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: @serif;
 	font-weight: 300;
 	font-size: 16px;
-	color: @gris;
+	color: darken(@gris-oscuro, 20);
 	min-width: 100%;
-	margin: auto;
+	margin: 0 auto;
 }
 
 h1{
 	color: white;
-	font-weight: 300;
+	font-weight: 700;
 	font-size: 130px;
 	margin: 0;
 	text-shadow: 5px 5px 0 rgba(0,0,0,.3);
 	text-align: center;
 	padding-top: 18px;
 	padding-bottom: 18px;
-	letter-spacing: .15ex;
 }
 
 h2{
-	font-size: 29px;
-	font-weight: 400;
+	color: @naranja !important;
+	font-size: 31px;
+	font-weight: 500;
 	text-align: center;
 	color: rgba(69, 71, 71, 1);
 	clear: both;
@@ -42,25 +46,22 @@ h2{
 }
 
 h3{
-	font-size: 16px;
-	font-weight: 300;
-	text-align: center;
-	letter-spacing: .12ex;
-	text-transform: uppercase;
-	clear: both;
+	color: @naranja-opuesto;
+	font-size: 19px;
+	font-weight: 100;
 }
 
 h4 {
 	font-size: 19px;
 	font-weight: 400;
-	color: #0969A2;
+	color: @naranja-opuesto;
 }
 
 h5 {
 	font-size: 14px;
 	clear:both;
 	padding: 5px 15px;
-	border: solid #0969A2 1px;
+	border: solid @naranja-opuesto 1px;
 	max-width: 105px;
 	margin-bottom: 105px;
 }
@@ -72,146 +73,114 @@ a,ul,li{
 
 h4 a:link{
 	font-weight: 400;
-	color:#0969A2;
+	color:@naranja-opuesto;
 }
 
 h4 a:visited{
-	color:#0969A2;
+	color:@naranja-opuesto;
 }
 
 h4 a:hover{
-	color:#0969A2;
+	color:@naranja-opuesto;
 }
 
 h4 a:active{
-	color:#0969A2;
+	color:@naranja-opuesto;
 }
 
-.content a:link{
-	font-weight: 400;
-	color:#0969A2;
+.content{
+	width: 75%;
+	margin: auto;
+	a{
+		&:link{
+			font-weight: 400;
+			color:@naranja-opuesto;
+		}
+		&:visited{
+			color:@naranja-opuesto;
+		}
+		&:hover{
+			color:@naranja-opuesto;
+		}
+		&:active{
+			color:@naranja-opuesto;
+		}
+	}
 }
 
-.content a:visited{
-	color:#0969A2;
-}
-
-.content a:hover{
-	color:#0969A2;
-}
-
-.content a:active{
-	color:#0969A2;
-}
-
-
+.icn{color: @negro}
 
 .wrap {
 	max-width: 680px;
 	margin: 0px auto;
 }
 
-.content {
-	width: 75%;
-	margin: auto;
-}
 
 /* Header y footer */
 
-header,footer {
+header{
+	margin-top: -16px;
+
+}
+
+header, footer {
+	background-color: @naranja-opuesto;
 	display: block;
 	padding-top: 20px;
 	padding-bottom: 20px;
-}
-
-header,footer a{
-	color: white;
-}
-
-header {
-	margin-bottom: 30px;
-	border-bottom: solid rgba(226, 226, 226, 1) 25px;
-}
-
-header a:link{
-	color: white;
-	font-weight: 400;
-}
-
-header a:visited{
-	color: white;
-}
-
-header a:hover{
-	color: #034369;
-}
-
-header a:active{
-	color: white;
-}
+	* {
+		color: fade(@blanco, 80);
+		text-align: center;
+	}
+	h1, .icn{color: @blanco;}
+	a{
+		font-weight: 700;
+		color: @blanco;
+	}
+} 
 
 footer {
 	margin-top: 150px;
-	color: #A5CFE8;
-	font-size: 14px;
+	font-size: 11px;
 	font-weight: 300;
 	text-align: center;
-	letter-spacing: .1ex;
 	clear: both;
 }
-
-footer a:link{}
-
-footer a:visited{
-	color: rgba(226, 226, 226, 1);
-}
-
-footer a:hover{}
-
-footer a:active{}
 
 
 /* Barra de navegación */
 
 nav {
-	background-color: rgba(226, 226, 226, 1);
-	height: 35px;
-	padding-top: 20px;
-}
- 
+	font-family: @sans;
+	font-weight: 700;
+	background-color: @blanco;
+	height: 42px;
+	padding-top: 15px;
+	margin: 0;
+	ul{
+		margin: 0;
+		li{
+			float:left;
+			margin-right: 140px;
+			font-size: 20px;
+			font-weight: 300;
+			&:last-child{
+				margin-right: 0px;
+			}
+			a  {
+				color: @naranja-opuesto;
+			}
 
-nav li{
-	float:left;
-	margin-right: 170px;
-	color: #0969A2;
-	font-size: 15px;
-	font-weight: 400;
-}
-
-nav li:last-child{
-	margin-right: 0px;
-}
-
-nav a:link {
-	color: #0969A2;
-}
-
-nav a:visited{
-	color: #0969A2;
-}
-
-nav a:hover{
-	color: #034369;
-}
-
-nav a:active{
-	color: #0969A2;
+		}
+	}
 }
 
 /* Tablas */
 
+@gist: saturate(lighten(@naranja-opuesto, 20), 20);
+
 table{
-	background-color: #A5CFE8;
+	//background-color: @gist;
 	width: 100%;
 	font-size: 11px;
 	-webkit-border-radius: 10px;
@@ -235,7 +204,7 @@ table td span{
 
 code{
 	display: inline-block;
-	font-family: Menlo, Monaco, monospace;
+	font-family: @mono;
 	background-color: white;
 	padding: .3ex 1ex;
 	color: rgba(69, 71, 71, 1);
@@ -255,7 +224,7 @@ border: none !important;
 }
  
 .gist-meta{
-border: 1px solid rgba(226, 226, 226, 1)!important;
+border: 1px solid @gris-claro;
 padding: 12px !important;
 -moz-border-radius-bottomleft: 10px;
 -webkit-border-bottom-left-radius: 10px;
@@ -266,8 +235,8 @@ padding: 12px !important;
  
 .gist-data{
 padding: 15px !important;
-border: 1px solid rgba(226, 226, 226, 1)!important;
-background-color: #A5CFE8 !important;
+border: 1px solid @gris-claro;
+background-color: @blanco;
 border-bottom: none !important;
 -moz-border-radius-topleft: 10px;
 -webkit-border-top-left-radius: 10px;
@@ -279,25 +248,26 @@ border-bottom: none !important;
 /* Otros */
 
 .caja-icono {
-	width:80px;
-	height: 80px;
-	background-color: rgba(226, 226, 226, 1);
+	width: 100px;
+	height: 70px;
+	background-color: fade(@gris-claro, 30);
 	display: block;
 	border-radius: 5px;
 	text-align: center;
-	margin: 10px;
+	margin: 7px;
 	padding: 5px;
 	float: left;
-}
-
-.caja-icono p {
-	font-size: 13px;
-	font-weight: 400;
-	line-height: 13px;
-}
-
-.caja-icono:last-child{
-	margin-bottom: 60px;
+	i{color: @negro}
+	p {
+		font-family: @mono;
+		text-align: center;
+		font-size: 10px;
+		color: @negro;
+		text-shadow: 1px 1px 0 @blanco;
+	}
+	&:last-child{
+		margin-bottom: 60px;
+	}
 }
 
 .tres-columnas {
@@ -311,18 +281,12 @@ border-bottom: none !important;
 	font-size: 18px;
 }
 
-.ejemplo {
-	font-size: 15px;
-	line-height: 20px;
-	float: left;
-	text-align: top;
-	display: block;
-	border-right: solid rgba(226, 226, 226, 1) 5px;
-	width: 210px;
-	max-height: 150px;
-	padding: 15px 25px 15px 0px;
-	margin-right: 30px;
-	margin-bottom: 30px;
+.clear{
+	clear: both;
+}
+
+.divide{
+	border-bottom: 1px solid @gris;
 }
 
 .prueba {
@@ -337,170 +301,3 @@ border-bottom: none !important;
     padding: 2px 10px;
     color: rgba(214, 194, 102,.4) ;
 }
-
-
-/* Media queries*/
-
-@media (max-width: 800px) {
-
-	h1{
-		font-size: 110px;
-		text-shadow: 3px 4px 0 rgba(0,0,0,.3);
-	}
-
-	h2{
-		font-size: 30px;
-	}
-
-	.wrap{
-		max-width: 550px;
-	}
-
-	nav li{
-		margin-right: 22%;
-	}
-
-	.github-btn{
-		display: none;
-	}
-
-	.gigante{
-		font-size: 140px;
-	}
-
-	.ejemplo {
-	font-size: 15px;
-	line-height: 20px;
-	float: none;
-	text-align: top;
-	display: block;
-	border-right: none;
-	border-bottom: solid rgba(226, 226, 226, 1) 5px;
-	width: 95%;
-	max-height: auto;
-	margin-right: none;
-	margin-bottom: 30px;
-	padding: 15px 0px 45px 0px;
-}
-}
-
-@media (max-width: 640px) {
-
-	h2{
-		font-size: 24px;
-		margin-top: 30px;
-	}
-
-	.wrap{
-		max-width: 78%;
-	}
-
-
-	nav li{
-		margin-right: 21%;
-	}
-
-	.github-btn{
-		display: none;
-	}
-
-	.gigante{
-		font-size: 100px;
-	}
-
-	footer {
-	margin-top: 90px;
-	}
-
-	.tres-columnas {
-       -moz-column-count: 2;
-       -moz-column-gap: 30px;
-       -webkit-column-count: 2;
-       -webkit-column-gap: 30px;
-}
-}
-
-@media (max-width: 480px) {
-
-
-	h1{
-		font-size: 70px;
-		text-shadow: none;
-	}
-
-	h2{
-		font-size: 18px;
-		margin-top: 15px;
-	}
-
-	h4{
-		font-size: 16px;
-	}
-
-
-	.wrap{
-		max-width: 84%;
-	}
-
-	.content{
-		width: 84%;
-	}
-
-	nav li{
-		margin-right: 17%;
-		color: #0969A2;
-		font-size: 14px;
-		font-weight: 400;
-	}
-
-	.github-btn{
-		display: none;
-	}
-
-	.gigante{
-		display: none;
-	}
-
-	header {
-	min-height: 200px;
-	}
-
-	footer {
-	margin-top: 90px;
-	max-height: 70px;
-	bottom: 0px;
-	}
-
-	.caja-icono {
-	display: block;
-	float: none;
-	width:90%;
-	height: auto;
-	background-color: rgba(226, 226, 226, 1);
-	display: block;
-	margin: 5px 0px;
-	padding: 5px;
-	float: left;
-	}
-
-	.caja-icono p {
-	font-size: 14px;
-	font-weight: 400;
-	line-height: 10px;
-	}
-
-	.caja-icono i{
-		font-size: 21px;
-		line-height: 10px;	
-	}
-
-	.gist {
-		display: none;
-	}
-
-	.tres-columnas {
-       -moz-column-count: 1;
-       -webkit-column-count: 1;
-}
-}
-
