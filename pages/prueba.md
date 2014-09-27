@@ -3,11 +3,8 @@ layout: base
 title: Prueba
 ---
 
-
-<a href="{{ site.baseurl }}/fonts/stampa-webfont/stampa.ttf">Stampa TTF</a>
-
 <div class="content">
-
+<a href="{{ site.baseurl }}/fonts/stampa-webfont/stampa.ttf">Stampa TTF</a>
 <i class="icn icn-ampolleta-lig"></i>texto de prueba<br>
 <span class="icn-stack">
 <i class="icn icn-cuadro icn-stack-2x naranja-opuesto"></i>
