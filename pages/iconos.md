@@ -1,6 +1,6 @@
 ---
 layout: base
-title: cheatsheet
+title: Íconos
 ---
 {% include cabecera.html %}
 

@@ -1,6 +1,6 @@
 ---
 layout: base
-title: cheatsheet
+title: Cheat Sheet
 ---
 
 <header class='fondo-naranja-opuesto'>
