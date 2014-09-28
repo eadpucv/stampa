@@ -14,12 +14,13 @@
 @serif: 'Merriweather', Georgia, serif;
 @sans: 'Source Sans Pro', Helvetica, sans;
 @mono: 'Droid Sans Mono';
+@fondo: #e1edc1;
 
 body{
 	font-family: @serif;
 	font-weight: 300;
 	font-size: 16px;
-	background-color: #e1edc1;
+	background-color: @fondo;
 	color: darken(@gris-oscuro, 20);
 	min-width: 100%;
 	margin: 0 auto;
@@ -109,8 +110,6 @@ h4 a:active{
 	}
 }
 
-.icn{color: @negro}
-
 .wrap {
 	max-width: 680px;
 	margin: 0px auto;
@@ -154,7 +153,7 @@ footer {
 nav {
 	font-family: @sans;
 	font-weight: 700;
-	background-color: @blanco;
+	background-color: @fondo;
 	height: 42px;
 	padding-top: 15px;
 	margin: 0;
