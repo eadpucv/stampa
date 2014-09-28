@@ -1,0 +1,31 @@
+{
+  "name": "Stampa",
+  "title": "Stampa",
+  "description": "íconos de la escuela e[ad]",
+  "version": "3.0.1",
+  "homepage": "http://eadpucv.github.io/stampa/",
+  "author": {
+    "name": "Varios",
+    "email": "escuela@ead.cl"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eadpucv/stampa.git"
+  },
+  "bugs": "https://github.com/eadpucv/stampa/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://eadpucv.github.io/stampa/blob/master/LICENSE-MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-webfont": "~0.4.8",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt": "~0.4.5"
+  },
+  "keywords": ["icons","webfont","symbols","type"]
+}

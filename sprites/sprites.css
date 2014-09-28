@@ -1,0 +1,570 @@
+.icon {
+	display: inline-block;
+	width: 512px;
+	height: 512px;
+	fill: currentColor;
+}
+.icon-icn-abierto-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-acto-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-alarma-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-ampolleta-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-archivo-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-asterisco-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-aviso-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-biblioteca-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-bower-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-calendario-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-camara-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-caron-der-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-casiopea-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-cerrado-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-ciclo-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-circulo-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-clip-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-codigo-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-compartir-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-constel-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-corazon-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-cruz-del-sur-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-cuadro-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-descargar-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-documento-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-email-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-engranaje-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-enlace-hor-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-enlace-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-equis-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-estorninos-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-estrella-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-etiqueta-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-facebook-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-flecha-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-flickr-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-grafico-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-hedera-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-hogar-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-imagen-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-impresora-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-ingresar-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-jekyll-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-lapiz-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-lentes-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-less-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-libro-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-lupa-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-lupa-mas-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-lupa-menos-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-mano-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-sitemap-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-mapa-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-mapa-mas-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-marcador-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-mas-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-menos-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-menu-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-movil-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-noticias-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-ojo-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-orden-horizontal-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-palabra-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-parlante-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-anuncio-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-parrafo-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-pc-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-perfil-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-prohibir-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-refrescar-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-reloj-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-rss-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-salir-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-seccion-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-soundcloud-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-stampa-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-subir-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-tablet-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-tiempo-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-trabajo-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-travesia-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-twitter-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-usuario-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-usuario-admin-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-usuario-mas-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-usuario-menos-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-usuarios-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-vimeo-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-rama-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-vineta-light {
+	/*fill: #000000;*/
+}
+.icon-icn-visto-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-youtube-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-parlante {
+	/*fill: #000000;*/
+}
+.icon-icn-lentes {
+	/*fill: #000000;*/
+}
+.icon-icn-youtube {
+	/*fill: #000000;*/
+}
+.icon-icn-libro {
+	/*fill: #000000;*/
+}
+.icon-icn-cruz-del-sur {
+	/*fill: #000000;*/
+}
+.icon-icn-menu {
+	/*fill: #000000;*/
+}
+.icon-icn-perfil {
+	/*fill: #000000;*/
+}
+.icon-icn-tablet {
+	/*fill: #000000;*/
+}
+.icon-icn-pc {
+	/*fill: #000000;*/
+}
+.icon-icn-movil {
+	/*fill: #000000;*/
+}
+.icon-icn-estorninos {
+	/*fill: #000000;*/
+}
+.icon-icn-usuario {
+	/*fill: #000000;*/
+}
+.icon-icn-usuarios {
+	/*fill: #000000;*/
+}
+.icon-icn-usuario-menos {
+	/*fill: #000000;*/
+}
+.icon-icn-usuario-mas {
+	/*fill: #000000;*/
+}
+.icon-icn-admin {
+	/*fill: #000000;*/
+}
+.icon-icn-prohibir {
+	/*fill: #000000;*/
+}
+.icon-icn-bower {
+	/*fill: #000000;*/
+}
+.icon-icn-vimeo {
+	/*fill: #000000;*/
+}
+.icon-icn-stampa {
+	/*fill: #000000;*/
+}
+.icon-icn-soundcloud {
+	/*fill: #000000;*/
+}
+.icon-icn-anuncio {
+	/*fill: #000000;*/
+}
+.icon-icn-less {
+	/*fill: #000000;*/
+}
+.icon-icn-jekyll {
+	/*fill: #000000;*/
+}
+.icon-icn-flickr {
+	/*fill: #000000;*/
+}
+.icon-icn-caron-der {
+	/*fill: #000000;*/
+}
+.icon-icn-camara {
+	/*fill: #000000;*/
+}
+.icon-icn-palabra {
+	/*fill: #000000;*/
+}
+.icon-icn-subir {
+	/*fill: #000000;*/
+}
+.icon-icn-circulo-lleno {
+	/*fill: #000000;*/
+}
+.icon-icn-mano-der {
+	/*fill: #000000;*/
+}
+.icon-icn-cuadro {
+	/*fill: #000000;*/
+}
+.icon-icn-circulo {
+	/*fill: #000000;*/
+}
+.icon-icn-vineta {
+	/*fill: #000000;*/
+}
+.icon-icn-rama {
+	/*fill: #000000;*/
+}
+.icon-icn-twitter {
+	/*fill: #000000;*/
+}
+.icon-icn-trabajo {
+	/*fill: #000000;*/
+}
+.icon-icn-tiempo {
+	/*fill: #000000;*/
+}
+.icon-icn-ese {
+	/*fill: #000000;*/
+}
+.icon-icn-salir {
+	/*fill: #000000;*/
+}
+.icon-icn-rss {
+	/*fill: #000000;*/
+}
+.icon-icn-reloj {
+	/*fill: #000000;*/
+}
+.icon-icn-alarma {
+	/*fill: #000000;*/
+}
+.icon-icn-refrescar {
+	/*fill: #000000;*/
+}
+.icon-icn-parrafo {
+	/*fill: #000000;*/
+}
+.icon-icn-orden-horizontal {
+	/*fill: #000000;*/
+}
+.icon-icn-ojo {
+	/*fill: #000000;*/
+}
+.icon-icn-noticias {
+	/*fill: #000000;*/
+}
+.icon-icn-marcador {
+	/*fill: #000000;*/
+}
+.icon-icn-mapa {
+	/*fill: #000000;*/
+}
+.icon-icn-mapa-mas {
+	/*fill: #000000;*/
+}
+.icon-icn-sitemap {
+	/*fill: #000000;*/
+}
+.icon-icn-lupa {
+	/*fill: #000000;*/
+}
+.icon-icn-lupa-menos {
+	/*fill: #000000;*/
+}
+.icon-icn-lupa-mas {
+	/*fill: #000000;*/
+}
+.icon-icn-lapiz {
+	/*fill: #000000;*/
+}
+.icon-icn-ingresar {
+	/*fill: #000000;*/
+}
+.icon-icn-impresora {
+	/*fill: #000000;*/
+}
+.icon-icn-imagen {
+	/*fill: #000000;*/
+}
+.icon-icn-hogar {
+	/*fill: #000000;*/
+}
+.icon-icn-hedera {
+	/*fill: #000000;*/
+}
+.icon-icn-grafico {
+	/*fill: #000000;*/
+}
+.icon-icn-facebook {
+	/*fill: #000000;*/
+}
+.icon-icn-etiqueta {
+	/*fill: #000000;*/
+}
+.icon-icn-estrella {
+	/*fill: #000000;*/
+}
+.icon-icn-equis {
+	/*fill: #000000;*/
+}
+.icon-icn-enlace {
+	/*fill: #000000;*/
+}
+.icon-icn-enlace-hor {
+	/*fill: #000000;*/
+}
+.icon-icn-engranaje {
+	/*fill: #000000;*/
+}
+.icon-icn-email {
+	/*fill: #000000;*/
+}
+.icon-icn-documento {
+	/*fill: #000000;*/
+}
+.icon-icn-descargar {
+	/*fill: #000000;*/
+}
+.icon-icn-cuadro-lleno {
+	/*fill: #000000;*/
+}
+.icon-icn-mas {
+	/*fill: #000000;*/
+}
+.icon-icn-menos {
+	/*fill: #000000;*/
+}
+.icon-icn-corazon {
+	/*fill: #000000;*/
+}
+.icon-icn-constel {
+	/*fill: #000000;*/
+}
+.icon-icn-compartir {
+	/*fill: #000000;*/
+}
+.icon-icn-codigo {
+	/*fill: #000000;*/
+}
+.icon-icn-clip {
+	/*fill: #000000;*/
+}
+.icon-icn-ciclo {
+	/*fill: #000000;*/
+}
+.icon-icn-casiopea {
+	/*fill: #000000;*/
+}
+.icon-icn-cerrado {
+	/*fill: #000000;*/
+}
+.icon-icn-abierto {
+	/*fill: #000000;*/
+}
+.icon-icn-calendario {
+	/*fill: #000000;*/
+}
+.icon-icn-biblioteca {
+	/*fill: #000000;*/
+}
+.icon-icn-asterisco {
+	/*fill: #000000;*/
+}
+.icon-icn-archivo {
+	/*fill: #000000;*/
+}
+.icon-icn-ampolleta {
+	/*fill: #000000;*/
+}
+.icon-icn-aviso {
+	/*fill: #000000;*/
+}
+.icon-icn-acto {
+	/*fill: #000000;*/
+}
+.icon-icn-travesia {
+	/*fill: #000000;*/
+}
+.icon-icn-flecha {
+	/*fill: #000000;*/
+}
+.icon-icn-nav {
+	/*fill: #000000;*/
+}
+.icon-icn-nav-lig {
+	/*fill: #000000;*/
+}
+.icon-icn-visto {
+	/*fill: #000000;*/
+}
