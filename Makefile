@@ -1,10 +1,11 @@
 .PHONY: less
 
 less:
-	lessc fonts/stampa-compiler.less fonts/stampa.css --clean-css
-	lessc fonts/basic.less fonts/basic.css --clean-css
+	lessc less/compiler.less css/stampa.css --clean-css
+	lessc less/basic.less css/basic.css --clean-css
 
-css: less
+css: 
+	make less
 
 server:
 	jekyll server --watch --baseurl= --port=3333

@@ -5,11 +5,13 @@ module.exports = function(grunt) {
 	    webfont: {
 		  icons: {
 		    src: 'icons/*.svg',
-		    dest: 'fonts',
+        dest: 'fonts/stampa',
+        destCss: 'less',
 		    options: {
-			font: 'Stampa',
-			ligatures: true,
-			engine: 'fontforge'
+    			font: 'stampa',
+    			ligatures: true,
+    			engine: 'fontforge',
+          hashes: false,
     			}
   		}
 	},
@@ -19,14 +21,8 @@ module.exports = function(grunt) {
     }
   });
 
-  //grunt.loadNpmTasks('grunt-contrib-uglify');
-  //grunt.loadNpmTasks('grunt-contrib-jshint');
-  //grunt.loadNpmTasks('grunt-contrib-qunit');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-webfont');
-  //grunt.loadNpmTasks('grunt-contrib-concat');
-  //grunt.registerTask('test', ['jshint', 'qunit']);
-
   grunt.registerTask('default', ['webfont']);
 
 };
