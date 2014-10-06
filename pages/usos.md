@@ -7,13 +7,21 @@ title: Usos
     <h2>Íconos alineados con el texto </h2>
 
     <p>
-        Los íconos de Stampa pueden ser usados en cualquier parrafo usando la etiqueta <code> &lti&gt</code>
+        Los íconos de Stampa pueden ser usados en cualquier parrafo usando la etiqueta <code> &lti&gt</code> para tener un <acronym title='Hypertext Markup Language'>HTML</acronym> válido para todos los navegadores.
         <br>
     </p>
 
-    <p class='ejemplo'><i class="icn icn-mano-arriba"></i> icn-mano arriba </p>
+    <table>
+      <tr>
+        <td style='width: 25%; text-align: center; color: black'><p class='ejemplo'><i class="icn icn-acto"></i> icn-acto </p></td>
+        <td style='width: 25%'><script src="https://gist.github.com/hspencer/15999ef6133cfe924c76.js"></script></script></td>
+        <td style='width: 25%; text-align: center; color: black'><p class='ejemplo'><i class="icn">acto</i> acto </p></td>
+        <td style='width: 25%'><script src="https://gist.github.com/hspencer/1192722b65f88694ebd1.js"></script></script></td>
+      </tr>
+    </table>
+    
 
-    <script src="https://gist.github.com/creyesnav/9979507.js"></script>
+    
 
     <h2>Íconos de mayor tamaño </h2>
 
@@ -177,4 +185,10 @@ title: Usos
   </p>
 
   <script src="https://gist.github.com/creyesnav/392e9c14a39e1a75dd6d.js"></script>
+
+  <h4>Área de Pruebas</h4>
+  <p>Este espacio opera con la tipografía Web Stampa. Escribe los nombres de los íconos; no verás las letras, pero al completar el nombre aparecerá el caracter correspondiente.</p>
+  <textarea class='icn icn-xl'>
+    acto
+  </textarea>
 </div>
