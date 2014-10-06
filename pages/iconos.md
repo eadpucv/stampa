@@ -12,7 +12,7 @@ title: Íconos
         Se aconseja que el uso de la fuente en su peso 'Regular' sea en un mínimo de 16 px, y el uso del peso 'Ligero' sea en al menos 21 px; esto es, para lograr la mejor visualización posible en dispositivos web.
         <br>
 
-        Para una lista completa de íconos de la versión {{ site.version }}  ve la <a href="{{ site.baseurl }}/pages/cheatsheet">Cheatsheet</a>.
+        Para una lista completa de íconos de la versión {{ site.version }}  ve la <a href="{{ site.baseurl }}/less/stampa.html">Página de Prueba</a> generada automáticamente por grunt-webfont.
     </p>
 
     <h2 id="regular"> Stampa Regular </h2>

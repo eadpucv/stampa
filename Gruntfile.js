@@ -12,6 +12,8 @@ module.exports = function(grunt) {
     			ligatures: true,
     			engine: 'fontforge',
           hashes: false,
+          template: 'grunt-templates/stampa-template',
+          htmlDemoTemplate: 'grunt-templates/demo'
     			}
   		}
 	},
