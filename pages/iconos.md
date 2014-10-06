@@ -12,147 +12,147 @@ title: Íconos
         Se aconseja que el uso de la fuente en su peso 'Regular' sea en un mínimo de 16 px, y el uso del peso 'Ligero' sea en al menos 21 px; esto es, para lograr la mejor visualización posible en dispositivos web.
         <br>
 
-        Para una lista completa de íconos de la versión {{ site.version }}  ve la <a href="{{ site.baseurl }}/pages/cheatsheet">Cheatsheet</a>.
+        Para una lista completa de íconos de la versión {{ site.version }}  ve la <a href="{{ site.baseurl }}/less/stampa.html">Página de Prueba</a> generada automáticamente por grunt-webfont.
     </p>
 
     <h2 id="regular"> Stampa Regular </h2>
 
     <h3 class="clear divide">Íconos de aplicación web </h3>
     <ul>
-        {% include icn-li.html name='icn-ampolleta'%}
-        {% include icn-li.html name='icn-aviso'%}
-        {% include icn-li.html name='icn-camara'%}
-        {% include icn-li.html name='icn-cerrado'%}
-        {% include icn-li.html name='icn-abierto'%}
-        {% include icn-li.html name='icn-ciclo'%}
-        {% include icn-li.html name='icn-clip'%}
-        {% include icn-li.html name='icn-codigo'%}
-        {% include icn-li.html name='icn-compartir'%}
-        {% include icn-li.html name='icn-corazon'%}
-        {% include icn-li.html name='icn-documento'%}
-        {% include icn-li.html name='icn-descargar'%}
-        {% include icn-li.html name='icn-email'%}
-        {% include icn-li.html name='icn-engranaje'%}
-        {% include icn-li.html name='icn-enlace'%}
-        {% include icn-li.html name='icn-enlace-hor'%}
-        {% include icn-li.html name='icn-estrella'%}
-        {% include icn-li.html name='icn-etiqueta'%}
-        {% include icn-li.html name='icn-grafico'%}
-        {% include icn-li.html name='icn-hogar'%}
-        {% include icn-li.html name='icn-imagen'%}
-        {% include icn-li.html name='icn-impresora'%}
-        {% include icn-li.html name='icn-ingresar'%}
-        {% include icn-li.html name='icn-lapiz'%}
-        {% include icn-li.html name='icn-lentes'%}
-        {% include icn-li.html name='icn-libro'%}
-        {% include icn-li.html name='icn-lupa'%}
-        {% include icn-li.html name='icn-lupa-mas'%}
-        {% include icn-li.html name='icn-lupa-menos'%}
-        {% include icn-li.html name='icn-mapa'%}
-        {% include icn-li.html name='icn-mapa-mas'%}
-        {% include icn-li.html name='icn-mapa-concept'%}
-        {% include icn-li.html name='icn-marcador'%}
-        {% include icn-li.html name='icn-movil'%}
-        {% include icn-li.html name='icn-ojo'%}
-        {% include icn-li.html name='icn-orden-hor'%}
-        {% include icn-li.html name='icn-orden-ver'%}
-        {% include icn-li.html name='icn-parlante'%}
-        {% include icn-li.html name='icn-pc'%}
-        {% include icn-li.html name='icn-perfil'%}
-        {% include icn-li.html name='icn-prohibir'%}
-        {% include icn-li.html name='icn-refrescar'%}
-        {% include icn-li.html name='icn-rss'%}
-        {% include icn-li.html name='icn-salir'%}
-        {% include icn-li.html name='icn-subir'%}
-        {% include icn-li.html name='icn-tablet'%}
-        {% include icn-li.html name='icn-usuario'%}
-        {% include icn-li.html name='icn-usuario-admin'%}
-        {% include icn-li.html name='icn-usuario-mas'%}
-        {% include icn-li.html name='icn-usuario-menos'%}
-        {% include icn-li.html name='icn-usuarios'%}
-        {% include icn-li.html name='icn-rama'%}
+        {% include icn-li.html name='ampolleta'%}
+        {% include icn-li.html name='aviso'%}
+        {% include icn-li.html name='camara'%}
+        {% include icn-li.html name='cerrado'%}
+        {% include icn-li.html name='abierto'%}
+        {% include icn-li.html name='ciclo'%}
+        {% include icn-li.html name='clip'%}
+        {% include icn-li.html name='codigo'%}
+        {% include icn-li.html name='compartir'%}
+        {% include icn-li.html name='corazon'%}
+        {% include icn-li.html name='documento'%}
+        {% include icn-li.html name='descargar'%}
+        {% include icn-li.html name='email'%}
+        {% include icn-li.html name='engranaje'%}
+        {% include icn-li.html name='enlace'%}
+        {% include icn-li.html name='enlace-hor'%}
+        {% include icn-li.html name='estrella'%}
+        {% include icn-li.html name='etiqueta'%}
+        {% include icn-li.html name='grafico'%}
+        {% include icn-li.html name='hogar'%}
+        {% include icn-li.html name='imagen'%}
+        {% include icn-li.html name='impresora'%}
+        {% include icn-li.html name='ingresar'%}
+        {% include icn-li.html name='lapiz'%}
+        {% include icn-li.html name='lentes'%}
+        {% include icn-li.html name='libro'%}
+        {% include icn-li.html name='lupa'%}
+        {% include icn-li.html name='lupa-mas'%}
+        {% include icn-li.html name='lupa-menos'%}
+        {% include icn-li.html name='mapa'%}
+        {% include icn-li.html name='mapa-mas'%}
+        {% include icn-li.html name='mapa-concept'%}
+        {% include icn-li.html name='marcador'%}
+        {% include icn-li.html name='movil'%}
+        {% include icn-li.html name='ojo'%}
+        {% include icn-li.html name='orden-hor'%}
+        {% include icn-li.html name='orden-ver'%}
+        {% include icn-li.html name='parlante'%}
+        {% include icn-li.html name='pc'%}
+        {% include icn-li.html name='perfil'%}
+        {% include icn-li.html name='prohibir'%}
+        {% include icn-li.html name='refrescar'%}
+        {% include icn-li.html name='rss'%}
+        {% include icn-li.html name='salir'%}
+        {% include icn-li.html name='subir'%}
+        {% include icn-li.html name='tablet'%}
+        {% include icn-li.html name='usuario'%}
+        {% include icn-li.html name='usuario-admin'%}
+        {% include icn-li.html name='usuario-mas'%}
+        {% include icn-li.html name='usuario-menos'%}
+        {% include icn-li.html name='usuarios'%}
+        {% include icn-li.html name='rama'%}
     </ul>
 
     <h3 class="clear divide">Íconos tipográficos</h3>
     <ul>
-       {% include icn-li.html name='icn-asterisco'%}
-       {% include icn-li.html name='icn-ese'%}
-       {% include icn-li.html name='icn-hedera'%}
-       {% include icn-li.html name='icn-mas'%}
-       {% include icn-li.html name='icn-menos'%}
-       {% include icn-li.html name='icn-parrafo'%} 
+       {% include icn-li.html name='asterisco'%}
+       {% include icn-li.html name='ese'%}
+       {% include icn-li.html name='hedera'%}
+       {% include icn-li.html name='mas'%}
+       {% include icn-li.html name='menos'%}
+       {% include icn-li.html name='parrafo'%} 
     </ul>
 
 
     <h3 class="clear divide">Íconos direccionales</h3>
 
     <ul>
-        {% include icn-li.html name='icn-caron-der'%}
-        {% include icn-li.html name='icn-caron-izq'%}
-        {% include icn-li.html name='icn-caron-arriba'%}
-        {% include icn-li.html name='icn-caron-abajo'%}
-        {% include icn-li.html name='icn-flecha-der'%}
-        {% include icn-li.html name='icn-flecha-izq'%}
-        {% include icn-li.html name='icn-flecha-arriba'%}
-        {% include icn-li.html name='icn-flecha-abajo'%}
-        {% include icn-li.html name='icn-mano-izq'%}
-        {% include icn-li.html name='icn-mano-der'%}
-        {% include icn-li.html name='icn-mano-arriba'%}
-        {% include icn-li.html name='icn-mano-abajo'%}
-        {% include icn-li.html name='icn-nav-izq'%}
-        {% include icn-li.html name='icn-nav-der'%}
-        {% include icn-li.html name='icn-nav-arriba'%}
-        {% include icn-li.html name='icn-nav-abajo'%}
+        {% include icn-li.html name='caron-der'%}
+        {% include icn-li.html name='caron-izq'%}
+        {% include icn-li.html name='caron-arriba'%}
+        {% include icn-li.html name='caron-abajo'%}
+        {% include icn-li.html name='flecha-der'%}
+        {% include icn-li.html name='flecha-izq'%}
+        {% include icn-li.html name='flecha-arriba'%}
+        {% include icn-li.html name='flecha-abajo'%}
+        {% include icn-li.html name='mano-izq'%}
+        {% include icn-li.html name='mano-der'%}
+        {% include icn-li.html name='mano-arriba'%}
+        {% include icn-li.html name='mano-abajo'%}
+        {% include icn-li.html name='nav-izq'%}
+        {% include icn-li.html name='nav-der'%}
+        {% include icn-li.html name='nav-arriba'%}
+        {% include icn-li.html name='nav-abajo'%}
     </ul>
 
     <h3 class="clear divide">Íconos temporales </h3>
     <ul>
-        {% include icn-li.html name='icn-calendario'%}
-        {% include icn-li.html name='icn-tiempo'%}
-        {% include icn-li.html name='icn-reloj'%}
-        {% include icn-li.html name='icn-alarma'%}
+        {% include icn-li.html name='calendario'%}
+        {% include icn-li.html name='tiempo'%}
+        {% include icn-li.html name='reloj'%}
+        {% include icn-li.html name='alarma'%}
     </ul>
 
     <h3 class="clear divide">Íconos enumeradores</h3>
     <ul>
-        {% include icn-li.html name='icn-circulo'%}
-        {% include icn-li.html name='icn-circulo-lleno'%}
-        {% include icn-li.html name='icn-cuadro'%}
-        {% include icn-li.html name='icn-cuadro-lleno'%}
-        {% include icn-li.html name='icn-equis'%}
-        {% include icn-li.html name='icn-vineta'%}
-        {% include icn-li.html name='icn-visto'%}
+        {% include icn-li.html name='circulo'%}
+        {% include icn-li.html name='circulo-lleno'%}
+        {% include icn-li.html name='cuadro'%}
+        {% include icn-li.html name='cuadro-lleno'%}
+        {% include icn-li.html name='equis'%}
+        {% include icn-li.html name='vineta'%}
+        {% include icn-li.html name='visto'%}
     </ul>
 
     <h3 class="clear divide">Íconos de aplicación e[ad]</h3>
     <ul>
-        {% include icn-li.html name='icn-acto'%}
-        {% include icn-li.html name='icn-anuncio'%}
-        {% include icn-li.html name='icn-archivo'%}
-        {% include icn-li.html name='icn-biblioteca'%}
-        {% include icn-li.html name='icn-casiopea'%}
-        {% include icn-li.html name='icn-constel'%}
-        {% include icn-li.html name='icn-cruz-del-sur'%}
-        {% include icn-li.html name='icn-estorninos'%}
-        {% include icn-li.html name='icn-menu'%}
-        {% include icn-li.html name='icn-noticias'%}
-        {% include icn-li.html name='icn-palabra'%}
-        {% include icn-li.html name='icn-stampa'%}
-        {% include icn-li.html name='icn-trabajo'%}
-        {% include icn-li.html name='icn-travesia'%}
+        {% include icn-li.html name='acto'%}
+        {% include icn-li.html name='anuncio'%}
+        {% include icn-li.html name='archivo'%}
+        {% include icn-li.html name='biblioteca'%}
+        {% include icn-li.html name='casiopea'%}
+        {% include icn-li.html name='constel'%}
+        {% include icn-li.html name='cruz-del-sur'%}
+        {% include icn-li.html name='estorninos'%}
+        {% include icn-li.html name='menu'%}
+        {% include icn-li.html name='noticias'%}
+        {% include icn-li.html name='palabra'%}
+        {% include icn-li.html name='stampa'%}
+        {% include icn-li.html name='trabajo'%}
+        {% include icn-li.html name='travesia'%}
     </ul>
 
     <h3 class="clear divide">Íconos de aplicaciones externas</h3>
     <ul>
-        {% include icn-li.html name='icn-bower'%}
-        {% include icn-li.html name='icn-facebook'%}
-        {% include icn-li.html name='icn-flickr'%}
-        {% include icn-li.html name='icn-jekyll'%}
-        {% include icn-li.html name='icn-less'%}
-        {% include icn-li.html name='icn-soundcloud'%}
-        {% include icn-li.html name='icn-twitter'%}
-        {% include icn-li.html name='icn-vimeo'%}
-        {% include icn-li.html name='icn-youtube'%}
+        {% include icn-li.html name='bower'%}
+        {% include icn-li.html name='facebook'%}
+        {% include icn-li.html name='flickr'%}
+        {% include icn-li.html name='jekyll'%}
+        {% include icn-li.html name='less'%}
+        {% include icn-li.html name='soundcloud'%}
+        {% include icn-li.html name='twitter'%}
+        {% include icn-li.html name='vimeo'%}
+        {% include icn-li.html name='youtube'%}
     </ul>
 
 
@@ -162,140 +162,140 @@ title: Íconos
 
     <h3 class="clear divide">Íconos de aplicación web </h3>
     <ul>
-        {% include icn-li.html name='icn-ampolleta-lig'%}
-        {% include icn-li.html name='icn-aviso-lig'%}
-        {% include icn-li.html name='icn-camara-lig'%}
-        {% include icn-li.html name='icn-cerrado-lig'%}
-        {% include icn-li.html name='icn-abierto-lig'%}
-        {% include icn-li.html name='icn-ciclo-lig'%}
-        {% include icn-li.html name='icn-clip-lig'%}
-        {% include icn-li.html name='icn-codigo-lig'%}
-        {% include icn-li.html name='icn-compartir-lig'%}
-        {% include icn-li.html name='icn-corazon-lig'%}
-        {% include icn-li.html name='icn-documento-lig'%}
-        {% include icn-li.html name='icn-descargar-lig'%}
-        {% include icn-li.html name='icn-email-lig'%}
-        {% include icn-li.html name='icn-engranaje-lig'%}
-        {% include icn-li.html name='icn-enlace-lig'%}
-        {% include icn-li.html name='icn-enlace-hor-lig'%}
-        {% include icn-li.html name='icn-estrella-lig'%}
-        {% include icn-li.html name='icn-etiqueta-lig'%}
-        {% include icn-li.html name='icn-grafico-lig'%}
-        {% include icn-li.html name='icn-hogar-lig'%}
-        {% include icn-li.html name='icn-imagen-lig'%}
-        {% include icn-li.html name='icn-impresora-lig'%}
-        {% include icn-li.html name='icn-ingresar-lig'%}
-        {% include icn-li.html name='icn-lapiz-lig'%}
-        {% include icn-li.html name='icn-lentes-lig'%}
-        {% include icn-li.html name='icn-libro-lig'%}
-        {% include icn-li.html name='icn-lupa-lig'%}
-        {% include icn-li.html name='icn-lupa-mas-lig'%}
-        {% include icn-li.html name='icn-lupa-menos-lig'%}
-        {% include icn-li.html name='icn-mapa-lig'%}
-        {% include icn-li.html name='icn-mapa-mas-lig'%}
-        {% include icn-li.html name='icn-mapa-concept-lig'%}
-        {% include icn-li.html name='icn-marcador-lig'%}
-        {% include icn-li.html name='icn-movil-lig'%}
-        {% include icn-li.html name='icn-ojo-lig'%}
-        {% include icn-li.html name='icn-orden-hor-lig'%}
-        {% include icn-li.html name='icn-orden-ver-lig'%}
-        {% include icn-li.html name='icn-parlante-lig'%}
-        {% include icn-li.html name='icn-pc-lig'%}
-        {% include icn-li.html name='icn-perfil-lig'%}
-        {% include icn-li.html name='icn-prohibir-lig'%}
-        {% include icn-li.html name='icn-refrescar-lig'%}
-        {% include icn-li.html name='icn-rss-lig'%}
-        {% include icn-li.html name='icn-salir-lig'%}
-        {% include icn-li.html name='icn-subir-lig'%}
-        {% include icn-li.html name='icn-tablet-lig'%}
-        {% include icn-li.html name='icn-usuario-lig'%}
-        {% include icn-li.html name='icn-usuario-admin-lig'%}
-        {% include icn-li.html name='icn-usuario-mas-lig'%}
-        {% include icn-li.html name='icn-usuario-menos-lig'%}
-        {% include icn-li.html name='icn-usuarios-lig'%}
-        {% include icn-li.html name='icn-rama-lig'%}
+        {% include icn-li.html name='ampolleta-lig'%}
+        {% include icn-li.html name='aviso-lig'%}
+        {% include icn-li.html name='camara-lig'%}
+        {% include icn-li.html name='cerrado-lig'%}
+        {% include icn-li.html name='abierto-lig'%}
+        {% include icn-li.html name='ciclo-lig'%}
+        {% include icn-li.html name='clip-lig'%}
+        {% include icn-li.html name='codigo-lig'%}
+        {% include icn-li.html name='compartir-lig'%}
+        {% include icn-li.html name='corazon-lig'%}
+        {% include icn-li.html name='documento-lig'%}
+        {% include icn-li.html name='descargar-lig'%}
+        {% include icn-li.html name='email-lig'%}
+        {% include icn-li.html name='engranaje-lig'%}
+        {% include icn-li.html name='enlace-lig'%}
+        {% include icn-li.html name='enlace-hor-lig'%}
+        {% include icn-li.html name='estrella-lig'%}
+        {% include icn-li.html name='etiqueta-lig'%}
+        {% include icn-li.html name='grafico-lig'%}
+        {% include icn-li.html name='hogar-lig'%}
+        {% include icn-li.html name='imagen-lig'%}
+        {% include icn-li.html name='impresora-lig'%}
+        {% include icn-li.html name='ingresar-lig'%}
+        {% include icn-li.html name='lapiz-lig'%}
+        {% include icn-li.html name='lentes-lig'%}
+        {% include icn-li.html name='libro-lig'%}
+        {% include icn-li.html name='lupa-lig'%}
+        {% include icn-li.html name='lupa-mas-lig'%}
+        {% include icn-li.html name='lupa-menos-lig'%}
+        {% include icn-li.html name='mapa-lig'%}
+        {% include icn-li.html name='mapa-mas-lig'%}
+        {% include icn-li.html name='mapa-concept-lig'%}
+        {% include icn-li.html name='marcador-lig'%}
+        {% include icn-li.html name='movil-lig'%}
+        {% include icn-li.html name='ojo-lig'%}
+        {% include icn-li.html name='orden-hor-lig'%}
+        {% include icn-li.html name='orden-ver-lig'%}
+        {% include icn-li.html name='parlante-lig'%}
+        {% include icn-li.html name='pc-lig'%}
+        {% include icn-li.html name='perfil-lig'%}
+        {% include icn-li.html name='prohibir-lig'%}
+        {% include icn-li.html name='refrescar-lig'%}
+        {% include icn-li.html name='rss-lig'%}
+        {% include icn-li.html name='salir-lig'%}
+        {% include icn-li.html name='subir-lig'%}
+        {% include icn-li.html name='tablet-lig'%}
+        {% include icn-li.html name='usuario-lig'%}
+        {% include icn-li.html name='usuario-admin-lig'%}
+        {% include icn-li.html name='usuario-mas-lig'%}
+        {% include icn-li.html name='usuario-menos-lig'%}
+        {% include icn-li.html name='usuarios-lig'%}
+        {% include icn-li.html name='rama-lig'%}
     </ul>
 
     <h3 class="clear divide">Íconos tipográficos</h3>
     <ul>
-       {% include icn-li.html name='icn-asterisco-lig'%}
-       {% include icn-li.html name='icn-ese-lig'%}
-       {% include icn-li.html name='icn-hedera-lig'%}
-       {% include icn-li.html name='icn-mas-lig'%}
-       {% include icn-li.html name='icn-menos-lig'%}
-       {% include icn-li.html name='icn-parrafo-lig'%} 
+       {% include icn-li.html name='asterisco-lig'%}
+       {% include icn-li.html name='ese-lig'%}
+       {% include icn-li.html name='hedera-lig'%}
+       {% include icn-li.html name='mas-lig'%}
+       {% include icn-li.html name='menos-lig'%}
+       {% include icn-li.html name='parrafo-lig'%} 
     </ul>
 
 
     <h3 class="clear divide">Íconos direccionales</h3>
 
     <ul>
-        {% include icn-li.html name='icn-caron-der-lig'%}
-        {% include icn-li.html name='icn-caron-izq-lig'%}
-        {% include icn-li.html name='icn-caron-arriba-lig'%}
-        {% include icn-li.html name='icn-caron-abajo-lig'%}
-        {% include icn-li.html name='icn-flecha-der-lig'%}
-        {% include icn-li.html name='icn-flecha-izq-lig'%}
-        {% include icn-li.html name='icn-flecha-arriba-lig'%}
-        {% include icn-li.html name='icn-flecha-abajo-lig'%}
-        {% include icn-li.html name='icn-mano-izq-lig'%}
-        {% include icn-li.html name='icn-mano-der-lig'%}
-        {% include icn-li.html name='icn-mano-arriba-lig'%}
-        {% include icn-li.html name='icn-mano-abajo-lig'%}
-        {% include icn-li.html name='icn-nav-izq-lig'%}
-        {% include icn-li.html name='icn-nav-der-lig'%}
-        {% include icn-li.html name='icn-nav-arriba-lig'%}
-        {% include icn-li.html name='icn-nav-abajo-lig'%}
+        {% include icn-li.html name='caron-der-lig'%}
+        {% include icn-li.html name='caron-izq-lig'%}
+        {% include icn-li.html name='caron-arriba-lig'%}
+        {% include icn-li.html name='caron-abajo-lig'%}
+        {% include icn-li.html name='flecha-der-lig'%}
+        {% include icn-li.html name='flecha-izq-lig'%}
+        {% include icn-li.html name='flecha-arriba-lig'%}
+        {% include icn-li.html name='flecha-abajo-lig'%}
+        {% include icn-li.html name='mano-izq-lig'%}
+        {% include icn-li.html name='mano-der-lig'%}
+        {% include icn-li.html name='mano-arriba-lig'%}
+        {% include icn-li.html name='mano-abajo-lig'%}
+        {% include icn-li.html name='nav-izq-lig'%}
+        {% include icn-li.html name='nav-der-lig'%}
+        {% include icn-li.html name='nav-arriba-lig'%}
+        {% include icn-li.html name='nav-abajo-lig'%}
     </ul>
 
     <h3 class="clear divide">Íconos temporales </h3>
     <ul>
-        {% include icn-li.html name='icn-calendario-lig'%}
-        {% include icn-li.html name='icn-tiempo-lig'%}
-        {% include icn-li.html name='icn-reloj-lig'%}
-        {% include icn-li.html name='icn-alarma-lig'%}
+        {% include icn-li.html name='calendario-lig'%}
+        {% include icn-li.html name='tiempo-lig'%}
+        {% include icn-li.html name='reloj-lig'%}
+        {% include icn-li.html name='alarma-lig'%}
     </ul>
 
     <h3 class="clear divide">Íconos enumeradores</h3>
     <ul>
-        {% include icn-li.html name='icn-circulo-lig'%}
-        {% include icn-li.html name='icn-circulo-lleno'%}
-        {% include icn-li.html name='icn-cuadro-lig'%}
-        {% include icn-li.html name='icn-cuadro-lleno'%}
-        {% include icn-li.html name='icn-equis-lig'%}
-        {% include icn-li.html name='icn-vineta'%}
-        {% include icn-li.html name='icn-visto-lig'%}
+        {% include icn-li.html name='circulo-lig'%}
+        {% include icn-li.html name='circulo-lleno'%}
+        {% include icn-li.html name='cuadro-lig'%}
+        {% include icn-li.html name='cuadro-lleno'%}
+        {% include icn-li.html name='equis-lig'%}
+        {% include icn-li.html name='vineta'%}
+        {% include icn-li.html name='visto-lig'%}
     </ul>
 
     <h3 class="clear divide">Íconos de aplicación e[ad]</h3>
     <ul>
-        {% include icn-li.html name='icn-acto-lig'%}
-        {% include icn-li.html name='icn-anuncio-lig'%}
-        {% include icn-li.html name='icn-archivo-lig'%}
-        {% include icn-li.html name='icn-biblioteca-lig'%}
-        {% include icn-li.html name='icn-casiopea-lig'%}
-        {% include icn-li.html name='icn-constel-lig'%}
-        {% include icn-li.html name='icn-cruz-del-sur-lig'%}
-        {% include icn-li.html name='icn-estorninos-lig'%}
-        {% include icn-li.html name='icn-menu-lig'%}
-        {% include icn-li.html name='icn-noticias-lig'%}
-        {% include icn-li.html name='icn-palabra-lig'%}
-        {% include icn-li.html name='icn-stampa-lig'%}
-        {% include icn-li.html name='icn-trabajo-lig'%}
-        {% include icn-li.html name='icn-travesia-lig'%}
+        {% include icn-li.html name='acto-lig'%}
+        {% include icn-li.html name='anuncio-lig'%}
+        {% include icn-li.html name='archivo-lig'%}
+        {% include icn-li.html name='biblioteca-lig'%}
+        {% include icn-li.html name='casiopea-lig'%}
+        {% include icn-li.html name='constel-lig'%}
+        {% include icn-li.html name='cruz-del-sur-lig'%}
+        {% include icn-li.html name='estorninos-lig'%}
+        {% include icn-li.html name='menu-lig'%}
+        {% include icn-li.html name='noticias-lig'%}
+        {% include icn-li.html name='palabra-lig'%}
+        {% include icn-li.html name='stampa-lig'%}
+        {% include icn-li.html name='trabajo-lig'%}
+        {% include icn-li.html name='travesia-lig'%}
     </ul>
 
     <h3 class="clear divide">Íconos de aplicaciones externas</h3>
     <ul>
-        {% include icn-li.html name='icn-bower-lig'%}
-        {% include icn-li.html name='icn-facebook-lig'%}
-        {% include icn-li.html name='icn-flickr-lig'%}
-        {% include icn-li.html name='icn-jekyll-lig'%}
-        {% include icn-li.html name='icn-less-lig'%}
-        {% include icn-li.html name='icn-soundcloud-lig'%}
-        {% include icn-li.html name='icn-twitter-lig'%}
-        {% include icn-li.html name='icn-vimeo-lig'%}
-        {% include icn-li.html name='icn-youtube-lig'%}
+        {% include icn-li.html name='bower-lig'%}
+        {% include icn-li.html name='facebook-lig'%}
+        {% include icn-li.html name='flickr-lig'%}
+        {% include icn-li.html name='jekyll-lig'%}
+        {% include icn-li.html name='less-lig'%}
+        {% include icn-li.html name='soundcloud-lig'%}
+        {% include icn-li.html name='twitter-lig'%}
+        {% include icn-li.html name='vimeo-lig'%}
+        {% include icn-li.html name='youtube-lig'%}
     </ul>
 
 </div>
