@@ -27,3 +27,9 @@ all:
 	rm dist/stampa-webfont.zip
 	make zip-icons
 	make zip-webfont
+
+dist:
+	rm dist/icons.zip
+	rm dist/stampa-webfont.zip
+	make zip-icons
+	make zip-webfont

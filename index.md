@@ -13,11 +13,11 @@ title: Stampa
 
 
 <div class='xxl centrado'>
-<i class='icn icn-acto'></i><i class='icn icn-acto-lig'></i> 
-<i class='icn icn-archivo'></i> <i class='icn icn-archivo-lig'></i> 
-<i class='icn icn-constel'></i> <i class='icn icn-constel-lig'></i>
-<i class='icn icn-estorninos'></i> <i class='icn icn-estorninos-lig'></i> 
-<i class='icn icn-stampa'></i> <i class='icn icn-stampa-lig'></i>
+<i class='icn icn-acto'></i><i class='icn icn-acto icn-light'></i> 
+<i class='icn icn-archivo'></i> <i class='icn icn-archivo icn-light'></i> 
+<i class='icn icn-constel'></i> <i class='icn icn-constel icn-light'></i>
+<i class='icn icn-estorninos'></i> <i class='icn icn-estorninos icn-light'></i> 
+<i class='icn icn-stampa'></i> <i class='icn icn-stampa icn-light'></i>
 </div>
 
 
