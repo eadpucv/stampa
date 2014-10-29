@@ -7,7 +7,7 @@ title: Íconos
 <div class='content'>
     <p id="inicio">
         <br>
-        En la versión  4.0.0 de Stampa, se introduce la variante de peso a la fuente iconográfica llamada 'Ligera', utilizando la clase <code>icn-lig</code> en su elemento contenedor.
+        En la versión  4.0.0 de Stampa, se introduce la variante de peso a la fuente iconográfica llamada 'Ligera', utilizando la clase <code>icn-light</code> en su elemento contenedor.
         <br>
         Se aconseja que el uso de la fuente en su peso 'Regular' sea en un mínimo de 16 px, y el uso del peso 'Ligero' sea en al menos 21 px; esto es, para lograr la mejor visualización posible en dispositivos web.
         <br>
