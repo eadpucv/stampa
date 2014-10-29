@@ -8,7 +8,7 @@ title: Stampa
 <h2 class="gris-oscuro">Stampa es una familia tipográfica de íconos diseñada para trabajar con Pyxis, el framework gráfico de la e[ad]. </h2>
 
 <div class='centrado'>
-<a class='btn' href='{{ site.baseurl}}/dist/stampa-webfont.zip'><i class='icn'>descargar</i>  Stampa Webfont</a><a class='btn' href='{{ site.baseurl}}/dist/icons.zip'><i class='icn'>descargar</i>  Íconos Stampa</a>
+<a class='btn' href='{{ site.baseurl}}/dist/stampa-webfont.zip'><i class='icn icn-light'>descargar</i>  Stampa Webfont</a><a class='btn' href='{{ site.baseurl}}/dist/icons.zip'><i class='icn icn-light'>descargar</i>  Íconos Stampa</a>
 </div>
 
 
