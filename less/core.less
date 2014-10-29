@@ -1,21 +1,45 @@
-// Base Class Definition
-// -------------------------
 
-.@{icn-css-prefix} {
-  display: inline-block;
-  font-family: Stampa;
-  font-style: normal;
-  font-weight: normal;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+	font-family: "Stampa";
+	src: url("@{font-path}/stampa.eot");
+	font-weight: @weight;
+	font-style: normal;
 }
+
+@font-face {
+	font-family: "Stampa";
+	src: url("@{font-path}/stampa.eot");
+	src: url("@{font-path}/stampa.eot?#iefix") format("embedded-opentype"),
+		url("@{font-path}/stampa.woff") format("woff"),
+		url("@{font-path}/stampa.ttf") format("truetype"),
+		url("@{font-path}/stampa.svg?#stampa") format("svg");
+	font-weight: @weight;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Stampa";
+	src: url("@{font-path}/stampa-light.eot");
+	font-weight: @weight-light;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Stampa";
+	src: url("@{font-path}/stampa-light.eot");
+	src: url("@{font-path}/stampa-light.eot?#iefix") format("embedded-opentype"),
+		url("@{font-path}/stampa-light.woff") format("woff"),
+		url("@{font-path}/stampa-light.ttf") format("truetype"),
+		url("@{font-path}/stampa-light.svg?#stampa-light") format("svg");
+	font-weight: @weight-light;
+	font-style: normal;
+}
+
 
 .@{icn-css-prefix},
 .ligature-icons {
 	font-family: "Stampa";
-	display: inline-block;
-	// vertical-align: middle;
+	display: inline-block; 
 	line-height: 1;
 	font-weight: normal;
 	font-style: normal;
@@ -25,4 +49,8 @@
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+}
+
+.@{icn-css-prefix}-light {
+	font-weight: @weight-light !important;
 }
