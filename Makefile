@@ -2,7 +2,7 @@
 
 less:
 	lessc less/compiler.less css/stampa.css --clean-css
-	lessc less/basic.less style/basic.less --clean-css
+	lessc less/basic.less style/basic.css --clean-css
 
 css: 
 	make less
