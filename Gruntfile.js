@@ -4,11 +4,11 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
 	    webfont: {
 		  icons: {
-		    src: 'icons/*.svg',
+		    src: 'icons-light/*.svg',
         dest: 'fonts/stampa',
         destCss: 'less',
 		    options: {
-    			font: 'stampa',
+    			font: 'stampa-light',
     			ligatures: true,
     			engine: 'fontforge',
           hashes: false,

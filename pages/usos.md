@@ -187,8 +187,9 @@ title: Usos
   <script src="https://gist.github.com/creyesnav/392e9c14a39e1a75dd6d.js"></script>
 
   <h4>Área de Pruebas</h4>
-  <p>Este espacio opera con la tipografía Web Stampa. Escribe los nombres de los íconos; no verás las letras, pero al completar el nombre aparecerá el caracter correspondiente.</p>
-  <textarea class='icn icn-xl'>
-    acto
-  </textarea>
+  <p>Este espacio opera con la tipografía Web Stampa. Escribe los nombres de los íconos; no verás las letras, pero al completar el nombre aparecerá el caracter correspondiente:</p>
+  <h2>Regular</h2>
+  <textarea class='icn icn-xl'>acto</textarea>
+  <h2>Ligera</h2>
+  <textarea class='icn icn-light icn-xl'>acto</textarea>
 </div>
