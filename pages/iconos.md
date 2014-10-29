@@ -65,7 +65,7 @@ title: Íconos
         {% include icn.html name='subir'%}
         {% include icn.html name='tablet'%}
         {% include icn.html name='usuario'%}
-        {% include icn.html name='usuarioadmin'%}
+        {% include icn.html name='admin'%}
         {% include icn.html name='usuariomas'%}
         {% include icn.html name='usuariomenos'%}
         {% include icn.html name='usuarios'%}
@@ -208,7 +208,7 @@ title: Íconos
         {% include icn-light.html name='subir'%}
         {% include icn-light.html name='tablet'%}
         {% include icn-light.html name='usuario'%}
-        {% include icn-light.html name='usuarioadmin'%}
+        {% include icn-light.html name='admin'%}
         {% include icn-light.html name='usuariomas'%}
         {% include icn-light.html name='usuariomenos'%}
         {% include icn-light.html name='usuarios'%}
