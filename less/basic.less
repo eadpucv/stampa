@@ -20,8 +20,8 @@ body{
 	font-family: @serif;
 	font-weight: 300;
 	font-size: 16px;
-	background-color: @fondo;
-	color: darken(@gris-oscuro, 20);
+	background-color: @color-fondo;
+	color: darken(@color-negro, 20);
 	min-width: 100%;
 	margin: 0 auto;
 }
@@ -38,7 +38,7 @@ h1{
 }
 
 h2{
-	color: @naranja !important;
+	color: @color-stampa;
 	font-size: 31px;
 	font-weight: 500;
 	text-align: center;
@@ -48,7 +48,7 @@ h2{
 }
 
 h3{
-	color: @naranja-opuesto;
+	color: @color-stampa;
 	font-size: 19px;
 	font-weight: 100;
 }
@@ -56,14 +56,14 @@ h3{
 h4 {
 	font-size: 19px;
 	font-weight: 400;
-	color: @naranja-opuesto;
+	color: @color-stampa;
 }
 
 h5 {
 	font-size: 14px;
 	clear:both;
 	padding: 5px 15px;
-	border: solid @naranja-opuesto 1px;
+	border: solid @color-stampa 1px;
 	max-width: 105px;
 	margin-bottom: 105px;
 }
@@ -75,19 +75,19 @@ a,ul,li{
 
 h4 a:link{
 	font-weight: 400;
-	color:@naranja-opuesto;
+	color:@color-stampa;
 }
 
 h4 a:visited{
-	color:@naranja-opuesto;
+	color:@color-stampa;
 }
 
 h4 a:hover{
-	color:@naranja-opuesto;
+	color:@color-stampa;
 }
 
 h4 a:active{
-	color:@naranja-opuesto;
+	color:@color-stampa;
 }
 
 .content{
@@ -96,16 +96,16 @@ h4 a:active{
 	a{
 		&:link{
 			font-weight: 400;
-			color:@naranja-opuesto;
+			color:@color-stampa;
 		}
 		&:visited{
-			color:@naranja-opuesto;
+			color:@color-stampa;
 		}
 		&:hover{
-			color:@naranja-opuesto;
+			color:@color-stampa;
 		}
 		&:active{
-			color:@naranja-opuesto;
+			color:@color-stampa;
 		}
 	}
 }
@@ -124,18 +124,18 @@ header{
 }
 
 header, footer {
-	background-color: @naranja-opuesto;
+	background-color: @color-stampa;
 	display: block;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	* {
-		color: fade(@blanco, 80);
+		color: fade(@color-blanco, 80);
 		text-align: center;
 	}
-	h1, .icn{color: @blanco;}
+	h1, .icn{color: @color-blanco;}
 	a{
 		font-weight: 700;
-		color: @blanco;
+		color: @color-blanco;
 	}
 } 
 
@@ -153,7 +153,7 @@ footer {
 nav {
 	font-family: @sans;
 	font-weight: 700;
-	background-color: @fondo;
+	background-color: @color-fondo;
 	height: 42px;
 	padding-top: 15px;
 	margin: 0;
@@ -165,7 +165,7 @@ nav {
 			font-size: 20px;
 			font-weight: 500;
 			:hover{
-				text-shadow: 2px 2px 0 @blanco;
+				text-shadow: 2px 2px 0 @color-blanco;
 			}
 			.icn{color: inherit;}
 			
@@ -173,7 +173,7 @@ nav {
 				margin-right: 0px;
 			}
 			a  {
-				color: @naranja-opuesto;
+				color: @color-stampa;
 			}
 
 		}
@@ -190,7 +190,7 @@ nav {
 
 /* Tablas */
 
-@gist: saturate(lighten(@naranja-opuesto, 20), 20);
+@gist: saturate(lighten(@color-stampa, 20), 20);
 
 table{
 	//background-color: @gist;
@@ -234,15 +234,15 @@ border: none !important;
 }
  
 .gist-meta{
-border: 1px solid @gris-claro;
+border: 1px solid @color-gris;
 padding: 12px !important;
  
 }
  
 .gist-data{
 padding: 15px !important;
-border: 1px solid @gris-claro;
-background-color: @blanco;
+border: 1px solid @color-gris;
+background-color: @color-blanco;
 border-bottom: none !important;
 }
 
@@ -252,20 +252,20 @@ border-bottom: none !important;
 .caja-icono {
 	width: 100px;
 	height: 70px;
-	background-color: #eceddc;
+	background-color: @color-blanco;
 	display: block;
 	border-radius: 5px;
 	text-align: center;
 	margin: 7px;
 	padding: 5px;
 	float: left;
-	i{color: @negro}
+	i{color: @color-negro}
 	p {
 		font-family: @mono;
 		text-align: center;
 		font-size: 10px;
-		color: @negro;
-		text-shadow: 1px 1px 0 @blanco;
+		color: @color-negro;
+		text-shadow: 1px 1px 0 @color-blanco;
 	}
 	&:last-child{
 		margin-bottom: 60px;
@@ -288,7 +288,7 @@ border-bottom: none !important;
 }
 
 .divide{
-	border-bottom: 1px solid @gris;
+	border-bottom: 1px solid @color-gris;
 }
 
 .prueba {
@@ -315,8 +315,8 @@ border-bottom: none !important;
 	font-weight: 100 !important;
 	font-size: 28px;
 	margin: 40px 20px 60px 20px;
-	background-color: @naranja-opuesto;
-	color: @blanco !important;
+	background-color: @color-stampa;
+	color: @color-blanco !important;
 	letter-spacing: -.06ex;
 	text-decoration: none;
 	padding: .4em 1em;
@@ -329,8 +329,8 @@ border-bottom: none !important;
 		letter-spacing: normal;
 	}
 	&:hover{
-		color: @blanco !important;
-		background-color: @naranja;
+		color: @color-blanco !important;
+		background-color: @color-stampa;
 	}
 }
 
