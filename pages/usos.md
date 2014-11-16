@@ -134,7 +134,7 @@ title: Usos
     <br>
     <br>
     <span class="icn-stack">
-        <i class="icn icn-cuadro-lleno icn-stack-2x"></i>
+        <i class="icn icn-cuadrolleno icn-stack-2x"></i>
         <i class="icn icn-facebook icn-stack-1x icn-inverse"></i>
     </span>
     icn-cuadro-lleno / icn-facebook
@@ -143,12 +143,20 @@ title: Usos
 
     <span class="icn-stack icn-lg">
         <i class="icn icn-parlante icn-stack-1x"></i>
-        <i class="icn icn-prohibir icn-stack-2x"></i>
+        <i class="icn icn-prohibir icn-stack-2x rojo"></i>
     </span>
 
     icn-parlante / icn-prohibir
 
     <script src="https://gist.github.com/creyesnav/11040445.js"></script>
+
+
+     <br><br>
+
+    <span class="icn-stack icn-lg">
+        <i class="icn icn-circulolleno icn-stack-2x naranja"></i>
+        <i class="icn icn-rss  icn-inverse icn-stack-1x"></i>
+    </span>
 
     <h2>Íconos con estilos CSS3</h2>
 
@@ -159,8 +167,8 @@ title: Usos
 
     <p class='ejemplo'>
         <span class="icn-stack icn-lg">
-          <i class="icn icn-cuadro icn-stack-2x naranja-opuesto"></i>
-          <i class="icn icn-facebook icn-stack-1x naranja-opuesto"></i>
+          <i class="icn icn-cuadrolleno icn-stack-2x azul"></i>
+          <i class="icn icn-facebook icn-stack-1x icn-inverse"></i>
       </span>
 
       icn-cuadro / icn-facebook
