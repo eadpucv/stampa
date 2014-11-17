@@ -4,58 +4,57 @@ title: Usos
 ---
 <div class='content'>
 
-    <h2>Íconos alineados con el texto </h2>
+<h2>Íconos alineados con el texto </h2>
+
+<p>Los íconos de Stampa pueden ser usados en cualquier parrafo usando la etiqueta <code>&lti&gt</code> o <code>&ltspan&gt</code> para tener un <acronym title='Hypertext Markup Language'>HTML</acronym> válido para todos los navegadores. Se recomienda el uso de <code>&ltspan&gt</code> ya que la etiqueta <code>&lti&gt</code> podría definir atributos tipográficos conflictivos si se trabaja dentro de un framework más complejo.</p>
+
+<h3>Caso 1: Etiqueta vacía con una clase específica</h3>
+<p class='ejemplo'><span class="icn icn-acto icn-lg"></span></p>
+<code>&lt;span class=&quot;icn icn-acto&quot;&gt;&lt;/span&gt;</code>
+<h3>Caso 2: Ligadura con la clase genérica</h3>
+<p class='ejemplo'><span class="icn icn-lg">acto</span></p>
+<code>&lt;span class=&quot;icn&quot;&gt;acto&lt;/span&gt;</code>
+
+
+<h2>Íconos de mayor tamaño </h2>
+
+<p>
+    A los íconos se les puede incorporar las clases <code>sm</code> <code>md</code> <code>lg</code> y <code>xl</code>; que varían su tamaño en relación con el parrafo en que se encuentra. 
+    <br>
+</p>
+
+
+<p class='ejemplo'>
+<span class="icn icn-acto icn-sm"></span> icn-acto <br>
+<span class="icn icn-acto icn-md"></span> icn-acto <br>
+<span class="icn icn-acto icn-lg"></span> icn-acto <br>
+<span class="icn icn-acto icn-xl"></span> icn-acto 
+</p>
+
+<code class='bloque'>&lt;span class=&quot;icn icn-acto icn-sm&quot;&gt;&lt;/span&gt; icn-mano arriba
+&lt;span class=&quot;icn icn-acto icn-md&quot;&gt;&lt;/span&gt; icn-mano arriba
+&lt;span class=&quot;icn icn-acto icn-lg&quot;&gt;&lt;/span&gt; icn-mano arriba
+&lt;span class=&quot;icn icn-acto icn-xl&quot;&gt;&lt;/span&gt; icn-mano arriba 
+</code>
+
+    <h2>Íconos enumeradores</h2>
 
     <p>
-        Los íconos de Stampa pueden ser usados en cualquier parrafo usando la etiqueta <code> &lti&gt</code> para tener un <acronym title='Hypertext Markup Language'>HTML</acronym> válido para todos los navegadores.
-        <br>
-    </p>
+       Se incluye dentro de los usos de los íconos en listas ordenadas de elementos. Incorporando las clases <code>icn-ul</code> e  <code>icn-li</code> se reemplazan las viñetas.
+       <br>
+   </p>
 
-    <table>
-      <tr>
-        <td style='width: 25%; text-align: center; color: black'><p class='ejemplo'><i class="icn icn-acto"></i> icn-acto </p></td>
-        <td style='width: 25%'><script src="https://gist.github.com/hspencer/15999ef6133cfe924c76.js"></script></script></td>
-        <td style='width: 25%; text-align: center; color: black'><p class='ejemplo'><i class="icn">acto</i> acto </p></td>
-        <td style='width: 25%'><script src="https://gist.github.com/hspencer/1192722b65f88694ebd1.js"></script></script></td>
-      </tr>
-    </table>
-    
+<ul class="icn-ul ejemplo">
+    <li><span class="icn icn-li icn-visto"></span>icn-visto</li>
+    <li><span class="icn icn-li icn-visto"></span>icn-visto</li>
+    <li><span class="icn icn-li icn-equis"></span>icn-equis</li>
+</ul>
 
-    
-
-    <h2>Íconos de mayor tamaño </h2>
-
-    <p>
-        A los íconos se les puede incorporar las clases <code>sm</code> <code>md</code> <code>lg</code> y <code>xl</code>; que varían su tamaño en relación con el parrafo en que se encuentra. 
-        <br>
-    </p>
-
-
-    <p class='ejemplo'><i class="icn icn-mano-arriba icn-sm"></i> icn-mano arriba 
-        <br><i class="icn icn-mano-arriba icn-md"></i> icn-mano arriba 
-        <br><i class="icn icn-mano-arriba icn-lg"></i> icn-mano arriba 
-        <br><i class="icn icn-mano-arriba icn-xl"></i> icn-mano arriba </p>
-
-        <br>
-
-        <script src="https://gist.github.com/creyesnav/9979745.js"></script>
-
-        <br>
-
-        <h2>Íconos enumeradores</h2>
-
-        <p>
-         Se incluye dentro de los usos de los íconos en listas ordenadas de elementos. Incorporando las clases <code>icn-ul</code> e  <code>icn-li</code> se reemplazan las viñetas.
-         <br>
-     </p>
-
-     <ul class="icn-ul ejemplo">
-      <li><i class="icn icn-li icn-visto"></i>icn-visto</li>
-      <li><i class="icn icn-li icn-visto"></i>icn-visto</li>
-      <li><i class="icn icn-li icn-equis"></i>icn-equis</li>
-  </ul>
-
-  <script src="https://gist.github.com/creyesnav/11040069.js"></script>
+<code class='bloque'>&lt;ul class=&quot;icn-ul ejemplo&quot;&gt;
+    &lt;li&gt;&lt;span class=&quot;icn icn-li icn-visto&quot;&gt;&lt;/span&gt;icn-visto&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;icn icn-li icn-visto&quot;&gt;&lt;/span&gt;icn-visto&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;icn icn-li icn-equis&quot;&gt;&lt;/span&gt;icn-equis&lt;/li&gt;
+&lt;/ul&gt;</code>
 
   <h2>Íconos capitales</h2>
 
@@ -65,11 +64,19 @@ title: Usos
 </p>
 
 <p class="ejemplo">
-    <i class="icn icn-corazon icn-2x pull-left icn-border"></i>
-    Ícono a modo de letra capital.
+    <span class="icn icn-parrafo icn-2x pull-left icn-border"></span>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at mi varius, lobortis felis id, interdum enim. Proin tempus sollicitudin sagittis. Pellentesque ut gravida erat. Sed ut dolor sodales, semper justo nec, fringilla arcu. Maecenas consequat lectus odio, ut convallis erat tincidunt mattis. Vestibulum et dolor maximus lectus ultrices convallis quis sit amet libero. Phasellus rhoncus dolor vel nunc tincidunt, sed blandit est vestibulum. In ac sapien leo. Vivamus gravida mattis nunc in tristique. Praesent at libero dolor. 
 </p>
 
-<script src="https://gist.github.com/creyesnav/11040552.js"></script>
+<code class='bloque'>&lt;p class=&quot;ejemplo&quot;&gt;
+    &lt;span class=&quot;icn icn-parrafo icn-2x pull-left icn-border&quot;&gt;&lt;/span&gt;
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at mi varius, lobortis 
+    felis id, interdum enim. Proin tempus sollicitudin sagittis. Pellentesque ut gravida
+    erat. Sed ut dolor sodales, semper justo nec, fringilla arcu. Maecenas consequat lectus odio, 
+    ut convallis erat tincidunt mattis. Vestibulum et dolor maximus lectus ultrices convallis 
+    quis sit amet libero. Phasellus rhoncus dolor vel nunc tincidunt, sed blandit est vestibulum. 
+    In ac sapien leo. Vivamus gravida mattis nunc in tristique. Praesent at libero dolor.
+&lt;/p&gt;</code>
 
 <h2>Íconos rotados y volteados</h2>
 
@@ -83,15 +90,22 @@ title: Usos
 </p>
 
 <p class="ejemplo">
-    <i class="icn icn-imagen"></i> normal <br>
-    <i class="icn icn-imagen icn-rotate-90"></i> icn-rotate-90 <br>
-    <i class="icn icn-imagen icn-rotate-180"></i> icn-rotate-180 <br>
-    <i class="icn icn-imagen icn-rotate-270"></i> icn-rotate-270 <br>
-    <i class="icn icn-imagen icn-flip-horizontal"></i> icn-flip-horizontal <br>
-    <i class="icn icn-imagen icn-flip-vertical"></i>  icn-flip-vertical 
+    <span class="icn icn-imagen"></span> normal <br>
+    <span class="icn icn-imagen icn-rotate-90"></span> icn-rotate-90 <br>
+    <span class="icn icn-imagen icn-rotate-180"></span> icn-rotate-180 <br>
+    <span class="icn icn-imagen icn-rotate-270"></span> icn-rotate-270 <br>
+    <span class="icn icn-imagen icn-flip-horizontal"></span> icn-flip-horizontal <br>
+    <span class="icn icn-imagen icn-flip-vertical"></span>  icn-flip-vertical 
 </p>
 
-<script src="https://gist.github.com/creyesnav/180b8c3e77696676a0c4.js"></script>
+<code class='bloque'>&lt;p class=&quot;ejemplo&quot;&gt;
+    &lt;span class=&quot;icn icn-imagen&quot;&gt;&lt;/span&gt; normal
+    &lt;span class=&quot;icn icn-imagen icn-rotate-90&quot;&gt;&lt;/span&gt; icn-rotate-90
+    &lt;span class=&quot;icn icn-imagen icn-rotate-180&quot;&gt;&lt;/span&gt; icn-rotate-180
+    &lt;span class=&quot;icn icn-imagen icn-rotate-270&quot;&gt;&lt;/span&gt; icn-rotate-270
+    &lt;span class=&quot;icn icn-imagen icn-flip-horizontal&quot;&gt;&lt;/span&gt; icn-flip-horizontal
+    &lt;span class=&quot;icn icn-imagen icn-flip-vertical&quot;&gt;&lt;/span&gt;  icn-flip-vertical 
+&lt;/p&gt;</code>
 
 <h2>Íconos giratorios</h2>
 
@@ -102,12 +116,14 @@ title: Usos
 
 
 <p class='ejemplo'>
-    <i class="icn icn-engranaje icn-spin"></i> icn-engranaje 
-    <br>
-    <i class="icn icn-ciclo icn-spin icn-lg"></i> icn-ciclo
+    <span class="icn icn-engranaje icn-spin"></span> icn-engranaje <br>
+    <span class="icn icn-ciclo icn-spin icn-lg"></span> icn-ciclo
 </p>
 
-<script src="https://gist.github.com/creyesnav/10637306.js"></script>
+<code class='bloque'>&lt;p class='ejemplo'&gt;
+    &lt;span class=&quot;icn icn-engranaje icn-spin&quot;&gt;&lt;/span&gt; icn-engranaje
+    &lt;span class=&quot;icn icn-ciclo icn-spin icn-lg&quot;&gt;&lt;/span&gt; icn-ciclo
+&lt;/p&gt;</code>
 
 <h2>Íconos apilados</h2>
 
@@ -125,79 +141,54 @@ title: Usos
 </p>
 
 <p class="ejemplo">
-    <span class="icn-stack">
-        <i class="icn icn-cuadro icn-stack-2x"></i>
-        <i class="icn icn-twitter icn-stack-1x"></i>
-    </span>
-    icn-cuadro / icn-twitter
+<span class="icn-stack">
+    <span class="icn icn-cuadro icn-stack-2x"></span>
+    <span class="icn icn-twitter icn-stack-1x"></span>
+</span>
 
-    <br>
-    <br>
-    <span class="icn-stack">
-        <i class="icn icn-cuadrolleno icn-stack-2x"></i>
-        <i class="icn icn-facebook icn-stack-1x icn-inverse"></i>
-    </span>
-    icn-cuadro-lleno / icn-facebook
-
-    <br><br>
-
-    <span class="icn-stack icn-lg">
-        <i class="icn icn-parlante icn-stack-1x"></i>
-        <i class="icn icn-prohibir icn-stack-2x rojo"></i>
-    </span>
-
-    icn-parlante / icn-prohibir
-
-    <script src="https://gist.github.com/creyesnav/11040445.js"></script>
+<span class="icn-stack">
+    <span class="icn icn-cuadrolleno icn-stack-2x"></span>
+    <span class="icn icn-facebook icn-stack-1x icn-inverse"></span>
+</span>
 
 
-     <br><br>
+<span class="icn-stack icn-lg">
+    <span class="icn icn-parlante icn-stack-1x"></span>
+    <span class="icn icn-prohibir icn-stack-2x rojo"></span>
+</span>
 
-    <span class="icn-stack icn-lg">
-        <i class="icn icn-circulolleno icn-stack-2x naranja"></i>
-        <i class="icn icn-rss  icn-inverse icn-stack-1x"></i>
-    </span>
+<span class="icn-stack icn-lg">
+    <span class="icn icn-circulolleno icn-stack-2x naranja"></span>
+    <span class="icn icn-rss  icn-inverse icn-stack-1x"></span>
+</span>
+</p>
 
-    <h2>Íconos con estilos CSS3</h2>
+<code class='bloque'>&lt;span class=&quot;icn-stack&quot;&gt;
+    &lt;span class=&quot;icn icn-cuadro icn-stack-2x&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;icn icn-twitter icn-stack-1x&quot;&gt;&lt;/span&gt;
+&lt;/span&gt;
 
-    <p>
-        A las funciones previamente establecidas de Stampa, se le pueden agregar los estilos y clases del framework Pyxis, diseñado especialmente para la Escuela de Arquitectura y Diseño PUCV; cambiando así el color, agregando sombra, etc.
-        <br>
-    </p>
+&lt;span class=&quot;icn-stack&quot;&gt;
+    &lt;span class=&quot;icn icn-cuadrolleno icn-stack-2x&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;icn icn-facebook icn-stack-1x icn-inverse&quot;&gt;&lt;/span&gt;
+&lt;/span&gt;
 
-    <p class='ejemplo'>
-        <span class="icn-stack icn-lg">
-          <i class="icn icn-cuadrolleno icn-stack-2x azul"></i>
-          <i class="icn icn-facebook icn-stack-1x icn-inverse"></i>
-      </span>
 
-      icn-cuadro / icn-facebook
+&lt;span class=&quot;icn-stack icn-lg&quot;&gt;
+    &lt;span class=&quot;icn icn-parlante icn-stack-1x&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;icn icn-prohibir icn-stack-2x rojo&quot;&gt;&lt;/span&gt;
+&lt;/span&gt;
 
-      <br><br>
+&lt;span class=&quot;icn-stack icn-lg&quot;&gt;
+    &lt;span class=&quot;icn icn-circulolleno icn-stack-2x naranja&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;icn icn-rss  icn-inverse icn-stack-1x&quot;&gt;&lt;/span&gt;
+&lt;/span&gt;</code>
 
-      <span class="icn-stack">
-          <i class="icn icn-ojo icn-stack-1x"></i>
-          <i class="icn icn-prohibir icn-stack-2x rojo"></i>
-      </span>
 
-      icn-camara / icn-prohibir
-
-      <br><br>
-
-      <span class="icn-stack icn-lg">
-          <i class="icn icn-circulo-lleno icn-stack-2x naranja"></i>
-          <i class="icn icn-rss icn-stack-1x icn-inverse"></i> 
-      </span>
-
-      icn-circulo-lleno / icn-rss
-  </p>
-
-  <script src="https://gist.github.com/creyesnav/392e9c14a39e1a75dd6d.js"></script>
-
-  <h4>Área de Pruebas</h4>
-  <p>Este espacio opera con la tipografía Web Stampa. Escribe los nombres de los íconos; no verás las letras, pero al completar el nombre aparecerá el caracter correspondiente:</p>
-  <h2>Regular</h2>
-  <textarea class='icn icn-xl'>acto</textarea>
-  <h2>Ligera</h2>
-  <textarea class='icn icn-light icn-xl'>acto</textarea>
+<h4>Área de Pruebas</h4>
+<p>Este espacio opera con la tipografía Web Stampa. Escribe los nombres de los íconos; no verás las letras, pero al completar el nombre aparecerá el caracter correspondiente:</p>
+<h2>Regular</h2>
+<textarea class='icn icn-xl'>acto</textarea>
+<h2>Ligera</h2>
+<textarea class='icn icn-light icn-xl'>acto</textarea>
 </div>
