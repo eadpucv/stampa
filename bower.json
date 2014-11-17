@@ -1,10 +1,11 @@
 {
 	"name": "stampa",
-	"version": "3.1.0",
+	"version": "4.0.1",
 	"main": "index.md",
 	"homepage": "https://github.com/eadpucv/stampa",
 	"authors": [
-	"Catalina Reyes <c.reyesnav@gmail.com>"
+	"Catalina Reyes <c.reyesnav@gmail.com>",
+	"Herbert Spencer <hspencer@ead.cl>"
 	],
 	"description": "Iconografía de la escuela de arquitectura y diseño PUCV",
 	"ignore": [

@@ -39,7 +39,7 @@ h1{
 h2{
 	color: @color-stampa;
 	font-size: 31px;
-	font-weight: 500;
+	font-weight: 900;
 	color: rgba(69, 71, 71, 1);
 	clear: both;
 	margin-top: 70px;
@@ -48,12 +48,12 @@ h2{
 h3{
 	color: @color-stampa;
 	font-size: 19px;
-	font-weight: 100;
+	font-weight: 900;
 }
 
 h4 {
 	font-size: 19px;
-	font-weight: 400;
+	font-weight: 900;
 	color: @color-stampa;
 }
 
@@ -66,34 +66,21 @@ h5 {
 	margin-bottom: 105px;
 }
 
+p{
+	line-height: 140%;
+}
+
 a,ul,li{
 	text-decoration: none;
 	list-style: none;
 }
 
-h4 a:link{
-	font-weight: 400;
-	color:@color-stampa;
-}
-
-h4 a:visited{
-	color:@color-stampa;
-}
-
-h4 a:hover{
-	color:@color-stampa;
-}
-
-h4 a:active{
-	color:@color-stampa;
-}
 
 .content{
 	width: 75%;
 	margin: auto;
 	a{
 		&:link{
-			font-weight: 400;
 			color:@color-stampa;
 		}
 		&:visited{
@@ -113,6 +100,10 @@ h4 a:active{
 	margin: 0px auto;
 }
 
+.version{
+	font-size: 12px;
+	color: @color-blanco;
+}
 
 /* Header y footer */
 
@@ -214,34 +205,17 @@ table td span{
 code{
 	display: inline-block;
 	font-family: @mono;
-	background-color: white;
+	white-space: pre;
+	background-color: fade(@color-negro, 70);
 	padding: .3ex 1ex;
-	color: rgba(69, 71, 71, 1);
-	border: solid rgba(226, 226, 226, 1) 1px;
-	.border-radius(4px);
+	color: @color-blanco;
+	text-shadow: -1px -1px 0 @color-negro;
+	.border-radius(6px);
 	font-size: 14px;
-}
-
-.gist{
-margin: 0px 0px !important;
-font-size: 11px !important;
-}
- 
-.gist-file{
-border: none !important;
-}
- 
-.gist-meta{
-border: 1px solid @color-gris;
-padding: 12px !important;
- 
-}
- 
-.gist-data{
-padding: 15px !important;
-border: 1px solid @color-gris;
-background-color: @color-blanco;
-border-bottom: none !important;
+	&.bloque{
+		padding: .5em 1em;
+		width: 100%
+	}
 }
 
 
@@ -335,3 +309,8 @@ border-bottom: none !important;
 .xxl{
 	font-size: 72px;
 }
+
+
+.rojo{color: #d91419}
+.naranja{color: #de6708}
+.azul{color: #2d5ebc}
