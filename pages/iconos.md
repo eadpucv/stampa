@@ -172,7 +172,6 @@ title: Íconos
     {% include icn-light.html name='email'%}
     {% include icn-light.html name='engranaje'%}
     {% include icn-light.html name='enlace'%}
-    {% include icn-light.html name=''%}
     {% include icn-light.html name='estrella'%}
     {% include icn-light.html name='etiqueta'%}
     {% include icn-light.html name='grafico'%}
